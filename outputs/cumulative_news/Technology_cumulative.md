@@ -1,7 +1,87 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-26 23:20
+**最后更新时间**: 2025-12-27 23:12
+
+---
+
+## 🆕 最新更新 (2025-12-27 23:12)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [百度将于2026年在英国测试无人驾驶；香飘飘拟在泰国投资建设生产基地；小鹏公布中东非市场进展｜一周大公司出海动态](https://www.tmtpost.com/7823124.html)
+**发布时间**: 2025-12-27 20:01
+
+#### [豆瓣9.6分，Netflix怒砸4.8亿美元的悬疑王炸，结局封神](https://www.tmtpost.com/7823209.html)
+**发布时间**: 2025-12-27 18:41
+
+#### [从植脂末到咖啡因，霸王茶姬“罪”不在茶](https://www.tmtpost.com/7823185.html)
+**发布时间**: 2025-12-27 17:50
+
+#### [70后中专生逆袭，网红按摩仪如何“按”出10亿生意](https://www.tmtpost.com/7823178.html)
+**发布时间**: 2025-12-27 17:50
+
+#### [84%中国人误认的“国货”利润骤降，日本饮料巨头的中国光环正在褪色](https://www.tmtpost.com/7823106.html)
+**发布时间**: 2025-12-27 16:32
+
+#### [预估3万亿，特斯拉用AI攥住美股的话语权](https://www.tmtpost.com/7823144.html)
+**发布时间**: 2025-12-27 16:32
+
+#### [国家首批零碳园区名单落定： 52个园区的“零碳”军备赛已打响](https://www.tmtpost.com/7823004.html)
+**发布时间**: 2025-12-27 14:55
+
+#### [1400亿收编Groq，英伟达的收购史，以及黄仁勋的并购逻辑](https://www.tmtpost.com/7822982.html)
+**发布时间**: 2025-12-27 14:31
+
+#### [AI时代，开放互联网还有没有机会？](https://www.tmtpost.com/7822997.html)
+**发布时间**: 2025-12-27 14:17
+
+#### [1000亿资金进场，风险投资国家队要干件“大”事 | 马上评](https://www.tmtpost.com/7823014.html)
+**发布时间**: 2025-12-27 14:13
+
+#### [益方生物赴港提速，前三季度营收增长、亏损收窄，授权合作一劳永逸？](https://www.tmtpost.com/7823001.html)
+**发布时间**: 2025-12-27 13:55
+
+#### [糖水“翻红”，这次能火多久？](https://www.tmtpost.com/7823003.html)
+**发布时间**: 2025-12-27 13:53
+
+#### [手握11亿美金现金，MiniMax赴港IPO，不为输血为哪般？](https://www.tmtpost.com/7822967.html)
+**发布时间**: 2025-12-27 13:46
+
+#### [子公司停产，跨界光伏 25 年的老牌药企梦碎](https://www.tmtpost.com/7823025.html)
+**发布时间**: 2025-12-27 13:46
+
+#### [无遥控机器狗走进生活，消费级具身智能时代来了？](https://www.tmtpost.com/7822826.html)
+**发布时间**: 2025-12-27 11:08
+
+#### [第三次小火锅消费潮：既要吃饱，更要吃好](https://www.tmtpost.com/7822820.html)
+**发布时间**: 2025-12-27 11:07
+
+#### [重磅！以岭药业荣膺全球化先锋企业](https://www.tmtpost.com/7822855.html)
+**发布时间**: 2025-12-27 10:58
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [GitHub 上 5000 人收藏的 Vibe Coding 神级指南。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529972&idx=1&sn=f5f2730e197afee0df4dbc951e3d0ce5)
+**发布时间**: 2025-12-27 15:03
+
+#### [国产 OCR 开源神器官网上线了，相当给力。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247529971&idx=1&sn=213d22243a5502e25d2d8fd91ba48832)
+**发布时间**: 2025-12-26 18:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [AI 饭局装腔指南：3 分钟速成行业大佬](https://sspai.com/post/104832)
+**发布时间**: 2025-12-27 14:47
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [存储通胀时代的架构突围：为何 2025 年是企业告别传统 IT 的“分水岭”？](https://www.infoq.cn/article/PiKd5qvf3L7NQRYqwSvj?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-27 13:37
+
+#### [用完刚开源的MiniMax，我们决定给它发个工牌](https://www.infoq.cn/article/6wcUOQyS72vW5bKOVMar?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-27 10:00
+
+#### [亚马逊云科技推出 ECS Express 模式，让容器化应用部署更简单](https://www.infoq.cn/article/w4MIKR6Q1AjojM32gKSg?utm_source=rss&utm_medium=article)
+**发布时间**: 2025-12-27 08:00
 
 ---
 
