@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-28 23:12
+**最后更新时间**: 2025-12-29 05:29
+
+---
+
+## 🆕 最新更新 (2025-12-29 05:29)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [China launches military drills around Taiwan](https://www.ft.com/content/fd7c69e5-b3cf-4b4f-927a-fb7f0c2cdc93)
+**发布时间**: 2025-12-29 04:57
+
+#### [Trump and Zelenskyy talks fail to deliver breakthrough on Ukraine peace deal](https://www.ft.com/content/f88fd9e5-df0e-45d6-af8e-29b5f53a41a4)
+**发布时间**: 2025-12-29 00:21
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [U.S. stock futures flat, silver gains again as investors hope to start 2026 on a roll](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-still-hope-to-start-2026-on-a-roll-84169caf?mod=mw_rss_topstories)
+**发布时间**: 2025-12-29 03:55
 
 ---
 
