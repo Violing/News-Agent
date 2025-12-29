@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2025-12-29 05:29
+**最后更新时间**: 2025-12-29 08:20
+
+---
+
+## 🆕 最新更新 (2025-12-29 08:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [‘Capital of capital’: how Abu Dhabi rose as a sovereign wealth power](https://www.ft.com/content/711e670c-4832-49cb-8b10-5018103ec785)
+**发布时间**: 2025-12-29 05:00
+
+#### [The AI boom is not a bubble](https://www.ft.com/content/f2294add-f53a-4112-b284-29843a023b6f)
+**发布时间**: 2025-12-29 05:00
+
+#### [The rise of the side hustle](https://www.ft.com/content/799fa043-407a-498b-a22d-ae677f514216)
+**发布时间**: 2025-12-29 05:00
+
+#### [Accounting body scraps remote exams to combat cheating](https://www.ft.com/content/52e70f3e-d0e8-462c-8ac1-f08a684dfca2)
+**发布时间**: 2025-12-29 05:00
+
+#### [UK needs £800bn of new funding by 2040 to meet defence pledge, says report](https://www.ft.com/content/77380765-7212-45fd-b4ef-4ea7cb4baee2)
+**发布时间**: 2025-12-29 05:00
+
+#### [Europe’s largest defence groups set to return $5bn to shareholders in 2025](https://www.ft.com/content/79c31767-ccac-4669-a299-3d2e9b797c6d)
+**发布时间**: 2025-12-29 03:00
 
 ---
 
