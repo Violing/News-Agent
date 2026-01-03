@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 03 Jan 2026 05:14:00 GMT</pubDate>
-    <lastBuildDate>Sat, 03 Jan 2026 05:14:23 GMT</lastBuildDate>
+    <pubDate>Sat, 03 Jan 2026 08:16:00 GMT</pubDate>
+    <lastBuildDate>Sat, 03 Jan 2026 08:18:21 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>2026-01-03日刊</title>
-      <link>https://ai.hubtoday.app//2026-01/2026-01-03/</link>
-      <description>&lt;![CDATA[2026-01-03日刊]]&gt;</description>
-      <pubDate>Sat, 03 Jan 2026 07:55:00 GMT</pubDate>
-      <guid isPermaLink="true">https://ai.hubtoday.app//2026-01/2026-01-03/</guid>
+      <title>中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊</title>
+      <link>https://www.qbitai.com/2026/01/366477.html</link>
+      <description>&lt;![CDATA[中国“人造太阳”突破密度极限，聚变点火迎来新路径 | Science子刊]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 07:02:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366477.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满</title>
+      <link>https://www.qbitai.com/2026/01/366466.html</link>
+      <description>&lt;![CDATA[机器人也怕疼！港城突破性电子皮肤：主动痛觉+损伤自检buff拉满]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 06:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366466.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>百度AI芯片公司冲刺IPO：出货量国产第二</title>
+      <link>https://www.qbitai.com/2026/01/366454.html</link>
+      <description>&lt;![CDATA[百度AI芯片公司冲刺IPO：出货量国产第二]]&gt;</description>
+      <pubDate>Sat, 03 Jan 2026 06:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/01/366454.html</guid>
       <category>Ai</category>
     </item>
   </channel>
