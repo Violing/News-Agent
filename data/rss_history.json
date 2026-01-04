@@ -2,66 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "8c4f96d07598555fa4fd03ec52fcbd5ad943f0187102d0a8448fd982ac3b2cfd": {
-        "title": "腾讯发布 EdgeOne Pages 正式版：国内首个边缘全栈开发平台，内测阶段用户突破15万",
-        "link": "https://www.infoq.cn/article/zpf31KMDKJwZV9thOJKM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 11:16:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930501"
-      },
-      "729bdc838a4c72d76d3f65ae085d5f22a463f56bfbfeed5a59249d9d35aa4c0e": {
-        "title": "微软的Azure Cobalt 200 ARM芯片带来了50%的性能提升",
-        "link": "https://www.infoq.cn/article/XSpf3Kx8xGV15D2LfAtO?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 13:00:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930511"
-      },
-      "45de75a2fa3fabee9576cd3f2323ff5c29c9c7eb6c8039ee0530f56ee017d655": {
-        "title": "“中国版英伟达”摩尔线程上市首日暴涨，国产芯片股集体狂欢",
-        "link": "https://www.tmtpost.com/7796786.html",
-        "published_date": "Fri, 05 Dec 2025 12:06:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930513"
-      },
-      "9ab3a38359e90997b329f00f9109346e4d4c074e92297cfdbf07274ca78c1d54": {
-        "title": "安克创新招股书里的AB面：高增长叙事与供应链裂痕",
-        "link": "https://www.tmtpost.com/7797315.html",
-        "published_date": "Fri, 05 Dec 2025 11:50:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930515"
-      },
-      "ec72143be772cba2ee487dffb1f51ca4ef316f91bd3362dce7f5dc11571b7a07": {
-        "title": "夸克AI眼镜S1一手实测 and 小编们の聊天局｜AI的n次方",
-        "link": "https://www.infoq.cn/video/eBNUzJy2m1W5UEqC8tiM?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 12:09:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930516"
-      },
-      "aa01fc115f9150f89c15f76c8ce6d5e387b188771ce4f4d350e2ea8dccbcbe52": {
-        "title": "CTO 焦虑自白：为什么我们有了 AI 博士生，但员工却越干越累？｜InfoQ《极客有约》",
-        "link": "https://www.infoq.cn/video/UhEeVxdFNDd2HzStU7Ec?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 11:59:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930518"
-      },
-      "b620e050ec3c194b69ffe760e88ea446319dda2ba48ba98adee57a798f31cee7": {
-        "title": "Aspire 13 带来了多语种支持和多项显著改进",
-        "link": "https://www.infoq.cn/article/Mf4iA4kVmah61PjJj8Wt?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930520"
-      },
-      "6122b43c918eb17b37567050dd2ef95d3873feeac78e5170aae84cd5a89c68fb": {
-        "title": "Groundcover使用可观察性迁移工具瞄准Datadog用户",
-        "link": "https://www.infoq.cn/article/j2FPLWc7czKVdZksde6v?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 11:28:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930522"
-      },
-      "638a56a9805f5de033469aa327f46683cb3ab3e1bf16935c71fdc96456234917": {
-        "title": "京东、飞猪、云知声、蚂蚁专家复盘，揭秘 AI 提效的 4 本实战账本 | AICon",
-        "link": "https://www.infoq.cn/article/QktMCDpImuBotYhFhVpc?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930524"
-      },
-      "03b4d7d5e034da5b63bcfadd3abb976f5c1e2eddea8e26154c25a7b66e777f14": {
-        "title": "让表格会思考，多智能体重构大数据自助分析｜AICon北京",
-        "link": "https://www.infoq.cn/article/MRcqeCqEbFKARTizgk1c?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 05 Dec 2025 10:55:00 GMT",
-        "first_seen": "2025-12-05T05:27:03.930525"
-      },
       "f967eec015b1f53cd927e557921df15757d8a6860cfbc44ad2bd5e9dae57e5c7": {
         "title": "山姆搞成现在这样，是因为阿里前高管吗？",
         "link": "http://www.huxiu.com/article/4813554.html?f=wangzhan",
@@ -4177,69 +4117,75 @@
         "link": "https://sspai.com/post/104956",
         "published_date": "Sun, 04 Jan 2026 11:03:00 GMT",
         "first_seen": "2026-01-04T05:21:11.227408"
+      },
+      "ebb231e868fdf6efe5368582596e560a14610e0b79e90484fd695085ad9e11db": {
+        "title": "HDD，为何再成焦点",
+        "link": "https://www.tmtpost.com/7829835.html",
+        "published_date": "Sun, 04 Jan 2026 15:48:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535271"
+      },
+      "3252cf56948368dd90cb8e94d028e3e4ada71b10c8db60573be3f1e02fdd32d1": {
+        "title": "2025电影票房破518亿，但观众还信不信电影？",
+        "link": "https://www.tmtpost.com/7829697.html",
+        "published_date": "Sun, 04 Jan 2026 15:48:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535277"
+      },
+      "8b0b91c92340626f7a5b80fdc1a73d49b340ee5121a5b02177587d193193debd": {
+        "title": "大宗盘点：碳酸锂翻倍的这一年",
+        "link": "https://www.tmtpost.com/7829772.html",
+        "published_date": "Sun, 04 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535279"
+      },
+      "81f5efd9f8651d90192f6d994f61e6dcf98938aa2af8f99afde3dbded3db4b8b": {
+        "title": "2026伊始，用21个趋势关键词开启文娱行业新一年",
+        "link": "https://www.tmtpost.com/7829691.html",
+        "published_date": "Sun, 04 Jan 2026 14:41:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535281"
+      },
+      "60d5443a57e8e02e68468fe80177e2b2114ef39ed6811fbd981eeebeef86a0fb": {
+        "title": "回望2025：中国音乐产业的十个关键词",
+        "link": "https://www.tmtpost.com/7829700.html",
+        "published_date": "Sun, 04 Jan 2026 14:12:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535283"
+      },
+      "2acb9f6261a118a88970b614896f0c9e24a3ad2e38fb45f3f61784300acfbbf9": {
+        "title": "DeepSeek上新mHC，R2还远吗？",
+        "link": "https://www.tmtpost.com/7829944.html",
+        "published_date": "Sun, 04 Jan 2026 13:48:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535284"
+      },
+      "97761ddde6ef31255d519f1350d0c75fb8d3f0a5568001c01089d193caf56d51": {
+        "title": "创新药2026：迎接美好新时代",
+        "link": "https://www.tmtpost.com/7829825.html",
+        "published_date": "Sun, 04 Jan 2026 13:34:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535285"
+      },
+      "bdbee2c945ea0f4246d55c184e8f6709446ea8203cc39042bcaa8a2bbd047e1c": {
+        "title": "亚马逊云科技宣布推出新的Amazon EKS Capabilities，以简化工作负载编排",
+        "link": "https://www.infoq.cn/article/ssGkMmJCUTZMdJOphMJy?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 15:16:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535287"
+      },
+      "8bd5d3a5e572e18a8576f365d582281892073b4b33484f0be74d62af2a4f0e3a": {
+        "title": "从 SQL 到自然语言，下一代 Lakehouse 为何必须「AI 优先」",
+        "link": "https://www.infoq.cn/article/czQMOPvukyw3cVREDrKL?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 14:45:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535288"
+      },
+      "3fada99b021ccbca156dff7dbfccb50e18aac6f58db6d3efb22af187ef481cbe": {
+        "title": "东南亚和印度的开发者在2025年是如何使用AI的",
+        "link": "https://www.infoq.cn/article/5lKZurpwRFlUo3tdLxuU?utm_source=rss&utm_medium=article",
+        "published_date": "Sun, 04 Jan 2026 14:05:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535289"
+      },
+      "d0750ffe123c71b0268ab9459dada09c81f8af66ce1e7fe79a492d59933c6b79": {
+        "title": "让 AI 接管 Windows 和 MacOS，这个 GitHub 开源项目牛啊。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530338&idx=1&sn=0207a9a3544dac385584b4c7465d1660",
+        "published_date": "Sun, 04 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.535290"
       }
     },
     "Finance": {
-      "bc92e1632daf1c0f4f4d12631ca5f3d9b97f444e9208b5c218f58106aedd8ecf": {
-        "title": "US stocks set for double-digit gains in 2026, say Wall Street banks",
-        "link": "https://www.ft.com/content/0c133aab-0e90-44d1-9709-2c1359a86758",
-        "published_date": "Fri, 05 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368800"
-      },
-      "194e2b6ba97d8c91c03dc335dda2d51a47b692ee62a477451ea2206658cd7541": {
-        "title": "The people who shaped the world this year",
-        "link": "https://www.ft.com/content/420f54c4-404c-475e-982e-ab1a2293aef8",
-        "published_date": "Fri, 05 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368810"
-      },
-      "e77dff5a74c1b83dc47e2c91e1059e6c1c491f57ba65228d22866d6511aa0ec3": {
-        "title": "There’s a black hole where central banks’ theory of inflation should be",
-        "link": "https://www.ft.com/content/7d8f49a1-6a88-425f-b0ce-0d8c604be96c",
-        "published_date": "Fri, 05 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368813"
-      },
-      "396f4da79e44b4d47255100b61e7bad7f1f0481655d931a2c8d7f879b99e144d": {
-        "title": "Merz jets to Belgium to secure frozen Russian assets plan",
-        "link": "https://www.ft.com/content/4283c2e3-6f74-415f-a4b3-9569dd94a182",
-        "published_date": "Fri, 05 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368814"
-      },
-      "765344ee1a5202ae69aac94b36194590c6c58654cd44a0810813bd3980e21fbb": {
-        "title": "Fifa to award ‘peace prize’ after Trump pipped to Nobel",
-        "link": "https://www.ft.com/content/7781bafa-83c2-4dbb-8416-ffc69ea0a187",
-        "published_date": "Fri, 05 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368816"
-      },
-      "23e31b11a171a2e816d3085eb8e0fc6a1079e605f4d63ca2c693fd44f263473a": {
-        "title": "SoFi’s red-hot stock drops after plan to raise $1.5 billion in stock offering",
-        "link": "https://www.marketwatch.com/story/sofis-red-hot-stock-drops-after-plan-to-raise-1-5-billion-in-stock-offering-71f256aa?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 03:31:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368818"
-      },
-      "31e24d574ddd63f8acbcbd4ea4bfbefc601945a748805269b9c5b968f2ff3387": {
-        "title": "Americans’ affordability crisis isn’t tariffs’ fault — it’s something much, much deeper",
-        "link": "https://www.marketwatch.com/story/americans-affordability-crisis-isnt-tariffs-fault-its-something-much-much-deeper-9b74ccfb?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 01:39:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368819"
-      },
-      "a959f321b3038e1ca82efe9d3783ae130f7ab5040e1a9b1fac319c20aaadf2ee": {
-        "title": "Why Microsoft’s controversial OpenAI partnership is actually a safety net for the stock",
-        "link": "https://www.marketwatch.com/story/why-microsofts-controversial-openai-partnership-is-actually-a-safety-net-for-the-stock-bc2a408a?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 00:30:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368820"
-      },
-      "48379df7ecaabf77dc148dd6af8816e3583c9bf904d60c50626421ab3b69efda": {
-        "title": "This analyst’s top chip pick isn’t flashy, but it could benefit from ‘unprecedented’ momentum",
-        "link": "https://www.marketwatch.com/story/this-analysts-top-chip-pick-isnt-flashy-but-it-could-benefit-from-unprecedented-momentum-62748538?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 00:27:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368822"
-      },
-      "245bd38e1fb1c52e3587479b433f1d4de149ad6739324140b60aae24e98a4517": {
-        "title": "Even Paramount now thinks Netflix is winning the bidding war for Warner Bros. Discovery",
-        "link": "https://www.marketwatch.com/story/even-paramount-now-thinks-netflix-is-winning-the-bidding-war-for-warner-bros-discovery-916afac0?mod=mw_rss_topstories",
-        "published_date": "Fri, 05 Dec 2025 00:21:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.368823"
-      },
       "0de234713c32dfbbcd60f775871904585cf2cd5b2899d0df7da237fbd3b15bf5": {
         "title": "Warner Bros in exclusive talks with Netflix about studio and streaming sale",
         "link": "https://www.ft.com/content/1b51ca71-9a86-46f5-bdc4-cbd6831b755f",
@@ -6498,36 +6444,6 @@
       }
     },
     "Ai": {
-      "a62e400e7a895cc95ddeb87bb18981588cbe06f94a613b925922545da5db7e8e": {
-        "title": "字节前技术负责人创业，联手清华姚班校友，编程智能体世界登顶",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05-6",
-        "published_date": "Fri, 05 Dec 2025 13:12:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.491926"
-      },
-      "adab65c4b0d77795be5872cf18426ca2b061ba132339f2e9ff8ac6fe80d4a8ad": {
-        "title": "基于文本AI的终结？Agent协作可直接「复制思维」，Token效率暴涨",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05-5",
-        "published_date": "Fri, 05 Dec 2025 13:06:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.491935"
-      },
-      "722b20d0a032d50a8dc9d0699ff28829e996b55d2f924be28f79e930e898d51e": {
-        "title": "首帧的真正秘密被揭开了：视频生成模型竟然把它当成「记忆体」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05-4",
-        "published_date": "Fri, 05 Dec 2025 13:02:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.491937"
-      },
-      "4d9002ae3bceb4520ba3c4eb4a29143459d524c1cb44cf184a6651a1ae24a45c": {
-        "title": "刚刚，2026年英伟达奖学金名单公布，华人博士生霸榜占比80%",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05-3",
-        "published_date": "Fri, 05 Dec 2025 11:16:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.491938"
-      },
-      "a6c92631f492b6d88bee506a70e54c70da7ee45c2ae043a2c8e5305051649823": {
-        "title": "告别「2D错觉」，SpatialActor通过解耦语义与几何，为具身智能注入强鲁棒空间基因",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05-2",
-        "published_date": "Fri, 05 Dec 2025 11:11:00 GMT",
-        "first_seen": "2025-12-05T05:26:54.491940"
-      },
       "c65bf196d0dd8719edbbe3908eebb0cb44f61970662d21e51ff14e473f8adf96": {
         "title": "2025-12-05日刊",
         "link": "https://ai.hubtoday.app//2025-12/2025-12-05/",
@@ -8759,13 +8675,49 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-04/",
         "published_date": "Sun, 04 Jan 2026 07:55:00 GMT",
         "first_seen": "2026-01-04T05:21:11.119484"
+      },
+      "d63af544f5c140ec26478a1e571ba3eb520cb09a14a9cfd6d8076bc830d4adde": {
+        "title": "从「被动」到「主动」，为什么给耳机装上「眼睛」后AI范式变了？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-10",
+        "published_date": "Sun, 04 Jan 2026 14:44:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433240"
+      },
+      "6e70f03bb36802201e52ca1879f902ad315264389b336f14bedca3e50bc6bfe1": {
+        "title": "500万人在线围观，Claude Code创建者的13条独家实战秘籍爆火",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-9",
+        "published_date": "Sun, 04 Jan 2026 14:35:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433249"
+      },
+      "be5dd4558bbf844edabd54662ded5e752522955763b056a64495bd052342c787": {
+        "title": "AAAI 2026 | 小鹏联合北大，专为VLA模型定制视觉token剪枝方法，让端到端自动驾驶更高效",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-8",
+        "published_date": "Sun, 04 Jan 2026 14:29:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433252"
+      },
+      "1bf9021a3b682ddfb5efcd557b58900d1f880eb6937dc757a68bc7f8bc66e0ee": {
+        "title": "统一结构与上下文信息的计算平台，德国慕尼黑大学等提出端到端的单细胞扰动分析框架",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-04-7",
+        "published_date": "Sun, 04 Jan 2026 14:06:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433254"
+      },
+      "de9a09b943835197e2f58ef92cbcd86b376c18bfd1c666573ff814aca3c54ed6": {
+        "title": "樱智α·医疗可信平台全新发布，北电数智与中日友好医院联合打造",
+        "link": "https://www.qbitai.com/2026/01/366524.html",
+        "published_date": "Sun, 04 Jan 2026 06:02:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433256"
+      },
+      "33254e4394f08639c0dbb66d6bff0855c5c7db0ead7d171c4a07b1ee195fcaf8": {
+        "title": "LeCun曝Meta作弊刷榜，田渊栋：我没想到这个结局",
+        "link": "https://www.qbitai.com/2026/01/366511.html",
+        "published_date": "Sun, 04 Jan 2026 05:44:00 GMT",
+        "first_seen": "2026-01-04T08:18:27.433257"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-04T05:21:11.227410",
+    "Technology": "2026-01-04T08:18:27.535292",
     "Finance": "2026-01-04T05:21:11.010296",
-    "Ai": "2026-01-04T05:21:11.119494"
+    "Ai": "2026-01-04T08:18:27.433259"
   }
 }
