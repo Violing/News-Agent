@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 05:18
+**最后更新时间**: 2026-01-06 08:24
+
+---
+
+## 🆕 最新更新 (2026-01-06 08:24)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Eni, Repsol fight to recoup $6bn in gas payments from Venezuela](https://www.ft.com/content/6cf5711c-021a-415f-b32c-8b8bf34a4c82)
+**发布时间**: 2026-01-06 05:00
+
+#### [The long wait of María Corina Machado](https://www.ft.com/content/018694dc-7123-4f84-83dd-2d6f4d8de933)
+**发布时间**: 2026-01-06 05:00
+
+#### [London office shortage forces big companies to stay put](https://www.ft.com/content/53363bf1-3431-4019-b3f2-302811853236)
+**发布时间**: 2026-01-06 05:00
+
+#### [Trump’s Greenland claim leaves Europe struggling for an answer](https://www.ft.com/content/c1c8abb1-5c09-46b0-a1d3-68341c4e5d98)
+**发布时间**: 2026-01-06 05:00
+
+#### [Telegram hit by $500mn Russian bond freeze](https://www.ft.com/content/36a37387-cb71-4851-a56f-de2571d520d8)
+**发布时间**: 2026-01-06 05:00
 
 ---
 

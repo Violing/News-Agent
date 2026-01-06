@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "79ac439cf67dbd0074797c5fc2c8165727a8016238a9d59a53dc7e22b718776a": {
-        "title": "【数智周报】华为任正非：大量建设大模型是正确的探索，未来算力一定过剩；豆包手机助手触发微信账号强制下线？豆包、微信双方回应；亚马逊推出定制AI芯片Trainium3",
-        "link": "https://www.tmtpost.com/7799625.html",
-        "published_date": "Sun, 07 Dec 2025 11:05:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398771"
-      },
-      "f509841b004c1b5e3fd111d46539e061fca9a67ab498fdbad9881badc93164ec": {
-        "title": "马斯克：SpaceX估值8000亿美元不准确；传阿里系App禁豆包手机登录；140 万，领克 03+ TCR开售秒光",
-        "link": "http://www.geekpark.net/news/357693",
-        "published_date": "Sun, 07 Dec 2025 08:06:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398778"
-      },
-      "a90b4ab17f38c2272d120658129df1ca86dee2187726c55f3b853dbcbcfdc0d9": {
-        "title": "System Initiative公布了实时多云发现和自动化的扩展",
-        "link": "https://www.infoq.cn/article/ePAoHPYtJB876Gf274SE?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398780"
-      },
-      "142ab4472ca294f89da4cfaeb2cde1e36673eebc276d120f355b2943a23f66b1": {
-        "title": "百度资深架构师颜志杰确认出席AICon北京站，分享Coding Agent在企业大规模落地的实践与挑战",
-        "link": "https://www.infoq.cn/article/6fAS6mvUzprAVav2Gvve?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398782"
-      },
-      "17849d8af008f40e6d6c118d092d925ca485ef2f1f4a922525544bd3bad2ba6b": {
-        "title": "re:Invent 2025 特别企划之“五天五问”Day4 视野的合流——预告片",
-        "link": "https://www.infoq.cn/video/1YWiveG6iCxAB60ZD4dS?utm_source=rss&utm_medium=article",
-        "published_date": "Sun, 07 Dec 2025 11:38:00 GMT",
-        "first_seen": "2025-12-07T05:20:44.398784"
-      },
       "aec8c397432ad6428659af946a9f7c9d8db4a6af87aa5b46f8ee921b342c4985": {
         "title": "KubeCon NA 2025：Robert Nishihara讨论了使用Kubernetes、Ray、PyTorch和vLLM进行开源AI计算",
         "link": "https://www.infoq.cn/article/dczheUgoX86KGZo7USe9?utm_source=rss&utm_medium=article",
@@ -4531,39 +4501,111 @@
         "link": "http://www.huxiu.com/article/4823296.html?f=wangzhan",
         "published_date": "Tue, 06 Jan 2026 08:00:00 GMT",
         "first_seen": "2026-01-06T05:18:05.049445"
+      },
+      "89ce91404231671c041e22b223a6f7c76f39f6958efa3023b1a4c5863e128874": {
+        "title": "全岛封关，海南酒店“分层时代”已至",
+        "link": "https://www.tmtpost.com/7832286.html",
+        "published_date": "Tue, 06 Jan 2026 16:17:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247159"
+      },
+      "1284f63c9b3d9f919efb48d5da18e88a8c5e793b4185ee90c72700d74132953f": {
+        "title": "机器人的罪与罚",
+        "link": "https://www.tmtpost.com/7832492.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247166"
+      },
+      "60c432d9dc7ab7dc04f88176b1570c8688a06f7f297084152e448d475837ded7": {
+        "title": "黄仁勋携Rubin架构亮相CES，英伟达铁了心要做“AI卖铲人”",
+        "link": "https://www.tmtpost.com/7831996.html",
+        "published_date": "Tue, 06 Jan 2026 16:09:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247169"
+      },
+      "db43a680d3779ab6e10216d4a61704c6153860840f6365f5daab8e365eb2c242": {
+        "title": "OpenAI、李飞飞同台助阵，苏姿丰CES对决黄仁勋",
+        "link": "https://www.tmtpost.com/7832526.html",
+        "published_date": "Tue, 06 Jan 2026 15:47:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247171"
+      },
+      "63278ec0dc605a522c36cf22c24764b5535fb81a9aab1bb68aaae4822ba88bc7": {
+        "title": "贵州茅台的盈利会下降吗？",
+        "link": "https://www.tmtpost.com/7831974.html",
+        "published_date": "Tue, 06 Jan 2026 15:20:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247172"
+      },
+      "89f1217490f4831feb0098c3fcfa92114f938f12c463b206843284136820c40c": {
+        "title": "China’s First! Airwallex Partners with China Construction Bank to Pioneer a New Model in Cross-Border Finance",
+        "link": "https://www.tmtpost.com/7832563.html",
+        "published_date": "Tue, 06 Jan 2026 15:12:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247174"
+      },
+      "82128060c9b75100b00f584f11a32e65466016136545aa36cf4e81c4cc354893": {
+        "title": "黄仁勋CES预言：另一个“时刻”快到来了",
+        "link": "https://www.tmtpost.com/7832269.html",
+        "published_date": "Tue, 06 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247175"
+      },
+      "01f5435c8d60362070788f11f581e5ad8a68ee4d24e58ae4882523c07b9172d2": {
+        "title": "4A景区“大批发”？",
+        "link": "https://www.tmtpost.com/7831732.html",
+        "published_date": "Tue, 06 Jan 2026 14:23:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247177"
+      },
+      "5b8637d34a9cb6e5586b527695976f0886ea310de636612820801b35ac0f95d7": {
+        "title": "踩雷财税后押注机器人，金财互联拼装式转型能走多远？",
+        "link": "https://www.tmtpost.com/7831626.html",
+        "published_date": "Tue, 06 Jan 2026 14:20:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247178"
+      },
+      "efe762c6329e71e11a0c0ef8ff20b1841d18047991357c046f950058f15e1f9d": {
+        "title": "石化，周期复苏不远了",
+        "link": "https://www.tmtpost.com/7832120.html",
+        "published_date": "Tue, 06 Jan 2026 13:43:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247179"
+      },
+      "8ba180e69862d6914fbf402d64ad0404e49c29a463e0ebf4a0a7ffbf30219126": {
+        "title": "车圈下半场在复购口碑",
+        "link": "https://www.tmtpost.com/7832082.html",
+        "published_date": "Tue, 06 Jan 2026 13:14:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247181"
+      },
+      "571a429fa9872f1427e3d5c18ec5749d9dd819851cdeb2669dcb4ef3647a99d0": {
+        "title": "Alexey 精选的 2025 年他最喜欢的 ClickHouse 功能",
+        "link": "https://www.infoq.cn/article/o6JKDDXl1l25YL5i3yzQ?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 16:03:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247182"
+      },
+      "ed7aaad295b1acbf31b5de5e4e1558d6a2a00bafac970c265a988b0921b0e331": {
+        "title": "Cloudflare年度回顾：AI机器人疯狂爬网、后量子加密普及率达50%、Go语言用户翻倍",
+        "link": "https://www.infoq.cn/article/GDVwJpAygF5Lkfg6kG5V?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247183"
+      },
+      "7a8de135ce919b9e2e4bb049b00580577d91edee98b08d200db93e4d457c5087": {
+        "title": "Bun 推出内置数据库客户端与零配置前端开发",
+        "link": "https://www.infoq.cn/article/12DFcmoFXOyQ2xZRf6vl?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:53:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247185"
+      },
+      "4a8025ff4fd27465cec8b97ec60e48f8c08b6c1b8d9c7974d9fcfd6b85614f58": {
+        "title": "谷歌 Gemini API 负责人自曝：用竞品Claude Code 1小时复现自己团队一年成果，工程师圈炸了！",
+        "link": "https://www.infoq.cn/article/EA1kt3KhCCTXM4efbAXH?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 06 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247186"
+      },
+      "1f8e5aec06d6bb14bd43472e805b3ff804e9de9d2c9d718513b75de23af845da": {
+        "title": "盘点 5 个大厂最近开源的 GitHub 项目。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530357&idx=1&sn=fd2648a3b2c3a7007f66acfe742807e2",
+        "published_date": "Tue, 06 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247188"
+      },
+      "796e07ca8913747b09a4c9917476be246214448b5cc14cdc3678f07c525619da": {
+        "title": "Matrix Talk | 2025 年我们都薅到了哪些「数字羊毛」",
+        "link": "https://sspai.com/post/105165",
+        "published_date": "Tue, 06 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.247189"
       }
     },
     "Finance": {
-      "ce429f4d2a97c113788ee6bb3e93fdba0e3ae987e1457d399b340afe94e401f1": {
-        "title": "US tariffs prompt surge in Chinese exports to south-east Asia",
-        "link": "https://www.ft.com/content/16d0336b-d855-42ae-b0a7-d509d21cec9b",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389048"
-      },
-      "ddd1a7a0e9584baeec26f34ab1d949e2cca399d29e4b6a1e613c3d0285dd5ede": {
-        "title": "Europe captures record share of private capital money",
-        "link": "https://www.ft.com/content/03877379-8a4a-4dd6-b681-8aadb67578ae",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389057"
-      },
-      "b6c18355771f76ce86976cb349039d82002b921f672b473da1e4ee0d15592b19": {
-        "title": "Ukraine’s Black Sea attacks trigger surge in shipping insurance prices",
-        "link": "https://www.ft.com/content/b5962cf4-aec1-445e-805e-0122d43d67be",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389059"
-      },
-      "a96cd7cf76e08a0fd0887e07895921dfe86716e031177b5ff0cf47dd3cdcad79": {
-        "title": "Should Europe fund Ukraine? It can’t easily afford not to",
-        "link": "https://www.ft.com/content/eb1006b3-4dc9-4d75-8c8f-9399d7628ab3",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389061"
-      },
-      "d567eb18801fc92a3035a6e313994930fca5ede5d0c89002780730462f1053d9": {
-        "title": "Hollywood fears job cuts as opposition to Netflix-Warner deal grows",
-        "link": "https://www.ft.com/content/7c901bb2-c9d9-4921-a5aa-99235d4ad12f",
-        "published_date": "Sun, 07 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.389063"
-      },
       "f74c3bdb87b0a0aa4e6ac5b1f4f180e7a117bb80a61554398a1d81c5ed3fd6cf": {
         "title": "Fed expected to cut rates despite deep divisions over US economic outlook",
         "link": "https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f",
@@ -6954,12 +6996,6 @@
       }
     },
     "Ai": {
-      "3bf98475066d6cdc62b9a96dc17fbc5301fffa7ae8dec1708f62124c0ffcba5a": {
-        "title": "2025-12-07日刊",
-        "link": "https://ai.hubtoday.app//2025-12/2025-12-07/",
-        "published_date": "Sun, 07 Dec 2025 07:13:00 GMT",
-        "first_seen": "2025-12-07T05:20:27.514949"
-      },
       "fa5da11081cecfac4e1b992299c767b221b8a042b81a19405b5ff4afd75a290b": {
         "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
         "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
@@ -9239,13 +9275,37 @@
         "link": "https://www.qbitai.com/2026/01/366596.html",
         "published_date": "Tue, 06 Jan 2026 01:09:00 GMT",
         "first_seen": "2026-01-06T05:18:04.923825"
+      },
+      "7115f517f8bfc86afa30a558ebdb7e3db55fe3ab4e3d49d8dacb00790d5222ca": {
+        "title": "1956-2026：人类与机器智能的七十年对话",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-06-4",
+        "published_date": "Tue, 06 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.133442"
+      },
+      "69facb5f9d86f0f728aa6a451f537dac227e665308f633391a3330f7b0b0dc13": {
+        "title": "陈天桥代季峰打响2026大模型第一枪：30B参数跑出1T性能",
+        "link": "https://www.qbitai.com/2026/01/366652.html",
+        "published_date": "Tue, 06 Jan 2026 06:28:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.133451"
+      },
+      "614eb77e5fa33e13eea532fb11ac914348199d11f3ee2599b927c4188e654490": {
+        "title": "英特尔CES奇袭老黄大本营！英伟达显卡刚涨价，最强酷睿量产出货",
+        "link": "https://www.qbitai.com/2026/01/366636.html",
+        "published_date": "Tue, 06 Jan 2026 05:54:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.133454"
+      },
+      "960d9f97925f2efdb588b3d89970f3050d876284af1b72ed7773f023b6f964a8": {
+        "title": "海信CES发布全新一代RGB-Mini LED，全球首创玲珑4芯真彩背光",
+        "link": "https://www.qbitai.com/2026/01/366621.html",
+        "published_date": "Tue, 06 Jan 2026 05:41:00 GMT",
+        "first_seen": "2026-01-06T08:24:12.133456"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T05:18:05.049446",
+    "Technology": "2026-01-06T08:24:12.247191",
     "Finance": "2026-01-06T05:18:04.804829",
-    "Ai": "2026-01-06T05:18:04.923827"
+    "Ai": "2026-01-06T08:24:12.133458"
   }
 }
