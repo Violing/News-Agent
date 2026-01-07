@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-07 05:19
+**最后更新时间**: 2026-01-07 08:19
+
+---
+
+## 🆕 最新更新 (2026-01-07 08:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says Venezuela will turn over oil to US](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c)
+**发布时间**: 2026-01-07 06:33
+
+#### [Hedge funds hunt for Venezuela’s unpaid financial claims](https://www.ft.com/content/2c04228d-2f2b-49d7-bbed-974053e285b9)
+**发布时间**: 2026-01-07 05:00
+
+#### [Cuba: what is left for Trump to topple?](https://www.ft.com/content/d859d893-1e2a-4ae6-a3d4-c9c505954f16)
+**发布时间**: 2026-01-07 05:00
+
+#### [Don’t be fooled — everything has changed for the global economy](https://www.ft.com/content/9c8212b8-568f-4ea2-829a-9b7a13b93f1d)
+**发布时间**: 2026-01-07 05:00
+
+#### [Watch out for America’s activist attorneys-general](https://www.ft.com/content/74dcb89a-9aed-4fba-b07a-f360c8824394)
+**发布时间**: 2026-01-07 05:00
+
+#### [Lloyds leads charge in using blockchain to disrupt UK banking](https://www.ft.com/content/671afe02-cff8-4a38-af3e-ec711ecb43fc)
+**发布时间**: 2026-01-07 05:00
+
+#### [Businesses say Britain’s ‘jam tomorrow’ energy plans threaten their survival](https://www.ft.com/content/26cdb6b8-b305-402d-a9b3-4dc133621b80)
+**发布时间**: 2026-01-07 05:00
+
+#### [Starmer puts minister in charge of digital ID rollout](https://www.ft.com/content/36af3ccc-5ed6-4079-93ef-dc49f06dbe9e)
+**发布时间**: 2026-01-07 05:00
 
 ---
 
