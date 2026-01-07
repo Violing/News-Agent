@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d85ca7ffcfbb4873385f5032a994bb5a9f5ccfb5a682e54c2c2c173555d90508": {
-        "title": "英霸已老，谷王当立 | 财经峰评",
-        "link": "https://www.tmtpost.com/7799905.html",
-        "published_date": "Sun, 07 Dec 2025 22:27:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556708"
-      },
-      "19980621a5dea4de2a0f77308dc42978431edab711f67a644e85d640dc60dd40": {
-        "title": "张建中与摩尔线程如何铸就千亿GPU帝国",
-        "link": "https://www.tmtpost.com/7799691.html",
-        "published_date": "Sun, 07 Dec 2025 20:16:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556714"
-      },
-      "8cc9ce0ddc285575ca91f2524cf58df587602945fb3a0434c638ab2d9396ce71": {
-        "title": "字节即梦张楠：AI 时代，如何探索人的想象力？",
-        "link": "http://www.geekpark.net/news/357697",
-        "published_date": "Sun, 07 Dec 2025 15:33:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556716"
-      },
-      "45df68a34365539c3ddf8e5494aed6eee96a9760eef37fbab3eed537bf47b0dd": {
-        "title": "影石刘靖康：全景无人机，是「马车时代的汽车」",
-        "link": "http://www.geekpark.net/news/357696",
-        "published_date": "Sun, 07 Dec 2025 15:20:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556718"
-      },
-      "80948fa4ea31171602e3b519ffb28d791715a086f0d1109d9d1427b419e16f56": {
-        "title": "AI作图+仅退款，正在围猎电商卖家",
-        "link": "https://www.tmtpost.com/7799317.html",
-        "published_date": "Sun, 07 Dec 2025 18:15:00 GMT",
-        "first_seen": "2025-12-07T23:20:24.556719"
-      },
       "904162b7a9e05e9aab45290435324e6c478b743230438d2e3208d872680ce386": {
         "title": "Maternal Instinct is the Key for AI Living Peacefully With Humans, Says Hinton",
         "link": "https://www.tmtpost.com/7800639.html",
@@ -4711,39 +4681,195 @@
         "link": "http://www.huxiu.com/article/4823376.html?f=wangzhan",
         "published_date": "Tue, 06 Jan 2026 14:29:00 GMT",
         "first_seen": "2026-01-06T23:15:10.676476"
+      },
+      "9b688b78cc822bf8813b8a22aa20c93bc0550fe426a33f1a11f6ba70a626b849": {
+        "title": "从查询计划分解到100%MySQL兼容：TDSQL-B并行查询技术的实现与优势",
+        "link": "https://www.infoq.cn/video/9mNHVSu1F30RRhx1cQXM?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405167"
+      },
+      "6cbbf2eed2cd4d21c2bcbc386e9b6dbffabffc26cd4767bac2b580f62bbeda52": {
+        "title": "TDSQL-B 数据库核心优化思路：从一体化对等架构到高性能Raft Log存储",
+        "link": "https://www.infoq.cn/video/YiHifNoFAsQUVNJOKxSh?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:36:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405174"
+      },
+      "8c76faba9af0d000d50ae0c87f97dd218503bc7a65f8981f9487366d0726dedc": {
+        "title": "超大规模化繁为简，TDSQL-B的四大核心适用场景",
+        "link": "https://www.infoq.cn/video/S1mR4SDilW8rCbF60AdI?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:35:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405176"
+      },
+      "4794789b28bbae5ae606ae8506e3943c609d0135632949f3ecef557b9eb15965": {
+        "title": "如何让GPU 不受扰、CPU 不闲置？TencentOS如意将CPU 利用率从15%提升45%",
+        "link": "https://www.infoq.cn/video/byTh35zoSG24R1Z52lmZ?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:28:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405178"
+      },
+      "54370e1904c4585eee8afab6509773fda554212565229ded3ce7d6eec4ed245f": {
+        "title": "算力稀缺时代，如何把 GPU 用“满”",
+        "link": "https://www.infoq.cn/article/gWlwXB7Z9VBs9cjj9ZCv?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 11:23:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405180"
+      },
+      "5def0d5012c5024c96fdea4f41531e4d00aa6f1871205221fd6e62849015f6f5": {
+        "title": "英特尔DeepMath引入智能架构，助力大型语言模型提升数学计算能力",
+        "link": "https://www.infoq.cn/article/hQzcUGIrkqibYerlHL0x?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:46:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405181"
+      },
+      "78a78df1f1b74e3d7fc8875177d617e969d14174bb5ee1ba5f70eeba96957d6f": {
+        "title": "谷歌 Cloud AI 总监 14 年血泪复盘：AI 时代工程师不可替代的 5 类能力，代码反而排在最后",
+        "link": "https://www.infoq.cn/article/6YfqAgAUBCQijvqdbstB?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 10:00:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405182"
+      },
+      "4abae0b08a76d304355c0cd9548923892c1971891fb850dc3159ba9f1be41855": {
+        "title": "DuckDB的WebAssembly客户端支持在浏览器中查询Iceberg数据集",
+        "link": "https://www.infoq.cn/article/KEiZ9wXZ3rXgTHZOgdaY?utm_source=rss&utm_medium=article",
+        "published_date": "Wed, 07 Jan 2026 09:33:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405184"
+      },
+      "6a8caf123ae103057af629267bd00b1229361fba04491d3f3dd95fb053ff9fd2": {
+        "title": "华映资本领投，又一清华系具身智能企业「灵御智能」完成千万元级种子＋轮融资 | 融资动态",
+        "link": "https://www.tmtpost.com/7683015.html",
+        "published_date": "Wed, 07 Jan 2026 11:15:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405185"
+      },
+      "146bf63832b797bd9f063b6d901bdd95eb71c9df87aa10b0c1f8e3159edaf8bc": {
+        "title": "黄仁勋新年首秀：除了Rubin芯片,还重新定义了数字员工和物理AI",
+        "link": "https://www.tmtpost.com/7833373.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405186"
+      },
+      "4a0de90ec1b1b0a55fac0e71b910712b436f8c9de4153abae7b7f4b8f750fbe8": {
+        "title": "左手“保命钱”，右手“未来钱”：拆解黄仁勋的“双螺旋”经营术",
+        "link": "https://www.tmtpost.com/7833151.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405188"
+      },
+      "49810fa925963888bcd47c99f7c3a1d4668161010dbe1b9a74fe4c753668fed4": {
+        "title": "小米是时候切断和粉丝的脐带了",
+        "link": "https://www.tmtpost.com/7833203.html",
+        "published_date": "Wed, 07 Jan 2026 10:57:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405189"
+      },
+      "98b524cc343cb4c5e9d03d2bb6487ac9baed280b1dea875ce595dddc25ff0d33": {
+        "title": "Physical AI Takes Center Stage at CES 2026 as Nvidia Maps Next Phase of Industry Shift",
+        "link": "https://www.tmtpost.com/7833395.html",
+        "published_date": "Wed, 07 Jan 2026 10:22:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405190"
+      },
+      "d080da9b49a3608f89131e1aea0bd124653083748dbc9615e806549356b04290": {
+        "title": "黄仁勋的皮衣很酷，但工厂的账本不认物理AI",
+        "link": "https://www.tmtpost.com/7832977.html",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405192"
+      },
+      "362707f1e5c8e7f35e418307d42a9d20b5c1618e7788411c22a8fa046fcca1e8": {
+        "title": "Palantir股票又添新粉，这位分析师并不担心其估值",
+        "link": "https://www.tmtpost.com/7833337.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405193"
+      },
+      "2245d6b6f4ce2b5957ed5007068ebe3e19ac6fc8b6ac0a81883a552a90e145d2": {
+        "title": "人工智能正在“改变”经济格局，Duolingo等五只股票有望受益",
+        "link": "https://www.tmtpost.com/7833335.html",
+        "published_date": "Wed, 07 Jan 2026 09:55:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405195"
+      },
+      "df5ade056d7436d9d08881a24516b8d643a0e969f32247008ee2ae5eeef9961a": {
+        "title": "一群河南人，正在改变中国餐饮历史",
+        "link": "https://www.tmtpost.com/7832925.html",
+        "published_date": "Wed, 07 Jan 2026 09:38:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405196"
+      },
+      "ea9f541873e22cae8ebe1685e4c941f9f17d41b82f61eabb5aa9ea67c34d990d": {
+        "title": "当“毛孩子”面临8千元生死线，铲屎官能否托举起首个宠物医疗IPO？",
+        "link": "https://www.tmtpost.com/7832956.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405198"
+      },
+      "afc4925caebd40d5e3d1cb71a7e09416817f61617b41aae057665935c8b16f40": {
+        "title": "卡游和Suplay，谁能先跑上市？",
+        "link": "https://www.tmtpost.com/7833257.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405199"
+      },
+      "1943dab0079bea7c96dcc0fd2eeb036540f333c8f1159b9903ead41453133aa4": {
+        "title": "黄仁勋揭幕2026CES关键词，跟随钛媒体开启“物理AI”时代",
+        "link": "https://www.tmtpost.com/7833193.html",
+        "published_date": "Wed, 07 Jan 2026 09:37:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405200"
+      },
+      "8b58566b3df48af72b828a2c8dfffff6e2d3d8b4fee80e11537d3ff61e9ae986": {
+        "title": "英伟达加速生产H200，黄仁勋CES放话：“要回中国了”",
+        "link": "https://www.tmtpost.com/7833221.html",
+        "published_date": "Wed, 07 Jan 2026 09:21:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405201"
+      },
+      "0e171653aa759e1c719e9215226e476ea50d1b1d065cc8faa5a0c63b2ca1c2c4": {
+        "title": "消费者支出即将转向，这11只股票有望受益",
+        "link": "https://www.tmtpost.com/7833270.html",
+        "published_date": "Wed, 07 Jan 2026 09:20:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405203"
+      },
+      "46b0a75d697175da380f95d075d7134a29cc478b6163485f4e428904c06a07d7": {
+        "title": "Meta 收购 Manus：巨头“自救系统”的冰山之下",
+        "link": "https://www.tmtpost.com/7832946.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405204"
+      },
+      "6a8c1c0c3bab4ea6a62d913a2107f2b1243b37301d1fed03a166616848b83531": {
+        "title": "曝光最强超算架构、开源自动驾驶模型，黄仁勋亮出物理AI“全家桶”",
+        "link": "https://www.tmtpost.com/7832911.html",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405205"
+      },
+      "9af931f2b62224c8da709cf8225e506c720b57abb66a5f61a2991674dd0e3344": {
+        "title": "这个冬天，年轻人去批发市场“淘”新衣",
+        "link": "https://www.tmtpost.com/7832905.html",
+        "published_date": "Wed, 07 Jan 2026 08:43:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405207"
+      },
+      "60a2fc76df5ff9cc5bff4128852fa85181cabd3fa2a7b21bb7e48c84bbfa9638": {
+        "title": "存储猛拉，AI存力超级周期到底有多神？",
+        "link": "https://www.tmtpost.com/7832914.html",
+        "published_date": "Wed, 07 Jan 2026 08:43:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405208"
+      },
+      "284514b4d83116c98669286a4b887622333df386a74dea53d1d456d3f2049655": {
+        "title": "黄仁勋说的“物理AI”时代利好中国",
+        "link": "http://www.huxiu.com/article/4824016.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 11:05:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405209"
+      },
+      "49929f9ad6d59ea35524c89f4f90ca942876e371c464c7e993811fbe5c18ff6f": {
+        "title": "小米YU7咋扛撞？雷军拆车见真相",
+        "link": "http://www.huxiu.com/article/4823982.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:53:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405211"
+      },
+      "191b8151b9963d25360650834f51be1d10b7f8f1d964c8a48ee9a4eb4e3e6b09": {
+        "title": "OPPO换小米，微信数据传不过去？问题到底出在哪？",
+        "link": "http://www.huxiu.com/article/4823836.html?f=wangzhan",
+        "published_date": "Wed, 07 Jan 2026 09:00:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405212"
+      },
+      "9862c8f9cf6bb8ba40904d4f04d1ccf86e1f1856d49c9ae3ccf3148808726a10": {
+        "title": "当世界尽头成为热搜：一份南极旅游指南",
+        "link": "https://sspai.com/post/104946",
+        "published_date": "Wed, 07 Jan 2026 11:02:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405213"
+      },
+      "1add722854317c012e90c65430881b76754edc02c0f8846335523f07bad0e8d7": {
+        "title": "派早报：英伟达发布 DLSS 4.5、戴尔发布 XPS 14/16 等",
+        "link": "https://sspai.com/post/105214",
+        "published_date": "Wed, 07 Jan 2026 08:57:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.405214"
       }
     },
     "Finance": {
-      "f74c3bdb87b0a0aa4e6ac5b1f4f180e7a117bb80a61554398a1d81c5ed3fd6cf": {
-        "title": "Fed expected to cut rates despite deep divisions over US economic outlook",
-        "link": "https://www.ft.com/content/6295565b-3e00-49bf-8150-93f920f8831f",
-        "published_date": "Sun, 07 Dec 2025 14:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180716"
-      },
-      "05ecbf3c5a2aedc3e35b05e6e643e1fba4af9d22e6dfffe254c1e7b56626df96": {
-        "title": "The Fed’s biggest decision this week could have nothing to do with interest rates",
-        "link": "https://www.marketwatch.com/story/the-feds-biggest-decision-this-week-could-have-nothing-to-do-with-interest-rates-48aea536?mod=mw_rss_topstories",
-        "published_date": "Sun, 07 Dec 2025 20:40:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180724"
-      },
-      "ea18b39127ce1aa4bd98cec08da04b7156d43485753c5c213045cf59232f1904": {
-        "title": "America’s economy is at the mercy of crony capitalism",
-        "link": "https://www.ft.com/content/85fd3200-55b1-4e58-9e6f-613e97a1e36a",
-        "published_date": "Sun, 07 Dec 2025 12:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180726"
-      },
-      "11a552401b9cd2c2e35c69563e58bb4809db321e586b2103a6c99a1b4a326819": {
-        "title": "The Fed meeting this week will determine if investors get new all-time highs or coal for Christmas",
-        "link": "https://www.marketwatch.com/story/the-fed-meeting-this-week-will-determine-if-investors-get-new-all-time-highs-or-coal-for-christmas-8ddf2d3f?mod=mw_rss_topstories",
-        "published_date": "Sun, 07 Dec 2025 17:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180728"
-      },
-      "a41e63d0132b7c8253a8b85374330fac7422f6bdba84ca0dcc9ebe93520f06d4": {
-        "title": "America’s widening economic divide endangers Trump’s midterm hopes",
-        "link": "https://www.ft.com/content/8beb0631-7f0a-4435-8e04-33f65f8a7904",
-        "published_date": "Sun, 07 Dec 2025 22:00:00 GMT",
-        "first_seen": "2025-12-07T23:20:00.180730"
-      },
       "e0e452a35de5922b163f80748cab7dd26c3e069f153bfa973c129c35e1b228ac": {
         "title": "U.S. stock futures flat as investors await Fed meeting — and likely rate cut",
         "link": "https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-fed-meeting-and-likely-a-rate-cut-ecf9f5bc?mod=mw_rss_topstories",
@@ -7209,39 +7335,45 @@
         "link": "https://www.ft.com/content/21f3f75e-9f98-4e23-88cb-eaca05dc16f6",
         "published_date": "Tue, 06 Jan 2026 12:01:00 GMT",
         "first_seen": "2026-01-06T23:15:10.421813"
+      },
+      "0090b6c7f137323554f059c4baf265919ba18b8785bb7a24e1d3790d91e39ee3": {
+        "title": "Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds",
+        "link": "https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories",
+        "published_date": "Wed, 07 Jan 2026 01:33:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136564"
+      },
+      "741750da9e98a8f2131155adf252890f11dfff408ac3c7d17cb652990e0b760c": {
+        "title": "As Tesla’s stock falls, Elon Musk brushes off Nvidia’s competitive threat",
+        "link": "https://www.marketwatch.com/story/elon-musk-is-brushing-off-nvidias-attempt-to-take-on-tesla-554a8134?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 23:34:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136571"
+      },
+      "c43bb1a4ea615aa4675fe948e9ee2f6e0c13a85d34de860c5923fb3a792a94bd": {
+        "title": "Why Sandisk’s stock just soared to its best day in 11 months",
+        "link": "https://www.marketwatch.com/story/why-sandisks-stock-is-soaring-toward-its-best-day-in-11-months-9f4a51c6?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 23:29:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136574"
+      },
+      "7146d0ea7add8fc6510acfa793fd6e0d80a81f73e47f858644bb9bc674b4f12c": {
+        "title": "Strategy’s stock is rising as investors get some much-needed good news",
+        "link": "https://www.marketwatch.com/story/strategys-stock-is-rising-as-investors-get-some-much-needed-good-news-971e0f9f?mod=mw_rss_topstories",
+        "published_date": "Tue, 06 Jan 2026 23:21:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136576"
+      },
+      "da556e2877f64f506f9d861eada987a90fcb441a1ce656e153aa627fa1195ae0": {
+        "title": "Trump says US to take sanctioned Venezuelan oil to American ports",
+        "link": "https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c",
+        "published_date": "Wed, 07 Jan 2026 01:14:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136577"
+      },
+      "3e60575c8ec2f6cccba8caa7085e5c5eb665f353cdad93c329bdd798d9cb87ed": {
+        "title": "Why winning the UK matters for BYD",
+        "link": "https://www.ft.com/content/e2ab91ec-47be-49d3-8c1a-9adc0cfb9a6f",
+        "published_date": "Wed, 07 Jan 2026 00:01:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.136579"
       }
     },
     "Ai": {
-      "fa5da11081cecfac4e1b992299c767b221b8a042b81a19405b5ff4afd75a290b": {
-        "title": "LLM强化学习不稳定之谜，被Qwen团队从「一阶近似」视角解开",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-5",
-        "published_date": "Sun, 07 Dec 2025 18:58:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024079"
-      },
-      "9b8d74b99ded05e6e41fd2fccf7db7d84f8e4e47560f48d7b7abd2ccc226dac5": {
-        "title": "两个LLM互相对线，推理能力起飞：康奈尔团队发布大模型版类GAN训练法",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07",
-        "published_date": "Sun, 07 Dec 2025 18:41:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024085"
-      },
-      "5ba244074c0255c9b72d18fcb90e743d8844c03b124fb8996b870e8efe2f1517": {
-        "title": "DeepSeek、Gemini谁更能提供情感支持？趣丸×北大来了波情绪轨迹动态评估",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-3",
-        "published_date": "Sun, 07 Dec 2025 18:48:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024087"
-      },
-      "bfe81765818ba1ef3b58772349189ae7d74ce3cefc50bfc9b90317ac1a9d6c41": {
-        "title": "百万人围观的「萌娃教训小狗」视频火了，结果都是AI生成的｜附教程",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-4",
-        "published_date": "Sun, 07 Dec 2025 18:54:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024089"
-      },
-      "296d20364a1228fe8f6b4aecb560f68beb643e9ad2910c7d681f2d20cfe94471": {
-        "title": "M系列芯片一号人物准备离开，苹果高管流失正在失控",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-07-2",
-        "published_date": "Sun, 07 Dec 2025 18:44:00 GMT",
-        "first_seen": "2025-12-07T23:20:10.024090"
-      },
       "6526a56dce7f7a29442f5f621604852e311a9e63de0ad9a12054df7bd7169a5e": {
         "title": "从分钟级等待到20倍超速：LightX2V重写AI视频生成速度上限",
         "link": "https://www.jiqizhixin.com/articles/2025-12-08-2",
@@ -9563,13 +9695,49 @@
         "link": "https://www.qbitai.com/2026/01/367091.html",
         "published_date": "Tue, 06 Jan 2026 08:25:00 GMT",
         "first_seen": "2026-01-06T23:15:10.561160"
+      },
+      "261b27f519c9acf10e2e2e6e8893280acdc029229a0a749da2ac7abf804f4bb0": {
+        "title": "曾对AI嗤之以鼻，如今2周生成7万行代码：Rust大佬与Claude联手打造新语言Rue",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07-2",
+        "published_date": "Wed, 07 Jan 2026 10:17:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276160"
+      },
+      "1987a647d4f6fcf16e40788c3aa1fc68d9bb0f9c4e03484c911e7faa72728147": {
+        "title": "近十年后谷歌与波士顿动力再「牵手」，这次要为人形机器人注入「灵魂」",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-07",
+        "published_date": "Wed, 07 Jan 2026 10:12:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276167"
+      },
+      "4d99f1950eebf10216135b17c0caf3d314c48be683aa662fffdea823c996a7e6": {
+        "title": "2026-01-07日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-07/",
+        "published_date": "Wed, 07 Jan 2026 07:55:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276169"
+      },
+      "65294c233b7818207c72038f18c52a7f1320613dc603a2dd7620581107f58b83": {
+        "title": "杜比在CES 2026重塑了观影、娱乐的方式",
+        "link": "https://www.qbitai.com/2026/01/367175.html",
+        "published_date": "Wed, 07 Jan 2026 04:47:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276171"
+      },
+      "46788e6835d8beb28f55684eb6b5000da030dd0895b5538dbb0e8a6a45911a93": {
+        "title": "OceanBase蝉联中国分布式数据库本地部署市场第一，领跑国产数据库",
+        "link": "https://www.qbitai.com/2026/01/367171.html",
+        "published_date": "Wed, 07 Jan 2026 04:36:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276172"
+      },
+      "2e87d87d6219d9132f8103a8e2cbab576bdb0ff17a4baf90dd8d561585fe13d1": {
+        "title": "李斌回合肥住全季，回应蔚来2025一切",
+        "link": "https://www.qbitai.com/2026/01/367161.html",
+        "published_date": "Wed, 07 Jan 2026 02:11:00 GMT",
+        "first_seen": "2026-01-07T05:19:03.276174"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-06T23:15:10.676478",
-    "Finance": "2026-01-06T23:15:10.421815",
-    "Ai": "2026-01-06T23:15:10.561162"
+    "Technology": "2026-01-07T05:19:03.405216",
+    "Finance": "2026-01-07T05:19:03.136580",
+    "Ai": "2026-01-07T05:19:03.276177"
   }
 }

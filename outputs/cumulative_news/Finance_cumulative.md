@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-06 23:15
+**最后更新时间**: 2026-01-07 05:19
+
+---
+
+## 🆕 最新更新 (2026-01-07 05:19)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Trump says Venezuela will send U.S. up to 50 million barrels of oil — and he’ll control the proceeds](https://www.marketwatch.com/story/trump-says-venezuela-will-send-u-s-up-to-50-million-barrels-of-oil-and-hell-control-the-proceeds-5e05efa0?mod=mw_rss_topstories)
+**发布时间**: 2026-01-07 01:33
+
+#### [As Tesla’s stock falls, Elon Musk brushes off Nvidia’s competitive threat](https://www.marketwatch.com/story/elon-musk-is-brushing-off-nvidias-attempt-to-take-on-tesla-554a8134?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:34
+
+#### [Why Sandisk’s stock just soared to its best day in 11 months](https://www.marketwatch.com/story/why-sandisks-stock-is-soaring-toward-its-best-day-in-11-months-9f4a51c6?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:29
+
+#### [Strategy’s stock is rising as investors get some much-needed good news](https://www.marketwatch.com/story/strategys-stock-is-rising-as-investors-get-some-much-needed-good-news-971e0f9f?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:21
+
+#### [I’m retired and selling my home after 35 years — what’s changed since the ‘90s?](https://www.marketwatch.com/story/planning-to-sell-your-home-in-retirement-do-these-tasks-first-ef5cb0b4?mod=mw_rss_topstories)
+**发布时间**: 2026-01-06 23:13
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Trump says US to take sanctioned Venezuelan oil to American ports](https://www.ft.com/content/08ca8f8e-6e52-4344-9c0d-2433e98e204c)
+**发布时间**: 2026-01-07 01:14
+
+#### [Why winning the UK matters for BYD](https://www.ft.com/content/e2ab91ec-47be-49d3-8c1a-9adc0cfb9a6f)
+**发布时间**: 2026-01-07 00:01
+
+#### [Polymarket refuses to pay bets that US would ‘invade’ Venezuela](https://www.ft.com/content/985ae542-1ab4-491e-8e6e-b30f6a3ab666)
+**发布时间**: 2026-01-06 22:56
 
 ---
 
