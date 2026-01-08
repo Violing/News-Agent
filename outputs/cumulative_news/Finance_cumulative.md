@@ -1,7 +1,36 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-08 05:17
+**最后更新时间**: 2026-01-08 08:19
+
+---
+
+## 🆕 最新更新 (2026-01-08 08:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Greenland’s future must be decided by island and Denmark, Starmer warns Trump](https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440)
+**发布时间**: 2026-01-08 07:47
+
+#### [The gangs, goons and guerrillas running swaths of Venezuela](https://www.ft.com/content/795f5a52-5462-43cb-9f27-0cabf7170aaa)
+**发布时间**: 2026-01-08 05:00
+
+#### [How Trump could take control of Greenland](https://www.ft.com/content/2f060be5-5ba1-4442-b5c8-698d02d429c6)
+**发布时间**: 2026-01-08 05:00
+
+#### [British business faces a rude activist awakening](https://www.ft.com/content/51a0d88b-8e5a-4618-991e-28ba4c0f3b86)
+**发布时间**: 2026-01-08 05:00
+
+#### [Self-employed and landlords not ready for new tax rules, warn experts](https://www.ft.com/content/3ba19a4f-81c1-42eb-b435-7891ec28256d)
+**发布时间**: 2026-01-08 05:00
+
+#### [Top private equity groups capture largest fundraising share in a decade](https://www.ft.com/content/8573eb5f-47d6-45a0-b44c-904d8c8a7e1f)
+**发布时间**: 2026-01-08 05:00
+
+#### [Trump to meet Colombia’s Petro in dramatic détente](https://www.ft.com/content/bc7437d7-9aed-4ec8-b013-f1b0e80acb8b)
+**发布时间**: 2026-01-08 02:29
+
+#### [US oil groups warn they will need guarantees to invest in Venezuela](https://www.ft.com/content/84e05c24-ca30-416d-9f7e-1798a28f29c3)
+**发布时间**: 2026-01-08 01:07
 
 ---
 
