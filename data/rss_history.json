@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b3e7d6c6f3706feba54eddb4739ee52837a436b08cb50f940c8f03aeefb3394c": {
-        "title": "Microsoft Unveils $23 Billion in New AI Investments Focusing on India and Canada",
-        "link": "https://www.tmtpost.com/7804382.html",
-        "published_date": "Wed, 10 Dec 2025 12:31:00 GMT",
-        "first_seen": "2025-12-10T05:24:21.176384"
-      },
-      "cbd812c53dbaea135f2c340fb4b00e32fd531680fdc056b6d6a0afd72e07e9f1": {
-        "title": "SpaceX Reported to Eye 2026 IPO that Could Become World's Largest, Valuation May Top $1 Trillion",
-        "link": "https://www.tmtpost.com/7803888.html",
-        "published_date": "Wed, 10 Dec 2025 09:13:00 GMT",
-        "first_seen": "2025-12-10T05:24:21.176391"
-      },
-      "840c5476046ed2edb2d08ea20a978f0be2bd5ccbf877fc32c1d843215371720b": {
-        "title": "当千亿参数撞上5毫米芯片",
-        "link": "https://www.tmtpost.com/7804028.html",
-        "published_date": "Wed, 10 Dec 2025 11:02:00 GMT",
-        "first_seen": "2025-12-10T05:24:21.176393"
-      },
-      "ec84dc759f0a8bdcf6e2053091579510a824a3a5438a3caa0f8e3dea3ed71618": {
-        "title": "智谱AutoGLM与豆包手机的分歧，是AI时代的安卓苹果之战？",
-        "link": "https://www.tmtpost.com/7803941.html",
-        "published_date": "Wed, 10 Dec 2025 12:53:00 GMT",
-        "first_seen": "2025-12-10T05:24:21.176395"
-      },
-      "184a47ddf7fd40fd0541e2fad7ba5e6a5439913362a5c0b3acfb74c35416468b": {
-        "title": "揭秘激光雷达芯片“第一案”：是横空出世还是另有捷径？",
-        "link": "https://www.tmtpost.com/7803461.html",
-        "published_date": "Wed, 10 Dec 2025 09:45:00 GMT",
-        "first_seen": "2025-12-10T05:24:21.176396"
-      },
       "e3fa067ba5ef519b471a60d650419db1cee51fb9030943b95c05249d8b185dc7": {
         "title": "H200放行：英伟达6万亿市值路的“穿云箭”？",
         "link": "https://www.tmtpost.com/7804051.html",
@@ -5581,39 +5551,93 @@
         "link": "https://sspai.com/post/105283",
         "published_date": "Fri, 09 Jan 2026 08:56:00 GMT",
         "first_seen": "2026-01-09T05:18:40.635855"
+      },
+      "4620b594d8b9957f2a8fa132887f794db4dbf4ffdd54bb25e59ea3aeba49803f": {
+        "title": "新年第一举来了，又是险资举牌银行H股",
+        "link": "https://www.tmtpost.com/7837148.html",
+        "published_date": "Fri, 09 Jan 2026 15:59:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208570"
+      },
+      "f4096c0e985374394d933ca88f867cc6f3149fa12cd361445db4136f31a04506": {
+        "title": "回顾与前瞻：弱势市场",
+        "link": "https://www.tmtpost.com/7837145.html",
+        "published_date": "Fri, 09 Jan 2026 15:57:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208580"
+      },
+      "85be6bd84799d226d6fd086a58edab318821fe9d10ed2aee33b603174f264218": {
+        "title": "西贝不服输",
+        "link": "https://www.tmtpost.com/7834407.html",
+        "published_date": "Fri, 09 Jan 2026 15:51:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208582"
+      },
+      "b5d43afe3a7823654109df82500e0fe3103c22111b41e0aae8f4036829fad68e": {
+        "title": "CES 2026：在全球市场谈智能化，长城汽车选择了哪些取舍",
+        "link": "https://www.tmtpost.com/7837114.html",
+        "published_date": "Fri, 09 Jan 2026 15:34:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208584"
+      },
+      "af41b1decebe8990da72f5381c854d43053dcfe42faa808f83f9a623fd101fb4": {
+        "title": "9亿美元！英特尔旗下Mobileye收购人形机器人公司，加码物理AI",
+        "link": "https://www.tmtpost.com/6424013.html",
+        "published_date": "Fri, 09 Jan 2026 15:02:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208585"
+      },
+      "8fd623c981c09ac77dda475b00e0af2b9fa659a0c408b9c19ea99327f3c034db": {
+        "title": "卫蓝新能源，抢滩“资本盛宴”",
+        "link": "https://www.tmtpost.com/7836622.html",
+        "published_date": "Fri, 09 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208587"
+      },
+      "638f2e67612ea6046e5d79a8eb010f64e9e710742a033758684a7242067100e6": {
+        "title": "CES 2026观察：AI眼镜并没有迎来iPhone时刻",
+        "link": "https://www.tmtpost.com/7836799.html",
+        "published_date": "Fri, 09 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208589"
+      },
+      "3d5b8374b14e09a8631a57c9e93a6e61a5cca65a7b2a4a9331eeebdae6e61c12": {
+        "title": "史上最大规模Tech World，联想开启“混合式AI新纪元”",
+        "link": "https://www.tmtpost.com/7836883.html",
+        "published_date": "Fri, 09 Jan 2026 13:54:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208590"
+      },
+      "113b18a200328d2eb39883d1ad11f07868b7c31d5a16c0dfec117115d172390f": {
+        "title": "高特电子：盈利质量堪忧+产品竞争力下滑，神秘股东巨额收益引热议｜IPO观察",
+        "link": "https://www.tmtpost.com/7836767.html",
+        "published_date": "Fri, 09 Jan 2026 13:41:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208591"
+      },
+      "63cdc47ef2726c70fa0ce55f01f962547ae5c86f36c3655b43e7efce1fb5c1b5": {
+        "title": "MiniMax盘中一度涨超80%，历史上IPO规模最大的AI大模型公司诞生，引爆港股市场",
+        "link": "https://www.tmtpost.com/7836947.html",
+        "published_date": "Fri, 09 Jan 2026 13:38:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208593"
+      },
+      "6fee87cabbd7f88b80a112b9e6a944ce70bf721b22bf38dc45048bbe3113f14c": {
+        "title": "恒瑞医药上岸，但TGF-还没有",
+        "link": "https://www.tmtpost.com/7836754.html",
+        "published_date": "Fri, 09 Jan 2026 13:27:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208595"
+      },
+      "e1165d7f40f40944233c693f7d36a67e5e7cdde4d8d1d015c188e937befb22b2": {
+        "title": "Facebook调查显示：越来越多的人开始采用带类型的Python，以提升代码质量和灵活性",
+        "link": "https://www.infoq.cn/article/t6i8lghRAdi9I4weD2mR?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 09 Jan 2026 15:21:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208596"
+      },
+      "a24e8daa3ae1d8b7efdfb002ec2a6c4a89d4b536331c8679522f60ee6496a09c": {
+        "title": "Manus高溢价收购背后，是Agent开发落地困境",
+        "link": "https://www.infoq.cn/article/SxeNI9gVzcKr36xlwuCQ?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 09 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208598"
+      },
+      "5bcae54c5d13f9d30801150d84dccc0b827b202d7cf713c15dbbafae7cd788c8": {
+        "title": "动态磁贴消亡史",
+        "link": "https://sspai.com/post/105188",
+        "published_date": "Fri, 09 Jan 2026 15:11:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.208600"
       }
     },
     "Finance": {
-      "1990ea9078a6ee631207d1ae6c4d3897ed5967e9f5dee71cacdb51c34a995110": {
-        "title": "Trump to pit Hassett against trio of Fed chair finalists",
-        "link": "https://www.ft.com/content/307ce3c1-65ee-4d1f-b74a-2f3fdacab175",
-        "published_date": "Wed, 10 Dec 2025 00:04:00 GMT",
-        "first_seen": "2025-12-10T05:23:45.178014"
-      },
-      "d611a2599819acd4a8bf0db30dbd6b3da5f3a01bb58c8e9d3c816bf555565d63": {
-        "title": "EU races to bypass Orbán on Russian assets before summit",
-        "link": "https://www.ft.com/content/844ca37f-8c3b-4503-b274-175d6f034476",
-        "published_date": "Wed, 10 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-10T05:23:45.178026"
-      },
-      "c8a49a4102ee1a53a936adb26e1d8adc3b363f249dcc3cfe49d4023f7e319d90": {
-        "title": "Why the record rally for small-cap stocks could run into a big problem in 2026",
-        "link": "https://www.marketwatch.com/story/why-the-record-rally-for-small-cap-stocks-could-run-into-a-big-problem-in-2026-f7954bc6?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Dec 2025 02:01:00 GMT",
-        "first_seen": "2025-12-10T05:23:45.178028"
-      },
-      "7b1c5f4ee07b77a67298ceef9c4c75f441fc7a395142bf865f822850dc923620": {
-        "title": "Why Nvidia’s stock is now shrugging off Trump’s approval of chip sales to China",
-        "link": "https://www.marketwatch.com/story/why-nvidias-stock-is-now-shrugging-off-trumps-approval-of-chip-sales-to-china-5af14754?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Dec 2025 00:34:00 GMT",
-        "first_seen": "2025-12-10T05:23:45.178030"
-      },
-      "10c1efd985b9df77782833607c62a2fcd3633c8d7daf23e0872e2fdefb0a336c": {
-        "title": "The real money in AI chips is in these stocks — and you’ve probably never heard of them",
-        "link": "https://www.marketwatch.com/story/if-you-only-own-nvidia-stock-youre-missing-the-real-money-in-chips-f15e892d?mod=mw_rss_topstories",
-        "published_date": "Wed, 10 Dec 2025 01:04:00 GMT",
-        "first_seen": "2025-12-10T05:23:45.178032"
-      },
       "536aa6cdf46478512ffd72b810cd3c6c487b548627283f1ffcb2b33a7755f24a": {
         "title": "Fed to launch $40bn debt-buying scheme after money market strains",
         "link": "https://www.ft.com/content/6a04be70-6d05-4f03-b4c7-39ceae52bb64",
@@ -8265,39 +8289,21 @@
         "link": "https://www.marketwatch.com/story/u-s-stocks-are-up-this-year-even-as-tech-slides-with-some-already-rallying-more-than-10-546dbf6d?mod=mw_rss_topstories",
         "published_date": "Thu, 08 Jan 2026 23:24:00 GMT",
         "first_seen": "2026-01-09T05:18:40.371625"
+      },
+      "62593412f282ee2921af855b2c982870359e9252671777d46e01244c191d906f": {
+        "title": "The world’s biggest miner may be created with copper prices near highs",
+        "link": "https://www.marketwatch.com/story/the-worlds-biggest-miner-may-be-created-with-copper-prices-near-highs-0292fc50?mod=mw_rss_topstories",
+        "published_date": "Fri, 09 Jan 2026 07:51:00 GMT",
+        "first_seen": "2026-01-09T08:19:08.930887"
+      },
+      "0e66df35ccaf259b5af244f60b80b84de62e46194d021f43fffdc51ac40a8091": {
+        "title": "Iran hit by ‘internet blackout’ as regime struggles to contain protests",
+        "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
+        "published_date": "Fri, 09 Jan 2026 07:07:00 GMT",
+        "first_seen": "2026-01-09T08:19:08.930900"
       }
     },
     "Ai": {
-      "e73fe990c81accc057d950d788bc591e1edb54c55d73391a4f3b88ce9246f709": {
-        "title": "Percept-WAM：真正「看懂世界」的自动驾驶大脑，感知到行动的一体化模型",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10",
-        "published_date": "Wed, 10 Dec 2025 10:57:00 GMT",
-        "first_seen": "2025-12-10T05:23:59.573026"
-      },
-      "13160a0c899e4c72a2b149f2d6b5f16c2ceed40e1d5e926d2204946e2361ba75": {
-        "title": "大模型「有心了」：首个情感大模型Echo-N1，32B胜过200B",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-2",
-        "published_date": "Wed, 10 Dec 2025 11:04:00 GMT",
-        "first_seen": "2025-12-10T05:23:59.573033"
-      },
-      "838951e4e276199025b36685fdf7a1ee88715647d015d63be97ccaee2b9e234d": {
-        "title": "NeurIPS 2024 | 揭示局限性：CLIP 模型对真实世界中假相关的依赖",
-        "link": "https://www.jiqizhixin.com/articles/2025-01-07-10",
-        "published_date": "Wed, 10 Dec 2025 12:15:00 GMT",
-        "first_seen": "2025-12-10T05:23:59.573035"
-      },
-      "d668fda2668998577bba5062edff570327d8fbcdf56aba06f2d8e17d63ba5ba6": {
-        "title": "中关村科金公开企业级智能体落地路线图，携手七大厂商共建“超级连接”产业生态",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-10-3",
-        "published_date": "Wed, 10 Dec 2025 11:13:00 GMT",
-        "first_seen": "2025-12-10T05:23:59.573036"
-      },
-      "68955a27862deebf7bd8a3a562c0bcc4f23b53770d5b45a2b4ee3f08b6bb936b": {
-        "title": "NeurIPS 2025 | 不用生成图像训练，仅靠自然图像分布就能检测AI造假",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-05",
-        "published_date": "Wed, 10 Dec 2025 12:13:00 GMT",
-        "first_seen": "2025-12-10T05:23:59.573038"
-      },
       "29e0630984fd5651677623890516cb5894cddb2e7bfda2b0f26952ddd22e8667": {
         "title": "首个由AI开发的药物或许即将面世，众多候选中，抗体一骑绝尘",
         "link": "https://www.jiqizhixin.com/articles/2025-12-10-8",
@@ -10721,13 +10727,67 @@
         "link": "https://www.qbitai.com/2026/01/367789.html",
         "published_date": "Fri, 09 Jan 2026 02:49:00 GMT",
         "first_seen": "2026-01-09T05:18:40.516011"
+      },
+      "7119a5bca841158e72bf3c947392d57b6fbad7c7a587b329e42b6728e069f5a0": {
+        "title": "让两个大模型「在线吵架」，他们跑通了全网95%科研代码｜深势发布Deploy-Master",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-9",
+        "published_date": "Fri, 09 Jan 2026 14:29:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080736"
+      },
+      "2ed334853b28b64f4c696b5e8c6306fe15eebb5c90b0f30751e8f789a8d6c430": {
+        "title": "OpenAI for Healthcare——面向医疗保健的AI产品",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-8",
+        "published_date": "Fri, 09 Jan 2026 14:28:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080745"
+      },
+      "d785391c614190dbf13ccf91b749ba281f1237e1e65466d04864879afb5b7f2e": {
+        "title": "深势科技发布Deploy-Master：一天部署5万个科学计算工具，这可能是Agentic Science真正的起点",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-7",
+        "published_date": "Fri, 09 Jan 2026 14:27:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080748"
+      },
+      "59664ca0b6dd1eee0e59441bdf149fc57e232238629a1489bdb4bd87e03e8ba3": {
+        "title": "一年后，DeepSeek-R1的每token成本降到了原来的1/32",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-6",
+        "published_date": "Fri, 09 Jan 2026 14:24:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080749"
+      },
+      "95a1c97d2ceb1200445d58fb2a81bc227a2a9be6b483afd78cbf9f3148bd09a3": {
+        "title": "Agent 2.0时代来了，首批「工业级智能体」正在核心位置上岗",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-5",
+        "published_date": "Fri, 09 Jan 2026 13:36:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080751"
+      },
+      "a8249f1fc6a74c2815b804279afc7d1902244e7e3dc2471b78cf20818f8de536": {
+        "title": "谁家更新日志那么长啊？Claude Code版本更新引围观，1096次提交一口气上线",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-4",
+        "published_date": "Fri, 09 Jan 2026 13:30:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080753"
+      },
+      "f7d4f09a2aed58213cae3dcdd65d4daebdc9c2ca371adb436f47a89c0cc74f75": {
+        "title": "大模型如何泛化出多智能体推理能力？清华提出策略游戏自博弈方案MARSHAL",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-09-3",
+        "published_date": "Fri, 09 Jan 2026 13:26:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080754"
+      },
+      "6fbb32b937a0ba9dfeff7165af93e9bbdbe81453b7387cacacc94bfff03d02e5": {
+        "title": "清华AI找药登Science！一天筛选10万亿次，解决AlphaFold到药物发现的最后一公里",
+        "link": "https://www.qbitai.com/2026/01/368052.html",
+        "published_date": "Fri, 09 Jan 2026 07:00:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080756"
+      },
+      "1983902f420e95bf69862a8ad868b319d669c22992c62bf334fc306cf42f4c74": {
+        "title": "一口气集齐老黄苏妈英特尔，还得是AI，还得是联想",
+        "link": "https://www.qbitai.com/2026/01/367831.html",
+        "published_date": "Fri, 09 Jan 2026 06:29:00 GMT",
+        "first_seen": "2026-01-09T08:19:09.080757"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-09T05:18:40.635856",
-    "Finance": "2026-01-09T05:18:40.371627",
-    "Ai": "2026-01-09T05:18:40.516013"
+    "Technology": "2026-01-09T08:19:09.208602",
+    "Finance": "2026-01-09T08:19:08.930903",
+    "Ai": "2026-01-09T08:19:09.080760"
   }
 }
