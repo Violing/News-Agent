@@ -1,7 +1,20 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-09 23:12
+**最后更新时间**: 2026-01-10 05:14
+
+---
+
+## 🆕 最新更新 (2026-01-10 05:14)
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-01-10日刊](https://ai.hubtoday.app//2026-01/2026-01-10/)
+**发布时间**: 2026-01-10 07:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [DeepSeek V4爆料：春节档GPT/Claude编程危](https://www.qbitai.com/2026/01/368820.html)
+**发布时间**: 2026-01-10 01:27
 
 ---
 
