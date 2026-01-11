@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "414ddb47efd02863d19bde5ff133db9a84479db58d232831a6e2c77a2b540ed7": {
-        "title": "GPT-5.2 的能力评估、市场反应与AI竞争格局演化",
-        "link": "https://www.infoq.cn/article/DrB6mXayUtswARNSBYL7?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 08:26:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926223"
-      },
-      "91c3e4baf85fd5d2a2c0c6aab41d1167ea8248ab9df3b87bb561cb71cfb6b728": {
-        "title": "Disney Licenses Iconic Characters to OpenAI, Invests $1 Billion in Hollywood's Largest AI Studio Deal",
-        "link": "https://www.tmtpost.com/7806946.html",
-        "published_date": "Fri, 12 Dec 2025 11:17:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926230"
-      },
-      "14146b86f8f95862d314ef42f875d6c173f7c29e4f388879da86a2e296c5dc96": {
-        "title": "大模型第一股之争：MiniMax、智谱、月之暗面竞相赴港IPO",
-        "link": "https://www.tmtpost.com/7806465.html",
-        "published_date": "Fri, 12 Dec 2025 11:34:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926233"
-      },
-      "81a52793ce83bb2261b9c4a89caa0b6d0915620aca5977e8412f2aca0c7c201b": {
-        "title": "地平线：智驾“国产平替芯”，能扳倒英伟达吗？",
-        "link": "https://www.tmtpost.com/7806417.html",
-        "published_date": "Fri, 12 Dec 2025 10:00:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926235"
-      },
-      "b46077a2bc99aedeb98d970471bbaefafc676f0d584ca296ff98c5cc69f0f5a2": {
-        "title": "谷歌云展示了大规模的Kubernetes规模，拥有13万个节点的GKE集群",
-        "link": "https://www.infoq.cn/article/qktdvEVwfOfbYA8iJGTC?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 12 Dec 2025 10:09:00 GMT",
-        "first_seen": "2025-12-12T05:24:16.926236"
-      },
       "a4559809046c2bbb751aa8d7fca3fc2157d936f58ab90c50840011d9696c412a": {
         "title": "OpenAI 发 GPT-5.2，瞄准专业用户；超越苹果，华为重夺第一；迪士尼 10 亿美元投资 OpenAI",
         "link": "http://www.geekpark.net/news/357946",
@@ -5941,39 +5911,27 @@
         "link": "https://www.tmtpost.com/7838175.html",
         "published_date": "Sat, 10 Jan 2026 23:18:00 GMT",
         "first_seen": "2026-01-11T05:23:37.984665"
+      },
+      "7611ae46989c12b0a5aa41ee5277a76862f3e714b1bc002819a659d882adce57": {
+        "title": "2026，AI的价值不在参数里",
+        "link": "https://www.tmtpost.com/7838391.html",
+        "published_date": "Sun, 11 Jan 2026 14:22:00 GMT",
+        "first_seen": "2026-01-11T08:16:35.882081"
+      },
+      "37755efc2ab8674ee01db9c97f472e35f7067db2a7389032b89e492edbf92d39": {
+        "title": "卓驭创始人沈劭劼：2026，智驾要从“端到端” 到“端到所有地方”",
+        "link": "https://www.tmtpost.com/7836257.html",
+        "published_date": "Sun, 11 Jan 2026 13:33:00 GMT",
+        "first_seen": "2026-01-11T08:16:35.882091"
+      },
+      "42db0fb15c869a67adabb8fd39442acb4d87190610f95f292a397bee4401ddaf": {
+        "title": "AI+硬件的\"最后一公里\"：从技术到场景，如何破局？| CES 2026",
+        "link": "https://www.tmtpost.com/7837988.html",
+        "published_date": "Sun, 11 Jan 2026 13:31:00 GMT",
+        "first_seen": "2026-01-11T08:16:35.882093"
       }
     },
     "Finance": {
-      "b532921bde78df12c67f297ec9d8de7d42a3af0702e4ad605143ccc31f3b81da": {
-        "title": "FT Person of the Year: Jensen Huang",
-        "link": "https://www.ft.com/content/11a018f4-95e0-41c2-99d8-aff105328a0b",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298330"
-      },
-      "877ec5bc328c0d634b15a87f599b1c6aacb8ad2b2eaa7e937a9221d5197cebcb": {
-        "title": "Is silver the new gold?",
-        "link": "https://www.ft.com/content/e753bed7-6a1a-49b8-9289-f5d698b82e4f",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298340"
-      },
-      "0c10011031b1f5a5d20a5a73b123dd1834eb8b273dac9b87589cffa01a9ccba8": {
-        "title": "MPs pension scheme makes ‘mockery’ of Reeves investment push",
-        "link": "https://www.ft.com/content/2987b782-0a91-4aad-bc59-32a32fc8ae91",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298342"
-      },
-      "f36aa7a2f49e609056668a04cb2a18aee82447d729afef6e76d35a945cc9b6e3": {
-        "title": "Apollo moves fast-growing lending unit out of storied buyout division",
-        "link": "https://www.ft.com/content/9a34679e-8dff-425b-aef1-b709ac6230bc",
-        "published_date": "Fri, 12 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298344"
-      },
-      "4415b9d8b68ab9e25e64f23e789c9736f56cf64ef70464fb3d9915944b3b9c24": {
-        "title": "Why Broadcom’s stock is falling, even as earnings showed strong AI demand",
-        "link": "https://www.marketwatch.com/story/broadcom-earnings-pass-the-test-as-ai-momentum-sends-the-stock-higher-472ab922?mod=mw_rss_topstories",
-        "published_date": "Fri, 12 Dec 2025 01:22:00 GMT",
-        "first_seen": "2025-12-12T05:23:45.298346"
-      },
       "76fe7a1f54995981603b84ca141c982a6e210bb8822ace3e022f94987220c618": {
         "title": "UK economy contracts by 0.1% in October",
         "link": "https://www.ft.com/content/4176e478-2dd1-4b8b-8b5b-38644c15d5f0",
@@ -8688,36 +8646,6 @@
       }
     },
     "Ai": {
-      "e20833af7c183a5aed2aaa64c2a28e6cb5d8bc6cf47ca2936495a693f1f1a703": {
-        "title": "谷歌发布智能体Scaling Law：180组实验打破传统炼金术",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12",
-        "published_date": "Fri, 12 Dec 2025 10:16:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869585"
-      },
-      "a4dccbf1b7665f865acbe6d6a6f53eecb1e69e06f1797662641273a26424ff20": {
-        "title": "Runway深夜炸场：一口气发布5大更新，首个通用世界模型来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-6",
-        "published_date": "Fri, 12 Dec 2025 13:08:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869591"
-      },
-      "c5595478009554cee95fb4e304a5ba37dd0d97e17398c379db82a92f47725fbe": {
-        "title": "NUS LV Lab新作｜FeRA：基于「频域能量」动态路由，打破扩散模型微调的静态瓶颈",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-3",
-        "published_date": "Fri, 12 Dec 2025 11:31:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869593"
-      },
-      "4ed710ab31534496ddae580587a02b8100be67545cad440251cda76270442c59": {
-        "title": "里程碑时刻！首个100B扩散语言模型来了，技术报告揭秘背后细节",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-12-7",
-        "published_date": "Fri, 12 Dec 2025 13:16:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869594"
-      },
-      "26998a173ba7f98e6f91108f2f4d2480e396379c04f4afb0455725e2f3227394": {
-        "title": "跳过“逐字生成”！蚂蚁集团赵俊博：扩散模型让我们能直接修改Token | MEET2026",
-        "link": "https://www.qbitai.com/2025/12/360425.html",
-        "published_date": "Fri, 12 Dec 2025 04:38:00 GMT",
-        "first_seen": "2025-12-12T05:23:58.869596"
-      },
       "f085fb50d7ec5842dd02b154dfa8db2d5fef3632d9bac9e0776a7210869113de": {
         "title": "AI 驱动的科学系统分析框架：SciSciGPT 打开科学研究的新工作方式",
         "link": "https://www.jiqizhixin.com/articles/2025-12-12-8",
@@ -11122,7 +11050,7 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-11T05:23:37.984666",
+    "Technology": "2026-01-11T08:16:35.882096",
     "Finance": "2026-01-11T05:23:37.753135",
     "Ai": "2026-01-11T05:23:37.872348"
   }
