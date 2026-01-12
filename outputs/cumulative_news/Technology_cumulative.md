@@ -1,7 +1,51 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 05:23
+**最后更新时间**: 2026-01-12 08:20
+
+---
+
+## 🆕 最新更新 (2026-01-12 08:20)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [开源 3 天就 7000 Star！这个复刻 Manus 工作流的 GitHub 项目火了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530568&idx=1&sn=01e8072fd6974e8bd5e371f680a3a965)
+**发布时间**: 2026-01-12 15:58
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [亚马逊云科技预览Route 53 Global Resolver，将DNS与区域故障解耦](https://www.infoq.cn/article/Jey8ALfAhSOBWZ7El1is?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 15:44
+
+#### [抨击AI炒作、曝企业需求为先，Anthropic 联创：模型提 0.01 性能就血赚，算力烧钱但值！](https://www.infoq.cn/article/fZkrM56MKzx9s8dNHYZ7?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 15:02
+
+#### [“死了么”APP爆火，3人开发成本1500元：不改名；姚顺雨入职腾讯后首发声；微软本月大裁员，至少涉1.1 万人；字节实习生全面涨薪 | AI周报](https://www.infoq.cn/article/OVgxgVu4Tph8UfgKshIv?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 15:00
+
+#### [测试人员可以做些什么来确保软件安全](https://www.infoq.cn/article/aWcsjzxXhQcwf3hgWkz2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 14:51
+
+#### [代理式终端——如何使用CLI智能体激活你的终端](https://www.infoq.cn/article/t712SX2KtxLUAF9rZZ6y?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-12 14:09
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [二手高奢与本土新锐夹击，轻奢品牌如何反攻？](https://www.tmtpost.com/7839010.html)
+**发布时间**: 2026-01-12 15:21
+
+#### [这个春节，海南酒店市场稳了](https://www.tmtpost.com/7838994.html)
+**发布时间**: 2026-01-12 14:51
+
+#### [2025人工智能发展现状报告：超级智能与中美大模型PK，限制与超越 | 企服国际观察](https://www.tmtpost.com/7838702.html)
+**发布时间**: 2026-01-12 13:31
+
+#### [Physical AI Should Start Small to Earn Trust, Says Sentigent Technology CEO](https://www.tmtpost.com/7839116.html)
+**发布时间**: 2026-01-12 13:28
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [冬天，在济州岛跨年](https://sspai.com/post/105267)
+**发布时间**: 2026-01-12 15:00
 
 ---
 

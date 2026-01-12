@@ -1,7 +1,30 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-12 05:23
+**最后更新时间**: 2026-01-12 08:20
+
+---
+
+## 🆕 最新更新 (2026-01-12 08:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold hits record high on worries over Fed independence](https://www.ft.com/content/09aa1ffc-3776-4c72-8342-47d4d1bd5186)
+**发布时间**: 2026-01-12 07:51
+
+#### [Criminalising the Fed](https://www.ft.com/content/21b5418c-0c55-4a10-94ac-cb4faeafea32)
+**发布时间**: 2026-01-12 06:30
+
+#### [‘I don’t want to live in an American empire’: Greenlanders bristle at US threats](https://www.ft.com/content/20cbe59e-0ab9-4027-b1ff-b5d738f1bc49)
+**发布时间**: 2026-01-12 05:00
+
+#### [Defence jobs boom as Germany’s arms companies go on hiring spree](https://www.ft.com/content/6d2503cc-c7e8-4c2f-a6c5-07998e1d9b40)
+**发布时间**: 2026-01-12 05:00
+
+#### [Merz under pressure to ease ‘firewall’ against Germany’s far-right](https://www.ft.com/content/8d407c88-78ed-47ad-82dc-2e446a7e7249)
+**发布时间**: 2026-01-12 05:00
+
+#### [Trump threatens to block Exxon from Venezuela](https://www.ft.com/content/5a97cb9f-548d-4480-a3c1-713beb61b8d9)
+**发布时间**: 2026-01-12 02:18
 
 ---
 
