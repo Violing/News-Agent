@@ -1,7 +1,27 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-15 05:19
+**最后更新时间**: 2026-01-15 08:19
+
+---
+
+## 🆕 最新更新 (2026-01-15 08:19)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [UK economy beat expectations to grow 0.3% in November](https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802)
+**发布时间**: 2026-01-15 08:01
+
+#### [Trump’s ‘unpredictable’ policies to fuel shift from US, Pimco says](https://www.ft.com/content/9b2f8903-4350-45a5-a915-a58b6f9b35fb)
+**发布时间**: 2026-01-15 05:00
+
+#### [Can Europe still afford its generous state pensions?](https://www.ft.com/content/9c3c1ec8-9ccf-46bb-977d-e877dcf564e6)
+**发布时间**: 2026-01-15 05:00
+
+#### [Would a ‘mild zombie apocalypse’ be a good thing for the UK economy?](https://www.ft.com/content/f15dcd00-3672-4e5e-8043-b57f3d5fd480)
+**发布时间**: 2026-01-15 05:00
+
+#### [Second person shot by US federal agent in Minneapolis](https://www.ft.com/content/fac53d41-2919-4bed-acec-4c45d2070605)
+**发布时间**: 2026-01-15 04:44
 
 ---
 

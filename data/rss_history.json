@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "81f26c909a43d7f9526983dd0fc9e34e3436534511fb75de6b9e99d2a2adcd58": {
-        "title": "告别“挖矿”逻辑：OpenAI前联合创始人Ilya揭示AI下半场的新赛点",
-        "link": "https://www.tmtpost.com/7810210.html",
-        "published_date": "Tue, 16 Dec 2025 12:03:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700035"
-      },
-      "4cda2717ff34978df1e6f41609c7e76869844ecb8982666d2751b28756d6739d": {
-        "title": "China AI Chip Startup Biren Prepares Hong Kong IPO Amid Push for Semiconductor Self-Reliance",
-        "link": "https://www.tmtpost.com/7810359.html",
-        "published_date": "Tue, 16 Dec 2025 12:29:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700041"
-      },
-      "58f141747e9baa9b473ecf342988a7fc7acda3e2cbb78d4f9d36bf5ca0311f60": {
-        "title": "阿里发布通义万相2.6系列视频生成模型，上线国内首个角色扮演功能 | 钛快讯",
-        "link": "https://www.tmtpost.com/7810393.html",
-        "published_date": "Tue, 16 Dec 2025 13:08:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700043"
-      },
-      "f02686f4fa0d58cfee0236daa80fc6589b761763c773eaace1a2c93220316061": {
-        "title": "Tesla Shares Surge Over 3% to Year-High after Musk Confirms Driverless Robotaxi Road Tests",
-        "link": "https://www.tmtpost.com/7810312.html",
-        "published_date": "Tue, 16 Dec 2025 12:05:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700045"
-      },
-      "410b3bf10cba62c9fe1ae40349f9e54f3d03be2421864fbbe8b2138801e9e5a8": {
-        "title": "AI的“万亿拷问”：疯狂砸AI，从哪里赚回来？",
-        "link": "https://www.tmtpost.com/7810243.html",
-        "published_date": "Tue, 16 Dec 2025 11:56:00 GMT",
-        "first_seen": "2025-12-16T05:25:31.700047"
-      },
       "7353f6e4e0d388aeb84307a34d278dfb2df94f6a8b1937b2bd7e763a08132c43": {
         "title": "启明创投领投，眼科创新药研发企业欧科健完成3000万美元B轮融资 | 融资速递",
         "link": "https://www.tmtpost.com/7810376.html",
@@ -7003,39 +6973,117 @@
         "link": "https://sspai.com/post/105459",
         "published_date": "Thu, 15 Jan 2026 08:53:00 GMT",
         "first_seen": "2026-01-15T05:19:44.670580"
+      },
+      "9a7ee042c3120df5708ab9b95ff28602303416947fa9bd889c120443ef354f4a": {
+        "title": "2026，中国智驾驶入决赛圈",
+        "link": "https://www.tmtpost.com/7844137.html",
+        "published_date": "Thu, 15 Jan 2026 16:15:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010419"
+      },
+      "80d86ab8723d5680a523a51440a6c34beb339759a35a2175faa52a86b5737436": {
+        "title": "Alibaba’s Qwen App Launches AI Shopping With Full Ecosystem Integration",
+        "link": "https://www.tmtpost.com/7844398.html",
+        "published_date": "Thu, 15 Jan 2026 15:50:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010428"
+      },
+      "09b5911c986e1dada6ae02a8111aba9866dee90865b3e48f11ca4497285b97ba": {
+        "title": "年终奖、工资涨涨涨，大厂为何集体 “讨好” 员工？",
+        "link": "https://www.tmtpost.com/7844129.html",
+        "published_date": "Thu, 15 Jan 2026 15:45:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010430"
+      },
+      "603289f80979d4a99a08bea111b891b1a663d81683d7f81f45476b2950291e91": {
+        "title": "浙江省上市公司ESG-V评级榜｜上市公司观察",
+        "link": "https://www.tmtpost.com/7844374.html",
+        "published_date": "Thu, 15 Jan 2026 15:25:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010432"
+      },
+      "e7c039b1b393441fc849e30161a11cead2c4fa5dc5bf2cdcf40162f740df8f0f": {
+        "title": "谁是真正的行业巨擘？ A股规模实力百强榜出炉｜上市公司观察",
+        "link": "https://www.tmtpost.com/7844364.html",
+        "published_date": "Thu, 15 Jan 2026 15:21:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010433"
+      },
+      "1e85d533a3388188bd34c4c721a2aefdf7522cb11d6555c2d6341efe9c904ff8": {
+        "title": "上市公司TOP5济安评估（1月5日至1月9日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/7844356.html",
+        "published_date": "Thu, 15 Jan 2026 15:20:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010435"
+      },
+      "f95cbfa4968a9021846c18469d64219db45413f59d11d7e6d552eed956e7779a": {
+        "title": "英特尔亮出AI PC王牌：酷睿Ultra",
+        "link": "https://www.tmtpost.com/7843795.html",
+        "published_date": "Thu, 15 Jan 2026 14:48:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010437"
+      },
+      "6a2b1ce762ef25328650479bc376ebfd6400bfba9020257fa58221ed8e9e05c7": {
+        "title": "扎克伯格亲手杀死元宇宙",
+        "link": "https://www.tmtpost.com/7844120.html",
+        "published_date": "Thu, 15 Jan 2026 14:26:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010438"
+      },
+      "626a0b246cf25d3a68018a3d392fcf113efcf91b7096e99330959b44723b062f": {
+        "title": "3%退货率，这台泳池机器人的“异类”硬件哲学｜50×50",
+        "link": "https://www.tmtpost.com/7843850.html",
+        "published_date": "Thu, 15 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010440"
+      },
+      "cc5630062d4a7ed0078c66b0eb00e195846ff30ae69d8b00cdcad68e5b8a0465": {
+        "title": "“死了么”App估值上亿，照见“孤独经济”万亿新蓝海",
+        "link": "https://www.tmtpost.com/7843709.html",
+        "published_date": "Thu, 15 Jan 2026 13:55:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010442"
+      },
+      "118731c6704e2f54fcba3c4a44e29b07ebd28a00db8c817fb6167ef9e38c7b46": {
+        "title": "藏在茶馆里的银发经济",
+        "link": "https://www.tmtpost.com/7844012.html",
+        "published_date": "Thu, 15 Jan 2026 13:38:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010443"
+      },
+      "467c9637ee995a9746799af20f794e287acc389c9c1b9151284c1669a9f57709": {
+        "title": "千问接入淘宝、支付宝等App，阿里巴巴Agent行动开始了",
+        "link": "https://www.tmtpost.com/7844188.html",
+        "published_date": "Thu, 15 Jan 2026 13:22:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010445"
+      },
+      "266799f94cf1988e5a828684dce9cd13f7b8651692dfb27019b10e935f51a5d8": {
+        "title": "谷歌推出Conductor：一款面向Gemini CLI的上下文驱动开发扩展",
+        "link": "https://www.infoq.cn/article/RjIZD2dC9ZX3ROmzpsST?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 15:28:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010446"
+      },
+      "4176461ae6b6f15f6fb2b95e12205e4151215d5932e99eb8406da1c675115447": {
+        "title": "手握30亿、被蚂蚁狂挖人，转型被骂惨的王小川，真的翻身了？",
+        "link": "https://www.infoq.cn/article/YK5s1sA4dEkP15fKNrkc?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 14:51:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010448"
+      },
+      "646bb7e1388ee8a7d16b14265063d59989b04c549a8eca6829b4bdde9a6a7c2a": {
+        "title": "LangGrant推出LEDGE MCP服务器，赋能企业数据库启用代理式AI",
+        "link": "https://www.infoq.cn/article/oNxDI4OWZTmvoXrZXMvA?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 15 Jan 2026 14:42:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010449"
+      },
+      "62ef5cd8a593a48b00eda98b087eaab1a2a09921affd90e70bdd4e424b726d70": {
+        "title": "最近 火火火 的 4 个 GitHub 开源项目",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530617&idx=1&sn=6b5bfc3e439a229f54e03afacbecba04",
+        "published_date": "Thu, 15 Jan 2026 15:11:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010450"
+      },
+      "cef172871f7e4ab227b8fb4c5c8ee5042b40ac7f4b2abbd973459ccd45329619": {
+        "title": "科普 | 高帧率、好画质的「光追」是如何实现的？",
+        "link": "https://sspai.com/post/83522",
+        "published_date": "Thu, 15 Jan 2026 14:30:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010452"
+      },
+      "2c7641d018f11d1cb6df8c3a7cc3e32d6918aea84185b5b90979b322ff4ceb9a": {
+        "title": "鲍威尔为何成懂王眼中钉？",
+        "link": "http://www.huxiu.com/article/4825757.html?f=wangzhan",
+        "published_date": "Thu, 15 Jan 2026 14:26:00 GMT",
+        "first_seen": "2026-01-15T08:19:27.010453"
       }
     },
     "Finance": {
-      "a3bf062e61b121c47efec301d7b64cde6330ff0b13194725219b8d072b355cbc": {
-        "title": "Two Fed officials who rarely agree both say inflation will not be a problem going forward",
-        "link": "https://www.marketwatch.com/story/two-fed-officials-who-rarely-agree-both-say-inflation-will-not-be-a-problem-going-forward-f5425178?mod=mw_rss_topstories",
-        "published_date": "Tue, 16 Dec 2025 00:56:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605203"
-      },
-      "8ae7ab932095e5e0ad0c57732b7cdb58625b4095ae3fc2b03bfde353bf4a9d6c": {
-        "title": "Mexico’s tariffs on China show the rise of Trump’s trade template",
-        "link": "https://www.ft.com/content/0297584e-3fad-4ff4-b326-2bfd82b0859a",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605215"
-      },
-      "58388f95a3c0165e59f4406ab76b279361aa6b1407b7282bec57763103d33906": {
-        "title": "Global brands seek PE partners to save their China businesses",
-        "link": "https://www.ft.com/content/2e66603f-2ec2-4345-ac28-017ae75e99cc",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605218"
-      },
-      "9a8f9d2a694c4d7da46be34afd4013d196ff03982c04bc9a9641ad0b2d36f228": {
-        "title": "Shell mergers chief departed after CEO blocked bid for BP",
-        "link": "https://www.ft.com/content/2f9a4047-c860-4632-bc55-00d73df4e5b9",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605220"
-      },
-      "efc8cb883837e4665fd3030eff69dc9d1e7f823b991219dc48297e7a6d71d002": {
-        "title": "Monzo chief pushed out after board rift over growth and IPO plans",
-        "link": "https://www.ft.com/content/5aa2f310-d023-441d-97e4-a23ba6ad0874",
-        "published_date": "Tue, 16 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-16T05:24:51.605222"
-      },
       "ece670250ec33f1ecea6b8e8267b7eaa1c2e7515957906344b2749933561060d": {
         "title": "UK unemployment rate rises to 5.1%",
         "link": "https://www.ft.com/content/96d2c777-c29b-4d92-a984-59d8b1b753d9",
@@ -10179,39 +10227,15 @@
         "link": "https://www.marketwatch.com/story/why-oil-experts-say-u-s-iran-tensions-feel-different-this-time-around-than-previous-crises-e1b772d6?mod=mw_rss_topstories",
         "published_date": "Wed, 14 Jan 2026 23:25:00 GMT",
         "first_seen": "2026-01-15T05:19:44.397153"
+      },
+      "a9c3481d240f5069a82e75a3dfee982725fdf63454fd0029317d1d9cf6d1a667": {
+        "title": "UK economy beat expectations to grow 0.3% in November",
+        "link": "https://www.ft.com/content/2a7e4534-b97a-4abd-ba5d-c689c2ec7802",
+        "published_date": "Thu, 15 Jan 2026 08:01:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.761623"
       }
     },
     "Ai": {
-      "b4ee402a5eb466c029f3359592fa0f6a3a4c75019d52c085adce635fe505cffa": {
-        "title": "56倍加速生成式策略：西交大提出EfficientFlow，迈向高效具身智能",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-4",
-        "published_date": "Tue, 16 Dec 2025 13:12:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959560"
-      },
-      "9b7c946dce1cb218e90b65cc42654289e965ef86166feec6862714b04d9fba27": {
-        "title": "让扩散模型「可解释」不再降质，开启图片编辑新思路",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16",
-        "published_date": "Tue, 16 Dec 2025 10:45:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959567"
-      },
-      "059e9ab26902ba056f051af6ad7ff86b82b4d2c464122aa703d8e57382d45d52": {
-        "title": "仅凭一次快照推断细胞动力学，多阶段最优传输模型重建细胞分化轨迹",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-3",
-        "published_date": "Tue, 16 Dec 2025 11:59:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959569"
-      },
-      "04719d71b94fbae43bd3b1394ea8c83f8cd1c95e17b716743fd7e46af79b6ba9": {
-        "title": "临床PK完胜ChatGPT-5！国内团队造出首个OCT影像AI系统",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-5",
-        "published_date": "Tue, 16 Dec 2025 13:18:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959571"
-      },
-      "533ed22f4d045963eefdb2a526d250e3f3a34796dc2e773f5368d3e17fd138a3": {
-        "title": "告别「手搓Prompt」，前美团高管创业，要让物理世界直接成为AI提示词",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-16-2",
-        "published_date": "Tue, 16 Dec 2025 10:51:00 GMT",
-        "first_seen": "2025-12-16T05:25:03.959572"
-      },
       "c4e478b6ea32eab631c83f50ca1c31bc512f7790e83b6d9b9de0f997c9d5d585": {
         "title": "无预训练模型拿下ARC-AGI榜三！Mamba作者用压缩原理挑战Scaling Law",
         "link": "https://www.qbitai.com/2025/12/361125.html",
@@ -12707,13 +12731,49 @@
         "link": "https://www.qbitai.com/2026/01/369542.html",
         "published_date": "Thu, 15 Jan 2026 03:04:00 GMT",
         "first_seen": "2026-01-15T05:19:44.548832"
+      },
+      "c2787183ff5ca7a7e009a78e0770affa890eb0af094203a6f8b70a84757e7875": {
+        "title": "Nature丨清华等团队揭示AI科研双重效应：个人效率亦或是科学边界",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-9",
+        "published_date": "Thu, 15 Jan 2026 14:02:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900747"
+      },
+      "fff6d264d059a0070a74ab554abb0fea1a2131362af95167da1ab8f1b2487bee": {
+        "title": "刚刚，喝到了千问APP给我点的奶茶",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-15-8",
+        "published_date": "Thu, 15 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900756"
+      },
+      "1585ba2f3f55cffffc8531048ae763ba44e2c2fb01fda5ef586735fe397f6e40": {
+        "title": "清华新研究，Nature+Science双杀！",
+        "link": "https://www.qbitai.com/2026/01/369696.html",
+        "published_date": "Thu, 15 Jan 2026 07:17:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900759"
+      },
+      "4ccd01eeddc30767816d65a8ea2003ac184adb36bc641ae3419a71f70dd20da4": {
+        "title": "姚班传奇陈立杰入职OpenAI！16岁保送清华，30岁拿下UC伯克利助理教授",
+        "link": "https://www.qbitai.com/2026/01/369684.html",
+        "published_date": "Thu, 15 Jan 2026 06:42:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900760"
+      },
+      "1efc0355afa33fdc28f172dcfd71e949cb4ca2af82130a264aa6c46ea3c8790b": {
+        "title": "Waymo火车轨道停车，乘客仓惶逃生…马斯克估计要笑醒了",
+        "link": "https://www.qbitai.com/2026/01/369638.html",
+        "published_date": "Thu, 15 Jan 2026 06:39:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900762"
+      },
+      "3ec3008cbdcef1036277517d53fe59da0fd5319dc319cba9a06b4af8a2ed7f8d": {
+        "title": "不得了，这个新技术把视频压缩到了0.02%！",
+        "link": "https://www.qbitai.com/2026/01/369609.html",
+        "published_date": "Thu, 15 Jan 2026 06:21:00 GMT",
+        "first_seen": "2026-01-15T08:19:26.900764"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-15T05:19:44.670582",
-    "Finance": "2026-01-15T05:19:44.397155",
-    "Ai": "2026-01-15T05:19:44.548835"
+    "Technology": "2026-01-15T08:19:27.010455",
+    "Finance": "2026-01-15T08:19:26.761634",
+    "Ai": "2026-01-15T08:19:26.900766"
   }
 }
