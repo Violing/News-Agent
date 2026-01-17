@@ -1,7 +1,48 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-17 08:16
+**最后更新时间**: 2026-01-17 23:12
+
+---
+
+## 🆕 最新更新 (2026-01-17 23:12)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [烧掉数万亿 Token、数百 Agent 连跑一周：Cursor“从零写浏览器”，结果是拼装人类代码？](https://www.infoq.cn/article/t0rpY0X2G9RBmXf9SK6g?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 20:00
+
+#### [告别“刀片利润”，AI如何帮中国数百万中小工厂构筑新护城河？](https://www.infoq.cn/article/uPMimwjtFsRSB8thczFi?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-01-17 19:37
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [这轮对外卖行业“调查评估”，现阶段主要看什么？](https://www.tmtpost.com/7846042.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [2026，AI音乐跃迁元年？](https://www.tmtpost.com/7846436.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [携程遭反垄断调查，OTA行业硝烟再起](https://www.tmtpost.com/7846535.html)
+**发布时间**: 2026-01-17 19:23
+
+#### [餐酒吧连锁，是一门怎样的生意？](https://www.tmtpost.com/7846252.html)
+**发布时间**: 2026-01-17 18:04
+
+#### [仅用一周时间，谷歌就让OpenAI认清现实](https://www.tmtpost.com/7846324.html)
+**发布时间**: 2026-01-17 16:59
+
+#### [黄金迎来史诗级牛市，上游矿企狂欢，金饰品牌陷“关店潮”](https://www.tmtpost.com/7846056.html)
+**发布时间**: 2026-01-17 16:34
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [推荐 2 个 GitHub 上的 Markdown 开源工具，有意思。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530619&idx=1&sn=63b3f466f345c4d1043a6fa549472ac4)
+**发布时间**: 2026-01-17 16:01
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [BBA，势败如山倒](http://www.huxiu.com/article/4827348.html?f=wangzhan)
+**发布时间**: 2026-01-17 15:54
 
 ---
 
