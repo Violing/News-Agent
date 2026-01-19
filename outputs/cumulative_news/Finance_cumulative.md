@@ -1,7 +1,18 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-19 05:25
+**最后更新时间**: 2026-01-19 08:21
+
+---
+
+## 🆕 最新更新 (2026-01-19 08:21)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Gold hits record and stocks fall as Greenland crisis deepens](https://www.ft.com/content/8d2b76e7-4450-4859-8128-866bc7cbfb90)
+**发布时间**: 2026-01-19 07:23
+
+#### [House prices jump across Britain as sentiment rebounds after Budget](https://www.ft.com/content/5a449880-0276-442e-b56a-cae505b15bed)
+**发布时间**: 2026-01-19 00:02
 
 ---
 
