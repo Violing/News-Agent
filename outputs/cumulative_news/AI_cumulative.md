@@ -1,7 +1,29 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-20 23:13
+**最后更新时间**: 2026-01-21 05:27
+
+---
+
+## 🆕 最新更新 (2026-01-21 05:27)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [推翻150年数学直觉：数学家烧坏几台笔记本，解决几何拓扑难题](https://www.jiqizhixin.com/articles/2026-01-21-4)
+**发布时间**: 2026-01-21 13:21
+
+#### [AI5芯片搞定，马斯克的纯自研超算Dojo 3又回来了](https://www.jiqizhixin.com/articles/2026-01-21-3)
+**发布时间**: 2026-01-21 13:15
+
+#### [R1一周年，DeepSeek Model 1悄然现身](https://www.jiqizhixin.com/articles/2026-01-21-2)
+**发布时间**: 2026-01-21 10:22
+
+#### [AAAI 2026 Oral | 告别注意力与热传导！北大清华提出WaveFormer，首创波动方程建模视觉](https://www.jiqizhixin.com/articles/2026-01-21)
+**发布时间**: 2026-01-21 10:17
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-01-21日刊](https://ai.hubtoday.app//2026-01/2026-01-21/)
+**发布时间**: 2026-01-21 07:55
 
 ---
 
