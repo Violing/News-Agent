@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "73668160f794bbbdfbec73635c1700d71de2d86322277ad14f28ddbbf8f0e202": {
-        "title": "GPT-6或三个月内亮相！奥特曼亲口承认：9亿用户难敌谷歌“致命一击”，1.4万亿美元算力豪赌AI未来",
-        "link": "https://www.infoq.cn/article/9aogD7JlaptgBYFg6DuZ?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 11:58:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319584"
-      },
-      "07f5738580e21222def4acfa54df11b22b7763e1d8df999346772679bfb6ee59": {
-        "title": "H200春节前重返中国，黄仁勋有多少胜算？",
-        "link": "https://www.tmtpost.com/7817767.html",
-        "published_date": "Tue, 23 Dec 2025 10:10:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319590"
-      },
-      "0a684f2a120b40716e3148327caca22357f538031d66ace4ef81e4edbf5c4b94": {
-        "title": "用意念拿外卖，中国科学家攻克脑机接口难关",
-        "link": "http://www.huxiu.com/article/4819595.html?f=wangzhan",
-        "published_date": "Tue, 23 Dec 2025 08:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319592"
-      },
-      "7b0545f5bad3d111952c166e6a04f89747dd3969cd04575c395377aaa158caac": {
-        "title": "Chinese Chipmakers Rush to IPOs as Blockbuster Debuts Fuel Funding Drive",
-        "link": "https://www.tmtpost.com/7818065.html",
-        "published_date": "Tue, 23 Dec 2025 11:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319594"
-      },
-      "889385e71dab17a09979d48adff97c68da542e4999c56edf98b8ad0c33483ef3": {
-        "title": "Instacart停止AI定价测试，股价应声下跌",
-        "link": "https://www.tmtpost.com/7818075.html",
-        "published_date": "Tue, 23 Dec 2025 11:01:00 GMT",
-        "first_seen": "2025-12-23T05:26:33.319596"
-      },
       "406fface4462a50b8e16fa0836351177a99a5f80a41800a7c06d4d96140dd293": {
         "title": "“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5",
         "link": "https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article",
@@ -8623,39 +8593,99 @@
         "link": "http://www.huxiu.com/article/4828310.html?f=wangzhan",
         "published_date": "Thu, 22 Jan 2026 09:59:00 GMT",
         "first_seen": "2026-01-22T05:22:00.736399"
+      },
+      "4dcb2ec2770ed691f983028e9f3301a970c681ff9b946d6e1a5cc8d75806e785": {
+        "title": "Salesforce将1,000多个EKS集群迁移到Karpenter，以提高扩缩速度和效率",
+        "link": "https://www.infoq.cn/article/MJlz0Dv7QQPqf782oCPJ?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 16:02:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628508"
+      },
+      "682bfd9830a40a75e0426b8a50765c59507c88125fe2cc6a5dc41550ce03c3b0": {
+        "title": "AI撞到“数据天花板”，一场革命正悄悄上演",
+        "link": "https://www.infoq.cn/article/vAZrlAQMJ6rvaq6oWypv?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 14:47:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628516"
+      },
+      "0c6fbac2be5f83a675c88f7575a41b7c2e7e0b66c9bc01617beb8c42f04ee2e1": {
+        "title": "Android Studio Otter 优化代理工作流程，增强 LLM 灵活性",
+        "link": "https://www.infoq.cn/article/hGq63lTTN44RtAmwA128?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 14:40:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628518"
+      },
+      "b4ed42b93980426a5216098f82e6c7f5ae70f7578ddd7b07586bb0111209c43a": {
+        "title": "Cloudflare在R2 SQL中推出聚合功能，提升数据分析能力",
+        "link": "https://www.infoq.cn/article/233savw2C6lrQCPaUbMX?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 13:58:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628520"
+      },
+      "7a9c794b91ddb40d0dd2f565be788ceeed7556621a4e158b844ab55d2bd5a20a": {
+        "title": "发布增强医疗大模型M3 Plus，王小川：年成本仅1亿可让中国医疗AI跑起来",
+        "link": "https://www.tmtpost.com/7851981.html",
+        "published_date": "Thu, 22 Jan 2026 15:33:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628521"
+      },
+      "1dd048e9b45519cd6ca8430baa7cfdac3dfbdcab7c0f3dc5fe720e8f5702374f": {
+        "title": "技术面显示，曾经推荐的股票出现了买入机会",
+        "link": "https://www.tmtpost.com/7851987.html",
+        "published_date": "Thu, 22 Jan 2026 15:25:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628523"
+      },
+      "843fa48d538899d52916269bf9ec0187aeaf260414f21196655bf54c640a2fa7": {
+        "title": "TCL控股索尼电视，日系电视从全球霸主到“集体退场”",
+        "link": "https://www.tmtpost.com/7851794.html",
+        "published_date": "Thu, 22 Jan 2026 14:25:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628524"
+      },
+      "41ad676ad9b0f627840ac1e3cd28cadac7d629b9c174661b54435ace525cfa15": {
+        "title": "联邦快递股价下跌：为什么利好消息反而会让华尔街下调评级",
+        "link": "https://www.tmtpost.com/7851881.html",
+        "published_date": "Thu, 22 Jan 2026 13:46:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628526"
+      },
+      "b3262b75108e729df6367e2bada45281e4993b381251e2c716fdb896bcc6f336": {
+        "title": "OpenAI 去中东，寻求500亿美元融资",
+        "link": "https://www.tmtpost.com/7851863.html",
+        "published_date": "Thu, 22 Jan 2026 13:44:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628527"
+      },
+      "ee9402a195980c378d29f0c00e4a11d275475721924da3a5c1a7e38ca920549b": {
+        "title": "上市公司TOP5济安评估 （1月12日至1月16日）｜上市公司观察",
+        "link": "https://www.tmtpost.com/7851870.html",
+        "published_date": "Thu, 22 Jan 2026 13:38:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628528"
+      },
+      "1004ba5170bd413f4181bbedc05d375e57127e3cd7483939ea4d6e134290dcf7": {
+        "title": "四川上市公司ESG-V评级出炉：资源型经济如何走向价值型定价？｜上市公司观察",
+        "link": "https://www.tmtpost.com/7851859.html",
+        "published_date": "Thu, 22 Jan 2026 13:37:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628530"
+      },
+      "2facdd390568469c5702257ab141bec991d49a84dec940363000a65c78d2541e": {
+        "title": "清华开源！这个 GitHub 项目重新定义端侧 Agent 智能体 。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530710&idx=1&sn=1ef6a9abecb2077c5c34d0201b2e676c",
+        "published_date": "Thu, 22 Jan 2026 15:25:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628531"
+      },
+      "eebcf15283c36f4f113e2fbfe11f3521d70afa0fafa32a9764501f84a816358d": {
+        "title": "真正的纯棉面料到底是什么？",
+        "link": "http://www.huxiu.com/article/4828522.html?f=wangzhan",
+        "published_date": "Thu, 22 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628533"
+      },
+      "9a8d8853d7fe0a5858df77d810ce44a700a04a1fa34291ae76185e189370cae1": {
+        "title": "“总有一种力量让我们泪流满面”",
+        "link": "http://www.huxiu.com/article/4828592.html?f=wangzhan",
+        "published_date": "Thu, 22 Jan 2026 13:00:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628534"
+      },
+      "2bc7f4ea2e4528dc28a011487426a51a83727a7bf7167bf59ae1f48935141098": {
+        "title": "Mac 视觉史（四）：用动效交互为 Mac OS X 附魔",
+        "link": "https://sspai.com/post/105410",
+        "published_date": "Thu, 22 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.628536"
       }
     },
     "Finance": {
-      "ad22cfed6cadb3d8d93387d0609d4c7a3a0e491fffc39a4afd92164938df04af": {
-        "title": "Year in a word: AI bubble",
-        "link": "https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742271"
-      },
-      "de95a43f9bcb3c12ad1829f9bde16efc30cb4593701bf2bba789f1a290a5ccf9": {
-        "title": "AI debt boom pushes US corporate bond sales close to record",
-        "link": "https://www.ft.com/content/faa3d747-9a32-4219-93eb-a93c10502f06",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742280"
-      },
-      "e2d0871038708356af428050eca68b4607142d3de9784ba0b4cfa52c42accc2f": {
-        "title": "Novo Nordisk weight-loss drug wins US approval as a daily pill",
-        "link": "https://www.ft.com/content/c8630c2a-321a-4a25-ad19-7c2b571c77f7",
-        "published_date": "Tue, 23 Dec 2025 01:22:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742283"
-      },
-      "568465b8873aadc52654e4598c4e0431fe89e48cf7488be728aa72d124dbbe9f": {
-        "title": "House prices fall in half of London boroughs",
-        "link": "https://www.ft.com/content/a33f4f58-a7c0-43ae-bc99-e8652976b969",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742285"
-      },
-      "df620a76dad845a8add30024ef90254c3b98964e3fe98cbcc42d1acf9f6b46ee": {
-        "title": "The good, the bad and the ugly of Britain’s labour market reforms",
-        "link": "https://www.ft.com/content/ceb1269a-d7c3-43c1-899e-7e9d744cc4bc",
-        "published_date": "Tue, 23 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-23T05:26:05.742287"
-      },
       "be8d68bf16d97d407730901d346009b7947c671cecdf2e5075b669199ef6ce30": {
         "title": "US economy grew at 4.3% rate in third quarter",
         "link": "https://www.ft.com/content/fea44f00-6e54-4bd0-b722-6b029ad4411c",
@@ -12441,39 +12471,27 @@
         "link": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories",
         "published_date": "Thu, 22 Jan 2026 00:46:00 GMT",
         "first_seen": "2026-01-22T05:22:00.464507"
+      },
+      "050b64558a1bf91f212a37192eec0a2a1bc1007d5a8f0c8dbf2c01c343f8c3c2": {
+        "title": "UK government borrowing fell to £11.6bn in December",
+        "link": "https://www.ft.com/content/d92234e4-df09-448b-815a-b28817136339",
+        "published_date": "Thu, 22 Jan 2026 07:09:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.384364"
+      },
+      "51280ecf9bdac00bff85d86eafe8985b0e94081449e697af8a34f32371df77fa": {
+        "title": "EQT to buy Coller Capital for up to $3.7bn",
+        "link": "https://www.ft.com/content/45fca5a4-4422-4c24-8f26-afc3392afcbe",
+        "published_date": "Thu, 22 Jan 2026 06:41:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.384373"
+      },
+      "a31e70da05574e7ff1b31bae47402691da56b76316ad556f73507c60f3d6bc57": {
+        "title": "Davos latest: Markets rally after Trump touts Greenland deal",
+        "link": "https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d",
+        "published_date": "Thu, 22 Jan 2026 06:08:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.384377"
       }
     },
     "Ai": {
-      "87ee1946320e1bd46c44747977987a58b4cf2350783875dd0b25bffa11c427b3": {
-        "title": "仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-3",
-        "published_date": "Tue, 23 Dec 2025 13:04:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864829"
-      },
-      "c4afa0fc1c9b4fc1037196a31aefd3ee538f63ce1bfd613a1ba37e6ae2ca9493": {
-        "title": "VideoCoF：将「时序推理」引入视频编辑，无Mask实现高精度编辑与长视频外推！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23",
-        "published_date": "Tue, 23 Dec 2025 12:56:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864836"
-      },
-      "9b3ee43e172477cff9eceb13219d3edcc0aae6dc0dffdb4ad0893dc904ba944c": {
-        "title": "智谱IPO敲钟前，连夜把开源编程大模型SOTA了",
-        "link": "https://www.qbitai.com/2025/12/364823.html",
-        "published_date": "Tue, 23 Dec 2025 00:28:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864838"
-      },
-      "956661ef5edfc111d279eba872854657f807f09416f6c1b82055159379970944": {
-        "title": "拿走200多万奖金的AI人才，到底给出了什么样的技术方案？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-4",
-        "published_date": "Tue, 23 Dec 2025 13:13:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864840"
-      },
-      "1cdecbd356896a274f3ede41babed506e7c105991a14d7a61b133538310f3d31": {
-        "title": "我们走访全国百强三甲医院，发现40%都选了同一家AI公司",
-        "link": "https://www.qbitai.com/2025/12/365043.html",
-        "published_date": "Tue, 23 Dec 2025 03:10:00 GMT",
-        "first_seen": "2025-12-23T05:26:15.864841"
-      },
       "1abb0f98bfb5e0873e2456c94a2a8aeb57283e9fa4c1ce86bedcb2aac36f60e4": {
         "title": "LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-8",
@@ -15035,13 +15053,31 @@
         "link": "https://www.qbitai.com/2026/01/371286.html",
         "published_date": "Thu, 22 Jan 2026 04:12:00 GMT",
         "first_seen": "2026-01-22T05:22:00.612272"
+      },
+      "0781ba3f827bd2f29952b457c6d56d6aa07f5cb4387d3ecd1196a51563854e4b": {
+        "title": "剑桥与北航等设计可穿戴设备+LLM，融合肌肉振动、脉搏与大模型推理的无声语音系统",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-5",
+        "published_date": "Thu, 22 Jan 2026 14:09:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.508993"
+      },
+      "bbf7224638a100fe2cc609536c40a3dcc857686b6d88fd4d4790cd85650fd235": {
+        "title": "Node.js之父：手写代码已死",
+        "link": "https://www.qbitai.com/2026/01/371389.html",
+        "published_date": "Thu, 22 Jan 2026 06:43:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.509001"
+      },
+      "8e3f8f2b08518160a8887492ef113cc2fca2d26fdd529406f61958b569cfdbbd": {
+        "title": "57.1%的人分不清真假！Runway新视频模型太爆炸",
+        "link": "https://www.qbitai.com/2026/01/371481.html",
+        "published_date": "Thu, 22 Jan 2026 06:40:00 GMT",
+        "first_seen": "2026-01-22T08:19:51.509003"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-22T05:22:00.736401",
-    "Finance": "2026-01-22T05:22:00.464509",
-    "Ai": "2026-01-22T05:22:00.612274"
+    "Technology": "2026-01-22T08:19:51.628537",
+    "Finance": "2026-01-22T08:19:51.384379",
+    "Ai": "2026-01-22T08:19:51.509006"
   }
 }
