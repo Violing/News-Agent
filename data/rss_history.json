@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "406fface4462a50b8e16fa0836351177a99a5f80a41800a7c06d4d96140dd293": {
-        "title": "“大模型第一股”打响上市前哨战！智谱刷新开源编程SOTA，在修复代码、终端操作表现超Claude 4.5",
-        "link": "https://www.infoq.cn/article/wTgh5tfft66Zf8AWQutD?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 16:01:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805632"
-      },
-      "8c406c7627ffac3e720255be63e4763d40295124ce55ec1b6dcbc8f3f8a2a4e3": {
-        "title": "谷歌为 AI 算力拼了！砸下 47.5 亿美元收购Intersect Power，连对方债务都接盘了",
-        "link": "https://www.infoq.cn/article/ph3UrchQjgjH0k2SD5iP?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 13:53:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805639"
-      },
-      "d415db87fd5dd47896a85a9443e04061438346fd08030bb4b74c48da4dc7a9c0": {
-        "title": "给AI接上专有知识库：RAG的工程化实现",
-        "link": "https://www.tmtpost.com/7817906.html",
-        "published_date": "Tue, 23 Dec 2025 15:01:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805641"
-      },
-      "c40a01cc27b30d7874db311616a0106e964299945e48f9f32802110b088ef2ca": {
-        "title": "告别“一刀切”：“需求分化”如何重构算力供给？",
-        "link": "https://www.infoq.cn/article/FBliz8QgpDs5pA7WocGg?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 14:48:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805643"
-      },
-      "9d47e0b50a19da467c68fdd02e88197504b630c023455e0274f939d92c20eae5": {
-        "title": "巫师3、茶杯头、赛博朋克2077都能玩：英伟达把会打1000多款游戏的大模型全开源了",
-        "link": "https://www.infoq.cn/article/ut3wFMPp3GKhDiijFsh3?utm_source=rss&utm_medium=article",
-        "published_date": "Tue, 23 Dec 2025 11:51:00 GMT",
-        "first_seen": "2025-12-23T08:33:56.805645"
-      },
       "dbc4d0d8c6e011a6e899c7222d9b55a0c01f3136a1749db6c93cb199b9f568af": {
         "title": "“我们要彻底告别C++”！微软启动代码史上最大“拆迁”：Windows、Azure将用Rust重写",
         "link": "https://www.infoq.cn/article/eB7ycjTNNMh7B3ZSd7Rz?utm_source=rss&utm_medium=article",
@@ -8683,6 +8653,132 @@
         "link": "https://sspai.com/post/105410",
         "published_date": "Thu, 22 Jan 2026 15:00:00 GMT",
         "first_seen": "2026-01-22T08:19:51.628536"
+      },
+      "3ce4b0bb805d28ff133e75b3b0774f117015bb1751cd70fe3f4793d31f79b3cc": {
+        "title": "斑马智行Auto Omni获中国汽车工程学会先进科技成果认证｜公司动态",
+        "link": "https://www.tmtpost.com/7852652.html",
+        "published_date": "Thu, 22 Jan 2026 21:58:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135033"
+      },
+      "f05641bf2d1666b755abc813d5791e3dafae7f77fee43719f65723c4b4fcc0f3": {
+        "title": "字节AI撒“豆”成兵",
+        "link": "https://www.tmtpost.com/7852333.html",
+        "published_date": "Thu, 22 Jan 2026 19:08:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135041"
+      },
+      "6b1066c93047240dec22fa8cf23798717fe6ffad89a97bcda8ad4e07796c5606": {
+        "title": "三次转型后终于踩准风口，“储能BMS第一股”冲上创业板",
+        "link": "https://www.tmtpost.com/7851317.html",
+        "published_date": "Thu, 22 Jan 2026 19:07:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135043"
+      },
+      "38eaabbbdaa75ddc73506c85e5dcccbdf6175d9c61c1000ef2a4b5eb32a93e2e": {
+        "title": "章泽天、罗永浩们扎堆入局，“视频播客”成流量新战场？",
+        "link": "https://www.tmtpost.com/7852330.html",
+        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135044"
+      },
+      "85d5873ed3e46dbacaa73b831e5adcb671c21420a5c5da9d85cc7e3e4d66bc74": {
+        "title": "2026年了，村里的老人会用AI了吗？",
+        "link": "https://www.tmtpost.com/7852481.html",
+        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135046"
+      },
+      "b44b5ede71c473ac8136737a27abfa991acb7a1ce40d972d5a78f30eeadb6e92": {
+        "title": "飞书钉钉AI硬件争夺战：录音背后的入口之争",
+        "link": "https://www.tmtpost.com/7852258.html",
+        "published_date": "Thu, 22 Jan 2026 18:59:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135047"
+      },
+      "ad02f6d1e1e4f330ddc74b4c96315655407e20108e702d3bddcc3bcbbf10082b": {
+        "title": "易华录转型困局：募投项目叫停，现金流危机与ST风险双重压顶",
+        "link": "https://www.tmtpost.com/7852280.html",
+        "published_date": "Thu, 22 Jan 2026 18:29:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135048"
+      },
+      "67fd19056ed1a71d2875061f05b83ad7ebcb2d3de9321aa9b319b407ee370cd2": {
+        "title": "金马游乐的转型焦虑：业绩波动加剧、毛利率下滑，定增加码机器人是解药吗？",
+        "link": "https://www.tmtpost.com/7852327.html",
+        "published_date": "Thu, 22 Jan 2026 18:25:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135050"
+      },
+      "201c933e0c1c60b1789c88b7251289a16522ac7959650155383b4d007dc15466": {
+        "title": "“百元盲盒”击碎BJD高贵滤镜",
+        "link": "https://www.tmtpost.com/7852270.html",
+        "published_date": "Thu, 22 Jan 2026 17:59:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135051"
+      },
+      "27b5d42bd6e95a5befb4c208c7c26f680c8a107f2df861e4e53a24943fdbc04e": {
+        "title": "Netflix：重要的剧情说三遍，以防观众在玩手机，大本和达蒙联手爆料行业幕后",
+        "link": "https://www.tmtpost.com/7852303.html",
+        "published_date": "Thu, 22 Jan 2026 17:59:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135052"
+      },
+      "9c769987a18cb075f33ce00c134538cee7a03b583338c1942b0a9e3442b52353": {
+        "title": "股价跌跌不休，股份行“差生”光大银行到底差哪了",
+        "link": "https://www.tmtpost.com/7852342.html",
+        "published_date": "Thu, 22 Jan 2026 17:56:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135054"
+      },
+      "a83ee216cd38bb63f3043a88eb621e70cb3b87544b6ed5711fab6443a577c97a": {
+        "title": "智能时代，新兴科技品牌落地海外有哪些颠覆性变化？| CES 2026",
+        "link": "https://www.tmtpost.com/7852259.html",
+        "published_date": "Thu, 22 Jan 2026 17:30:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135055"
+      },
+      "2343f7f8f2693c54864214266f65fc18d02ae9aae183910215c50f254e623c74": {
+        "title": "中国最后一批亿万富翁，只能从餐饮行业诞生？",
+        "link": "https://www.tmtpost.com/7852110.html",
+        "published_date": "Thu, 22 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135056"
+      },
+      "e0413b6a858425fbf3ef0cd19aa4af2bcb69cfbd6a14b177d41cb5b4efd708f6": {
+        "title": "国产创新器械“第一股”井喷：多个细分赛道集体冲刺IPO",
+        "link": "https://www.tmtpost.com/7852149.html",
+        "published_date": "Thu, 22 Jan 2026 16:34:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135058"
+      },
+      "7cc587016205c6bd68b418f93e2a390bbc4e377318af2faa776f33d1d7ea2301": {
+        "title": "从川渝街巷到全国餐桌，重庆小面冲刺百亿大关",
+        "link": "https://www.tmtpost.com/7852112.html",
+        "published_date": "Thu, 22 Jan 2026 16:31:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135059"
+      },
+      "d4194b0ca239ace7d76db2074afac8400fc0ab3203e653880f2d08740bce3c3a": {
+        "title": "京津冀大地上跑出一个千亿氢走廊",
+        "link": "https://www.tmtpost.com/7852052.html",
+        "published_date": "Thu, 22 Jan 2026 16:28:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135060"
+      },
+      "100882ba4ae7d906dd8d9c0e9ee1bf044e550da933e4d7c9ee2d0db916463216": {
+        "title": "智驾的“圈地运动”谁能终结？",
+        "link": "https://www.tmtpost.com/7851955.html",
+        "published_date": "Thu, 22 Jan 2026 16:26:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135062"
+      },
+      "3542ea0699661a9ea4eff39cdab279e939cb5da1257052e68c1363ec2329246d": {
+        "title": "5天便“夭折”，酒店的“退订焦虑”怎么解？",
+        "link": "https://www.tmtpost.com/7851888.html",
+        "published_date": "Thu, 22 Jan 2026 16:26:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135063"
+      },
+      "4a277e714117feaa8d81c7c68eff47020624f4f29e94927a7f8c18a3b1e757ff": {
+        "title": "马斯克的底裤要被扒光了！超级爆料一个多小时， xAI 工程师被火速解雇",
+        "link": "https://www.infoq.cn/article/0ds6wQgBpN7W2N6EL1iM?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 18:35:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135064"
+      },
+      "33fb39525a6ddf33aac0a875d8835fb388c24b597e1181a3bb89b412c97115b5": {
+        "title": "每周工作100小时！谷歌DeepMind CEO揭秘：中国对手是字节跳动，断言谷歌是AI领域唯一全栈巨头",
+        "link": "https://www.infoq.cn/article/0TByYFFwWJi9u0xLobuU?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 15:41:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135066"
+      },
+      "88ab350230fb3e52896d38e9cc3ef8a596f53b52ef69f16f2c6f25a219ed4725": {
+        "title": "尝试了几次周末一日游，我和「害怕看不完」的想法和解了",
+        "link": "https://sspai.com/post/105568",
+        "published_date": "Thu, 22 Jan 2026 17:30:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.135067"
       }
     },
     "Finance": {
@@ -12489,39 +12585,129 @@
         "link": "https://www.ft.com/content/3c5e84b4-4e9f-4bed-a0c8-2d41de52497d",
         "published_date": "Thu, 22 Jan 2026 06:08:00 GMT",
         "first_seen": "2026-01-22T08:19:51.384377"
+      },
+      "0079dcb32850fca573527e24b413e87812e3a0d6c9cd75507d62a20115dd2025": {
+        "title": "Wall Street clocks in a rally for second day across tech stocks, small caps and long-term Treasurys",
+        "link": "https://www.marketwatch.com/story/wall-street-clocks-in-a-rally-for-second-day-across-tech-stocks-small-caps-and-long-term-treasurys-294f1384?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 23:01:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861575"
+      },
+      "03ac9b6aca33439c1b98be91a1f0252c908b750284a59652ca642c6e5cc896b4": {
+        "title": "Elon Musk has an ambitious new target for when Tesla’s Optimus robots will go on sale",
+        "link": "https://www.marketwatch.com/story/elon-musk-says-tesla-will-sell-optimus-robots-to-consumers-by-the-end-of-2027-b0ce1729?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 22:37:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861584"
+      },
+      "78310279845e47ff7ac8c5f80b670d4d1e55efa226d9891853f226cd4f661e8b": {
+        "title": "Under Armour is investigating claims of a data breach. Here’s what customer info may have been compromised.",
+        "link": "https://www.marketwatch.com/story/under-armour-is-investigating-claims-of-a-data-breach-heres-what-customer-info-may-have-been-compromised-59c25f26?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 22:32:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861587"
+      },
+      "e570f84b2398b128efc1f4f0ecc1bd69b91e0de96efe2f5bc13b52eb53a8cef6": {
+        "title": "Clorox to buy Purell maker for more than $2 billion, eyeing 20 million hand-sanitizer dispensers and more",
+        "link": "https://www.marketwatch.com/story/clorox-to-buy-purell-maker-for-more-than-2-billion-eyeing-20-million-hand-sanitizer-dispensers-and-more-c563a034?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 22:05:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861589"
+      },
+      "eb27e43bc3816581ded285cab0bc61a998d47aa16e5baa3c26ca0ef5917bddb6": {
+        "title": "Lululemon’s founder says yoga-wear giant has ‘completely lost its way’",
+        "link": "https://www.marketwatch.com/story/lululemons-founder-lashes-out-at-the-company-saying-it-has-completely-lost-its-way-12ac062c?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:39:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861590"
+      },
+      "aa6853d60d2e741092e7d2d510d85574213e322a861d22100cc7324b180a0eef": {
+        "title": "Tesla’s stock pops on a robotaxi milestone. Here’s what comes next.",
+        "link": "https://www.marketwatch.com/story/teslas-stock-pops-on-a-robotaxi-milestone-heres-what-comes-next-00aae31f?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:36:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861591"
+      },
+      "0fc395edf87393a814c39d7d0b94c686fc6975cc20f39242a0df0164ab85ca7c": {
+        "title": "BitGo’s stock leaps out of the gate, as IPO investors are undeterred by bitcoin’s selloff",
+        "link": "https://www.marketwatch.com/story/bitgo-is-boldly-going-public-at-a-time-of-uncertainty-for-bitcoins-outlook-2cc35d74?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:33:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861593"
+      },
+      "df814de4c97c138a207b3f2e269fa1eb6106770a80cae9a4384902d56f5e4ac4": {
+        "title": "AMD’s stock is on a hot streak not seen in six years",
+        "link": "https://www.marketwatch.com/story/amds-stock-is-on-a-hot-streak-not-seen-in-six-years-eae76f1d?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:25:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861594"
+      },
+      "1f0de028a70781348c6a9facf5ffd353b4eea23c0799ebf31913614d6ac34449": {
+        "title": "Why the winter storm that’s about to hit could be especially treacherous for flying",
+        "link": "https://www.marketwatch.com/story/why-the-winter-storm-thats-about-to-hit-could-be-especially-treacherous-for-flying-72c4f55f?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:15:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861596"
+      },
+      "1d336eacaf7bee37bf4de604be75881de24f80a5fddc7caecc9b278e8ae1c1df": {
+        "title": "Natural-gas prices see ‘historic’ surge as U.S. braces for winter storm. What that means for heating bills.",
+        "link": "https://www.marketwatch.com/story/natural-gas-prices-see-historic-surge-as-u-s-braces-for-winter-storm-what-that-means-for-heating-bills-7e1b9fa2?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 21:12:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861597"
+      },
+      "24e9971ad3914f95b9b199ff9402448b65fe74b174081db4d017c57d5f04365b": {
+        "title": "JPMorgan boosts Dimon’s pay to record $43mn",
+        "link": "https://www.ft.com/content/340ee8ce-46fe-4107-ac9b-595fbb16ca1e",
+        "published_date": "Thu, 22 Jan 2026 22:56:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861598"
+      },
+      "fdc3a0d55cc8a8a8a5e5fd585aaade88022da7e719d6c0aaf41159b63959b5d6": {
+        "title": "Nato chief and Trump discussed revamp of US-Denmark military deal",
+        "link": "https://www.ft.com/content/706b7233-9e16-4f64-970e-5732988969e5",
+        "published_date": "Thu, 22 Jan 2026 21:19:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861600"
+      },
+      "9c69d44ccaf47445d85f85077f6cade2b6bba0521e0e2d36ee561bb8af245cfc": {
+        "title": "‘Everybody is trying to capitalise on the chaos’: The race to replace Starmer",
+        "link": "https://www.ft.com/content/4c1a4601-3790-401f-b2f2-9e42b1bb939c",
+        "published_date": "Thu, 22 Jan 2026 19:04:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861601"
+      },
+      "a031488e5e4d6dcfaa659b7af4442fde98621b66920608efc845250323f911d0": {
+        "title": "EU leaders fear for US relationship despite Trump climbdown",
+        "link": "https://www.ft.com/content/58cbcac1-f9ae-4ed1-9a69-e005d9fdd37b",
+        "published_date": "Thu, 22 Jan 2026 18:42:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861603"
+      },
+      "0ab2c885beb61a8688b5a3510984882744d615015951d5346948bfabac6acb4d": {
+        "title": "Trump sues JPMorgan and CEO Dimon for $5bn over debanking",
+        "link": "https://www.ft.com/content/da3b880c-fcab-47d8-a40c-9e6755616e94",
+        "published_date": "Thu, 22 Jan 2026 18:38:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861604"
+      },
+      "b6c45596a72871f2d700b3b63939ef6f7038914c19d39b0c0210498398195a91": {
+        "title": "Elon Musk’s SpaceX lines up 4 banks for blockbuster IPO",
+        "link": "https://www.ft.com/content/55235da5-9a3f-4e0f-b00c-4e1f5abdc606",
+        "published_date": "Thu, 22 Jan 2026 18:24:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861605"
+      },
+      "72c4811a110d64f7e965ee2ffb51e624e65e8070c36daa68713081878f9f06dd": {
+        "title": "Starmer’s allies ready to block Burnham’s bid for Westminster comeback",
+        "link": "https://www.ft.com/content/7066b1e8-30f9-4bf4-a3bb-cd4b02d0472c",
+        "published_date": "Thu, 22 Jan 2026 17:33:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861606"
+      },
+      "4cb54e18960be345b0b45eaf4d9ab2e1d4f49e9ce8482a71e57fa61dee06aa30": {
+        "title": "From bored of peace to the Board of Peace",
+        "link": "https://www.ft.com/content/14995028-168c-46a6-9aba-6a7a54d15557",
+        "published_date": "Thu, 22 Jan 2026 16:33:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861608"
+      },
+      "bb4ef87e86049ad34ef7ba903bdbe1035251972ed260e74ec5993ca95f88bbb2": {
+        "title": "Jared Kushner sets out $30bn vision for ‘New Gaza’",
+        "link": "https://www.ft.com/content/b6ad9dde-d034-4cfa-a9d0-e799f8360d9d",
+        "published_date": "Thu, 22 Jan 2026 15:01:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861609"
+      },
+      "49b8dc84f52557dfcca39cea8b9f9747e6319a6f5691f15722c893c037b22cbb": {
+        "title": "Thanks Donald, Europe will take it from here",
+        "link": "https://www.ft.com/content/fe36182a-f7d9-4f15-a401-2fa7df32968a",
+        "published_date": "Thu, 22 Jan 2026 13:19:00 GMT",
+        "first_seen": "2026-01-22T23:13:50.861610"
       }
     },
     "Ai": {
-      "1abb0f98bfb5e0873e2456c94a2a8aeb57283e9fa4c1ce86bedcb2aac36f60e4": {
-        "title": "LeCun和哈萨比斯「吵」起来了：「通用智能」到底存不存在？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-8",
-        "published_date": "Tue, 23 Dec 2025 16:06:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767718"
-      },
-      "bfd05693fc081ecd08fd58f0e9dd1759add0c70c72620ee40aa486776575b784": {
-        "title": "打通计算设计与实验执行闭环，微软、北大、上海交大联合提出科学推理模型QFANG",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-6",
-        "published_date": "Tue, 23 Dec 2025 15:44:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767727"
-      },
-      "1b1819373b6dea3bac9eccb9673d488add7ecd6183e9193ee69d9211ce5f302a": {
-        "title": "智能体落地元年，Agent Infra是关键一环｜对话腾讯云&Dify",
-        "link": "https://www.qbitai.com/2025/12/365574.html",
-        "published_date": "Tue, 23 Dec 2025 05:55:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767730"
-      },
-      "e32c7dd8872c43a30ddd3f488a60466d1c8c0c3c89efd24bab7309aeb9b2630c": {
-        "title": "告别高昂重制成本！港科大广州、快手可灵发布立体视频转换单步推理新方案",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-23-7",
-        "published_date": "Tue, 23 Dec 2025 16:02:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767732"
-      },
-      "d48f386c67a436c431fb33219410a592b2d6a577054387b37f1d736872667158": {
-        "title": "AI狼人杀大决战！GPT、Qwen、DeepSeek大乱斗，人类高玩汗流浃背",
-        "link": "https://www.qbitai.com/2025/12/365594.html",
-        "published_date": "Tue, 23 Dec 2025 06:22:00 GMT",
-        "first_seen": "2025-12-23T08:33:32.767734"
-      },
       "a7037ae6a679a11edc5461d08ccd2d3c3df10aff466eaf1389e5917fcf1d67a6": {
         "title": "当世界模型不止「视频」该如何评估？WorldLens提出实用化评估新框架",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-11",
@@ -15071,13 +15257,97 @@
         "link": "https://www.qbitai.com/2026/01/371481.html",
         "published_date": "Thu, 22 Jan 2026 06:40:00 GMT",
         "first_seen": "2026-01-22T08:19:51.509003"
+      },
+      "23a214c8fcb9140dfe98d2794d682eed697f9e11ad24a18db776a03a81cee800": {
+        "title": "幻觉率不到3%，王小川把医生版的DeepSeek免费了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-14",
+        "published_date": "Thu, 22 Jan 2026 19:17:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014261"
+      },
+      "325d9ad5b9a779527013fbe74fcba67b74b5b81bdf64881bad4375cd9df2f282": {
+        "title": "清华姚班校友刘壮团队再发力，无需归一化的Transformer性能进化",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-13",
+        "published_date": "Thu, 22 Jan 2026 19:13:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014268"
+      },
+      "313c718922ac23f55864fc54e8a426b092a276e5ce2ba3a9cb6fbf5e4ea9e71d": {
+        "title": "苹果入局AI Pin，或对标OpenAI，能否打破「电子垃圾」魔咒？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-12",
+        "published_date": "Thu, 22 Jan 2026 19:06:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014270"
+      },
+      "cfdb63c51684d734fd5965df45e284748bfe2587ec33853f174badec821948f4": {
+        "title": "华为云昇腾AI云服务客户增长超8倍，稳居最大国产AI云服务提供商",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-11",
+        "published_date": "Thu, 22 Jan 2026 17:35:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014272"
+      },
+      "113f4a147b66a54b493a13c2b36efdea303e8ec33d4946b6120d20b432fa2864": {
+        "title": "AAAI杰出论文来了！港科大、同济、浙师大等国内高校获奖",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-10",
+        "published_date": "Thu, 22 Jan 2026 16:56:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014273"
+      },
+      "dbae9c31896af33b5a7629676e9cb51f044d15874fe27b382728c57ce84e0515": {
+        "title": "Meta新模型要来了，但Llama 4的锅谁来接？1300多位作者的联合报告来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-9",
+        "published_date": "Thu, 22 Jan 2026 16:53:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014275"
+      },
+      "4ee31fecdb23104606dee3d87658d5a11d7ff86b3e8bea79933b560b7c3550c5": {
+        "title": "金山云星流全面升级 以智算穿越云上AI新周期",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-8",
+        "published_date": "Thu, 22 Jan 2026 16:47:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014276"
+      },
+      "2145025da9927597b33090601221cff4092676e10bff9aaed25e9d478fdf18ef": {
+        "title": "Future Tech | 16支AI新锐齐聚数码港，FT Demo Day第二期引爆湾区创新浪潮",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-7",
+        "published_date": "Thu, 22 Jan 2026 16:45:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014278"
+      },
+      "9504d8c57b6dd6055a00c2558ea43a2e504307e51f39b47fb6035e12eed81a7b": {
+        "title": "WAIC CONNECT | 沪港联动激活产业新引擎，两地各界共筑AI+多元应用新生态",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-6",
+        "published_date": "Thu, 22 Jan 2026 16:25:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014279"
+      },
+      "7103b8eafbc85206267f52c3df81a3ca0c9d50474f5c8badf0a24c8315eb86ef": {
+        "title": "Small models, big results: Achieving superior intent extraction through decomposition",
+        "link": "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/",
+        "published_date": "Thu, 22 Jan 2026 16:56:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014281"
+      },
+      "727bcc7dfd08e92b484e82da081c6c929b3f30ed3919ad245e2fef23d8a0f496": {
+        "title": "成立两年半登顶全球AI创作社区，背后是中国团队在“卖情绪”？？",
+        "link": "https://www.qbitai.com/2026/01/371570.html",
+        "published_date": "Thu, 22 Jan 2026 11:17:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014282"
+      },
+      "aa2b968e63cd456ff13d2db074ce760ecc1417f581811a5d99fa75052c2ec559": {
+        "title": "2025最强AI产品一文看尽丨量子位智库年度AI 100",
+        "link": "https://www.qbitai.com/2026/01/371559.html",
+        "published_date": "Thu, 22 Jan 2026 09:28:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014283"
+      },
+      "9215d910d7c8ea68f668d5b90b1475b2b480480beba48c5f6fbc5ab9e6e761bb": {
+        "title": "高通砸钱、雷军入股！刚刚，上海诞生一个183亿手机代工巨头",
+        "link": "https://www.qbitai.com/2026/01/371535.html",
+        "published_date": "Thu, 22 Jan 2026 09:02:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014285"
+      },
+      "8b39093a8cddf2044ab37041aed5e6bb760c0687b312f0f547380ee92a6e2f63": {
+        "title": "昇腾云客户2663家，华为云稳居最大国产AI云服务提供商",
+        "link": "https://www.qbitai.com/2026/01/371533.html",
+        "published_date": "Thu, 22 Jan 2026 08:42:00 GMT",
+        "first_seen": "2026-01-22T23:13:51.014286"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-22T08:19:51.628537",
-    "Finance": "2026-01-22T08:19:51.384379",
-    "Ai": "2026-01-22T08:19:51.509006"
+    "Technology": "2026-01-22T23:13:51.135069",
+    "Finance": "2026-01-22T23:13:50.861612",
+    "Ai": "2026-01-22T23:13:51.014303"
   }
 }
