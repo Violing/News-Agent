@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "970a7e4b589cabf923af81b341bd7585da1f6832436b39d221907de3a47dc79a": {
-        "title": "赵何娟对话张宏江：世界模型已是兵家必争之地｜2025 T-EDGE全球对话",
-        "link": "https://www.tmtpost.com/7814876.html",
-        "published_date": "Mon, 22 Dec 2025 22:15:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643720"
-      },
-      "ad100cd9a32f547f5d1f515df6b299963bc024baa7bc87738eeec25dae2ad8ce": {
-        "title": "382人、平均95后，MiniMax百亿估值冲刺IPO！招股书首次披露业绩：研发成本仅为OpenAI的1%、收入猛增8倍",
-        "link": "https://www.infoq.cn/article/4dfzSRWELNTPwyDfAjf7?utm_source=rss&utm_medium=article",
-        "published_date": "Mon, 22 Dec 2025 16:52:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643726"
-      },
-      "4d533b3e45f04277cfa141b73646d3071c8b24eff38a9f06eacc9b7960dfc38d": {
-        "title": "中国移动的5300亿采购清单，藏着通信行业未来五年的秘密",
-        "link": "https://www.tmtpost.com/7817228.html",
-        "published_date": "Mon, 22 Dec 2025 17:21:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643728"
-      },
-      "9fd788c5f482302711fbda589c7019bdb3e3718da2508d41548285c3a945cfaf": {
-        "title": "西方媒体炒作EUV光刻机，背后真的是怕我们打破垄断吗？",
-        "link": "http://www.huxiu.com/article/4819171.html?f=wangzhan",
-        "published_date": "Mon, 22 Dec 2025 14:51:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643731"
-      },
-      "df4255c76f187971ef1f1a3ea2303c9f84aa7231e49e3858606ac5783579f8e5": {
-        "title": "当开放架构遇上“产业大集”：国产AI生态进入“群体跃迁”时刻",
-        "link": "https://www.tmtpost.com/7817218.html",
-        "published_date": "Mon, 22 Dec 2025 18:36:00 GMT",
-        "first_seen": "2025-12-22T23:27:10.643732"
-      },
       "73668160f794bbbdfbec73635c1700d71de2d86322277ad14f28ddbbf8f0e202": {
         "title": "GPT-6或三个月内亮相！奥特曼亲口承认：9亿用户难敌谷歌“致命一击”，1.4万亿美元算力豪赌AI未来",
         "link": "https://www.infoq.cn/article/9aogD7JlaptgBYFg6DuZ?utm_source=rss&utm_medium=article",
@@ -8497,39 +8467,165 @@
         "link": "http://www.huxiu.com/article/4828145.html?f=wangzhan",
         "published_date": "Wed, 21 Jan 2026 14:00:00 GMT",
         "first_seen": "2026-01-21T23:17:36.389940"
+      },
+      "3dc8fbd75c7ebec04809d8fa46e98e54af3ef019fc16f3338c9bb66fefc04b6e": {
+        "title": "“乳”海遗珠君乐宝，能否打破“河北乳企不上市”的魔咒？",
+        "link": "https://www.tmtpost.com/7851559.html",
+        "published_date": "Thu, 22 Jan 2026 13:10:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736356"
+      },
+      "ff0f54581ecd5cdb6b22286e595e39a5c4d17ca0c426b588fcab8764754a639a": {
+        "title": "争夺太空，中国放大招了",
+        "link": "https://www.tmtpost.com/7851728.html",
+        "published_date": "Thu, 22 Jan 2026 13:10:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736363"
+      },
+      "602b74febafaf1a82d2cb11184cf65ec0cfee3ad63b4b06374cf56d9638e026a": {
+        "title": "Dewu Finance Makes Debut in HK, Marking First Step to Tokenize China’s Supply Chain Assets",
+        "link": "https://www.tmtpost.com/7850891.html",
+        "published_date": "Thu, 22 Jan 2026 13:10:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736365"
+      },
+      "f07b09b070aad1adf05706c355fcffba85cc7679a5cac62398ca93d3def8d5d4": {
+        "title": "聂卫平：何以为圣",
+        "link": "https://www.tmtpost.com/7851425.html",
+        "published_date": "Thu, 22 Jan 2026 13:07:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736367"
+      },
+      "8eeb323df67de0f9f4d2c53bf3f37f995d16af2f217c35b27a626159c408df69": {
+        "title": "酒店“首店”大战：国际新品牌为何抢滩入华？",
+        "link": "https://www.tmtpost.com/7850760.html",
+        "published_date": "Thu, 22 Jan 2026 13:04:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736368"
+      },
+      "a01bfa477070d3d6859146388ae0b4ce5180dabb56e78e2c24f95d9c269b9a13": {
+        "title": "GEO火了，流量革命近了？",
+        "link": "https://www.tmtpost.com/7851551.html",
+        "published_date": "Thu, 22 Jan 2026 13:04:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736370"
+      },
+      "a78259b3eb875346f2fbf652abf3889fb425192e62927dfb77315f8222355af4": {
+        "title": "低温液奶新贵君乐宝港股IPO，为中国乳业制造新的增长极",
+        "link": "https://www.tmtpost.com/7850467.html",
+        "published_date": "Thu, 22 Jan 2026 12:26:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736371"
+      },
+      "d28a4f0082bbcc1829dbe76c37ee296238a4749031f69c39112776637ec1aefe": {
+        "title": "汇川技术拟赴港上市，朱兴明能否续写2800亿传奇？",
+        "link": "https://www.tmtpost.com/7851395.html",
+        "published_date": "Thu, 22 Jan 2026 12:13:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736372"
+      },
+      "232b80590bb119c680adb6702f06d32b7911f53e8ad99f6a723a236790dbf4d7": {
+        "title": "AI能革学区房的“命”，但……",
+        "link": "https://www.tmtpost.com/7851595.html",
+        "published_date": "Thu, 22 Jan 2026 12:11:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736374"
+      },
+      "b73940ef9cafb03d5c29bc6d70f9c8d3a0b2c1decb4dae13dae4fdc88ad874b4": {
+        "title": "被“抖音催熟”的西子健康，99%线上营收能撑起IPO吗？",
+        "link": "https://www.tmtpost.com/7851621.html",
+        "published_date": "Thu, 22 Jan 2026 12:09:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736375"
+      },
+      "941c5605582eb5f59e4a47e8fc36a6c2b898f6d85741897ef2c538ad89e5bda0": {
+        "title": "2026刚开年，医美这一赛道迎来史上最惨烈“厮杀”",
+        "link": "https://www.tmtpost.com/7851571.html",
+        "published_date": "Thu, 22 Jan 2026 12:06:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736377"
+      },
+      "376065b4b1173c1f499a411574645dd348e6f8ba2e5d3507391716b1c3bcc64d": {
+        "title": "Jensen Huang Calls AI 'Largest Infrastructure Buildout in Human History' at Davos",
+        "link": "https://www.tmtpost.com/7851721.html",
+        "published_date": "Thu, 22 Jan 2026 12:06:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736379"
+      },
+      "7b41b1db0628c0aad6dd5e2fbb002f182939701a8593885ef0318b10f73ef82d": {
+        "title": "超级电力帝国崛起，从一块光伏板开始",
+        "link": "https://www.tmtpost.com/7851562.html",
+        "published_date": "Thu, 22 Jan 2026 12:03:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736380"
+      },
+      "5a847e6761995cef0c6785c78849aef509c722dfa9fcc7c55f6dbe0546727cf4": {
+        "title": "英伟达的汽车“生意经”",
+        "link": "https://www.tmtpost.com/7851544.html",
+        "published_date": "Thu, 22 Jan 2026 11:59:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736382"
+      },
+      "946b42bbb65fdb58db0201dd9057d89848e45864811a41c15b72a1b89cefa7b0": {
+        "title": "GSK还是太“滞后”了",
+        "link": "https://www.tmtpost.com/7851511.html",
+        "published_date": "Thu, 22 Jan 2026 11:51:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736383"
+      },
+      "a13bcfa2f1569b0b4a9d90f17e3d18c076e18d0ecb8162c2885bccab1dfce32a": {
+        "title": "黄仁勋：AI不会抢饭碗，反而会导致劳动力短缺",
+        "link": "https://www.tmtpost.com/7851503.html",
+        "published_date": "Thu, 22 Jan 2026 11:44:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736384"
+      },
+      "4460b3a8ae1d4907bfc79c5dbc9b519d89d8e4fba1508e6557612496f98ffa5b": {
+        "title": "全球消费，进入“中国定义”时间",
+        "link": "https://www.tmtpost.com/7851480.html",
+        "published_date": "Thu, 22 Jan 2026 11:38:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736386"
+      },
+      "9924338aef047f21c2a302f0dbc4394ddf923b8a02656240fde92f2031bdc2ee": {
+        "title": "北大毕业、离职腾讯，这群人做的三国 AI 游戏凭什么爆火？",
+        "link": "https://www.tmtpost.com/7851537.html",
+        "published_date": "Thu, 22 Jan 2026 11:31:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736388"
+      },
+      "ac67795d14f59b24f8ce43af5b168ff4a00f7bc1bcbc28d166867ffb346c3253": {
+        "title": "京东做文旅，能成为下一个OTA吗？",
+        "link": "https://www.tmtpost.com/7851479.html",
+        "published_date": "Thu, 22 Jan 2026 11:25:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736389"
+      },
+      "79294c2e76b9a5bbb0767ec956175a14b5cd7730c9a4fce6facb01a57aacdf31": {
+        "title": "从拼装机到卡收益率，电力央企新能源开发心态发生巨变",
+        "link": "https://www.tmtpost.com/7851475.html",
+        "published_date": "Thu, 22 Jan 2026 11:24:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736391"
+      },
+      "cbe5c21bb475728f92dbbf0208bca280c793cadf866bc998f01ef97db9e81b2f": {
+        "title": "如何利用 Snowflake ML 实现电商个性化 ｜ 技术实践",
+        "link": "https://www.infoq.cn/article/QY60NJrEuZq8um5fiHO7?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 11:24:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736392"
+      },
+      "7cac518bae7c7eec9b9e1ea12acf582f284512ed39676f357606e103111f8b85": {
+        "title": "揭秘Uber跨区域数据湖与灾难恢复机制：350PB数据、数百万事件、单一系统",
+        "link": "https://www.infoq.cn/article/O7T47Q680HHi6rbdBEPr?utm_source=rss&utm_medium=article",
+        "published_date": "Thu, 22 Jan 2026 11:06:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736394"
+      },
+      "08f8b4acf46267c9abafbaf702ef6790aadda1698981d7817740a93312befd8d": {
+        "title": "将设计装进耳朵：少数派×飞傲联名 CD 机盖板设计大赛",
+        "link": "https://sspai.com/post/105630",
+        "published_date": "Thu, 22 Jan 2026 11:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736395"
+      },
+      "464599db8802b9970634446cb5ff7c95848da34dd2b8051a6dc6df96eada54ad": {
+        "title": "派早报：Nova Launcher 被收购、《愤怒的小鸟》将回归等",
+        "link": "https://sspai.com/post/105651",
+        "published_date": "Thu, 22 Jan 2026 08:29:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736396"
+      },
+      "59e3f09d0d232b3e9fd87cdaba023f9c3b181282d774326273d6e0cd8a2b82f7": {
+        "title": "蜜雪卖早餐，三只松鼠开超市，消费巨头为何“不务正业”？",
+        "link": "http://www.huxiu.com/article/4828491.html?f=wangzhan",
+        "published_date": "Thu, 22 Jan 2026 10:30:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736398"
+      },
+      "271d3a858507f6cd2e2e4aa5e94ba8c8b149e8f50a5e9fc4d37cfb9ea728520a": {
+        "title": "没有马杜罗的日子，才是好日子？",
+        "link": "http://www.huxiu.com/article/4828310.html?f=wangzhan",
+        "published_date": "Thu, 22 Jan 2026 09:59:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.736399"
       }
     },
     "Finance": {
-      "3cecddcabc9a6ff01647d3366cda656b4472df9264ea0f03fc4b51f48b85fad6": {
-        "title": "Paramount says Larry Ellison now personally guarantees $40 billion of the Warner Bros. bid",
-        "link": "https://www.marketwatch.com/story/paramount-says-larry-ellison-now-personally-guarantees-40-billion-of-the-warner-bros-bid-be247a1c?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 23:17:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676413"
-      },
-      "8d7f4260662055a0290c167333fe0b1acc9ab3e48e3656afa2d847a1e3dde9bd": {
-        "title": "US halts offshore wind projects, citing national security concerns",
-        "link": "https://www.ft.com/content/fedb8762-8ae1-4b20-99d5-7167d39d9bab",
-        "published_date": "Mon, 22 Dec 2025 22:33:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676421"
-      },
-      "234b38394218916e30c3c49b19dd91946956e83cd68728607af143c87222ad99": {
-        "title": "Why young crypto bros are also some of FanDuel’s and DraftKings’ best customers",
-        "link": "https://www.marketwatch.com/story/young-crypto-bros-love-to-gamble-and-youll-never-guess-where-they-get-the-money-b08d0cc5?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 21:34:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676423"
-      },
-      "f902f45eb9172db7465ad5eb23f1a91da737f8b759dbc43091d11efbd96b00ea": {
-        "title": "These investments for the elite are opening to all — but think twice before saying yes",
-        "link": "https://www.marketwatch.com/story/these-elite-investments-can-now-be-yours-just-think-twice-before-saying-yes-593311c5?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 21:27:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676426"
-      },
-      "1f93fc88e2f5df09a20335adf3dba5b90bd786739bc9707eb28bf6ade7b59411": {
-        "title": "Jake Paul-Anthony Joshua fight almost cost DraftKings $100 million. Everyday bettors lost instead.",
-        "link": "https://www.marketwatch.com/story/jake-paul-anthony-joshua-fight-almost-cost-draftkings-100-million-everyday-bettors-lost-instead-fd6827f1?mod=mw_rss_topstories",
-        "published_date": "Mon, 22 Dec 2025 22:43:00 GMT",
-        "first_seen": "2025-12-22T23:26:31.676428"
-      },
       "ad22cfed6cadb3d8d93387d0609d4c7a3a0e491fffc39a4afd92164938df04af": {
         "title": "Year in a word: AI bubble",
         "link": "https://www.ft.com/content/3e411742-b6bb-40c2-9432-4ee6f562af8f",
@@ -12297,39 +12393,57 @@
         "link": "https://www.ft.com/content/15a3f2bc-539f-442c-a593-59e73c55017f",
         "published_date": "Wed, 21 Jan 2026 11:21:00 GMT",
         "first_seen": "2026-01-21T23:17:36.119815"
+      },
+      "2d05a7dd20f15470e378d248dac432dd0a273be5a16598f32f825c0feaa1bca2": {
+        "title": "Carney’s new global order needs a huge shift in political will",
+        "link": "https://www.ft.com/content/5dcbc846-5f32-4076-909b-94b5ef87895c",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464487"
+      },
+      "6984743c6187582d0edb8536efdef86475e229e8f5f089e2a75edce0611754c7": {
+        "title": "Trump’s Greenland pivot leaves Europe flummoxed",
+        "link": "https://www.ft.com/content/fb90d690-f22c-49ab-8ebc-22e2e8f757f3",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464496"
+      },
+      "d41bdeea0def0c1020c9bda8dc7ee50638ccc79544a58a5198382de0292bd629": {
+        "title": "European governments turn to short-term debt as borrowing costs rise",
+        "link": "https://www.ft.com/content/60367289-9336-4b0f-8358-de7af630e7a3",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464499"
+      },
+      "41d4f014fef4c55d2afb10641d0a4e75d363b504d81e722861657bf1a1e6da31": {
+        "title": "Phoenix, Scottish Widows and Royal London circle insurer Aegon’s UK business",
+        "link": "https://www.ft.com/content/31b1a9a4-c3c4-4a7d-8f70-eddc5fe1b6bf",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464501"
+      },
+      "5b6980f9824fa836d8beafe2d894e7accef917e0b7c32137f4b3225692744fbb": {
+        "title": "US companies expand protection services for top executives",
+        "link": "https://www.ft.com/content/b94d0519-7a07-4504-a88a-04c027d65c21",
+        "published_date": "Thu, 22 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464502"
+      },
+      "3c82ca47552dcc793139a48b60098cf8fe91541c070c760bd0402840c85b82e5": {
+        "title": "Turns out, DOGE did put Social Security data at risk. Here’s what lawmakers are doing about it.",
+        "link": "https://www.marketwatch.com/story/turns-out-doge-did-put-social-security-data-at-risk-heres-what-lawmakers-are-doing-about-it-d453c466?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 02:11:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464504"
+      },
+      "bca29cd43c9886762173483964025e933600a8dc814e9f60ecda586bb6375145": {
+        "title": "Boarding a plane has become ‘elitist,’ passengers say — but airlines profit off premium travelers getting priority status",
+        "link": "https://www.marketwatch.com/story/boarding-a-plane-has-become-elitist-passengers-say-but-airlines-profit-off-premium-travelers-getting-priority-status-d5e0a32b?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 01:47:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464505"
+      },
+      "d181e75f0372599b33af52c5f815a8078310fcf4a3ff605e7f702d8b805e23ee": {
+        "title": "Trump’s tariff reversal sparked a market rally — but the violent swing in stocks is a warning of what lies ahead for investors",
+        "link": "https://www.marketwatch.com/story/trumps-tariff-reversal-sparked-a-market-rally-but-the-violent-swing-in-stocks-is-a-warning-of-what-lies-ahead-for-investors-f88aff09?mod=mw_rss_topstories",
+        "published_date": "Thu, 22 Jan 2026 00:46:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.464507"
       }
     },
     "Ai": {
-      "6e8399b855d7eb17cc59a910ba11c374de8f95946b1fe7172365bb68999aa519": {
-        "title": "多智能体可信标准在ITU立项：信通院、蚂蚁、中国电信等共同推动",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-9",
-        "published_date": "Mon, 22 Dec 2025 17:37:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877478"
-      },
-      "54ff21850e4f0c7bba9c6c589cf044d12bd63f42b0017b1684f69c709fdaeb8a": {
-        "title": "最火、最全的Agent记忆综述，NUS、人大、复旦、北大等联合出品",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-10",
-        "published_date": "Mon, 22 Dec 2025 18:19:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877483"
-      },
-      "5be24d9330b50d4d9717e36da0051ef7c20506117f01308969858c5b6121238b": {
-        "title": "RL加持的3D生成时代来了！首个「R1 式」文本到3D推理大模型AR3D-R1登场",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-7",
-        "published_date": "Mon, 22 Dec 2025 16:41:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877486"
-      },
-      "0685511967f342defea0b3ed432c82de685cda889b99e6751991352058cd35b1": {
-        "title": "旧金山大停电，Waymo自动驾驶汽车瘫痪，特斯拉赢麻了",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-22-8",
-        "published_date": "Mon, 22 Dec 2025 16:47:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877488"
-      },
-      "a3527e2be85c9090b42f7d600c4892a13b6ae713336da221cc1ec42da502c81c": {
-        "title": "“昆山杯”第二十七届清华大学创业大赛决赛举行",
-        "link": "https://www.qbitai.com/2025/12/363697.html",
-        "published_date": "Mon, 22 Dec 2025 09:04:00 GMT",
-        "first_seen": "2025-12-22T23:26:46.877493"
-      },
       "87ee1946320e1bd46c44747977987a58b4cf2350783875dd0b25bffa11c427b3": {
         "title": "仅需15%全量Attention！「RTPurbo」阿里Qwen3长文本推理5倍压缩方案来了",
         "link": "https://www.jiqizhixin.com/articles/2025-12-23-3",
@@ -14885,13 +14999,49 @@
         "link": "https://www.qbitai.com/2026/01/370907.html",
         "published_date": "Wed, 21 Jan 2026 08:32:00 GMT",
         "first_seen": "2026-01-21T23:17:36.268347"
+      },
+      "0b8114c580ca41ead786c43a950e6dd777fbdcc51d33401af505d8566f980ea3": {
+        "title": "拒绝成为落后的开发者：用TRAE Skills构建你的10倍效能工具箱",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-4",
+        "published_date": "Thu, 22 Jan 2026 12:57:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612257"
+      },
+      "e507341e8ee898e8aad4fb81593d9d926fdd8af11edb588fffff66fe09442f92": {
+        "title": "第一梯队的大模型安全吗？复旦、上海创智学院等发布前沿大模型安全报告，覆盖六大领先模型",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-3",
+        "published_date": "Thu, 22 Jan 2026 12:48:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612264"
+      },
+      "bad0dabc4318234d4e98a2a136873a780920548802ea08a46dddd8a86acbb82f": {
+        "title": "刚刚， 2025 ACM Fellow公布！陈宝权、贾佳亚、梅涛、朱军等多位华人入选",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22-2",
+        "published_date": "Thu, 22 Jan 2026 11:28:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612266"
+      },
+      "015e7c8343ab0f7dc9aac5a4e8506c8d4b718e4f6e1ae0dfabec830d6dfff2cd": {
+        "title": "第二届CVPR 2026 CV4CHL Workshop征稿启动，用AI大模型守护儿童未来",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-22",
+        "published_date": "Thu, 22 Jan 2026 11:21:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612269"
+      },
+      "c45244c903b8f1666c8bd729a70c654a573ad31921e41ce21da2037644667590": {
+        "title": "2026-01-22日刊",
+        "link": "https://ai.hubtoday.app//2026-01/2026-01-22/",
+        "published_date": "Thu, 22 Jan 2026 07:55:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612270"
+      },
+      "93e8c2019f58fc58b5401e7c75c488dba992c43735f8608d07128a990e5cc68c": {
+        "title": "马斯克下场抢人！xAI组建「人才狙击队」，极客版HR年薪168万",
+        "link": "https://www.qbitai.com/2026/01/371286.html",
+        "published_date": "Thu, 22 Jan 2026 04:12:00 GMT",
+        "first_seen": "2026-01-22T05:22:00.612272"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-21T23:17:36.389942",
-    "Finance": "2026-01-21T23:17:36.119817",
-    "Ai": "2026-01-21T23:17:36.268350"
+    "Technology": "2026-01-22T05:22:00.736401",
+    "Finance": "2026-01-22T05:22:00.464509",
+    "Ai": "2026-01-22T05:22:00.612274"
   }
 }
