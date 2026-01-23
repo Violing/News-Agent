@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "c064b0373ff37838ce1f54a866eff85911f506a051ca88e977ea9260bee476ad": {
-        "title": "oRPC发布1.0版本，支持OpenAPI和端到端类型安全",
-        "link": "https://www.infoq.cn/article/Bq2eNpr5LwqI7Uy3tIwr?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 11:01:00 GMT",
-        "first_seen": "2025-12-24T05:27:23.719400"
-      },
-      "6c85409e400efc2c18b516d2329ec4c36857974c9459b8c3bc3feb6bd2dc3370": {
-        "title": "Google Cloud发布托管的MCP支持",
-        "link": "https://www.infoq.cn/article/zwgVrr7EBrhvNfmolXcp?utm_source=rss&utm_medium=article",
-        "published_date": "Wed, 24 Dec 2025 10:32:00 GMT",
-        "first_seen": "2025-12-24T05:27:23.719408"
-      },
-      "d6c1df99acd2c7c1fabbe7f65a31cb75a4e1c0c1d6d3f0c1a868b693fb8d1235": {
-        "title": "派早报：三星发布 2026 款 Odyssey 系列显示器等",
-        "link": "https://sspai.com/post/104861",
-        "published_date": "Wed, 24 Dec 2025 08:39:00 GMT",
-        "first_seen": "2025-12-24T05:27:23.719410"
-      },
-      "e12571e87c1c203809e9ff1a92f7e70f44bb886f0c8eacfe45216b2e5dbc2f84": {
-        "title": "被起诉的AI独角兽，这样回应好莱坞",
-        "link": "https://www.tmtpost.com/7818713.html",
-        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
-        "first_seen": "2025-12-24T05:27:23.719412"
-      },
-      "9f721086dc22a9753e5599bca840bf80109f511a8065c13ab2505a5891efa553": {
-        "title": "快手被黑客攻击“涉黄”，谁才是个巨大“草台班子”？",
-        "link": "https://www.tmtpost.com/7818685.html",
-        "published_date": "Wed, 24 Dec 2025 12:59:00 GMT",
-        "first_seen": "2025-12-24T05:27:23.719414"
-      },
       "d016f3ec821b1d27b34a5335f91de6255e83f811aad983b387da952db02ae2d7": {
         "title": "YC 2025年度AI报告：Gemini崛起、Vibe Coding成熟，你需要更新的15个认知",
         "link": "https://www.tmtpost.com/7819489.html",
@@ -8899,39 +8869,99 @@
         "link": "http://www.huxiu.com/article/4828802.html?f=wangzhan",
         "published_date": "Fri, 23 Jan 2026 09:25:00 GMT",
         "first_seen": "2026-01-23T05:21:22.105933"
+      },
+      "e56f84c8dbba217458cba80c19c126120f6314d0f941029ea88f67c8383304d7": {
+        "title": "雷诺，没按外资车企的老路走",
+        "link": "https://www.tmtpost.com/7853270.html",
+        "published_date": "Fri, 23 Jan 2026 16:00:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085726"
+      },
+      "d3b20bf07dfce83f5f7214065791e2648740fb408861cfd32397d1d70a174348": {
+        "title": "AI会让媒体老师变蠢吗？",
+        "link": "https://www.tmtpost.com/7853176.html",
+        "published_date": "Fri, 23 Jan 2026 15:41:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085734"
+      },
+      "ed957f8421aea04bf98efb5ef6dde1394de28684a05ae0d7f706f959fa449907": {
+        "title": "英特尔：AI CPU火热造势，“冰冷”指引浇灭了期待？",
+        "link": "https://www.tmtpost.com/7852924.html",
+        "published_date": "Fri, 23 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085737"
+      },
+      "f304805f81f66173440f6ed4b47f891ba2aebc8f24c199c90a830993194b37d1": {
+        "title": "当AI偷走人类的冠军",
+        "link": "https://www.tmtpost.com/7853093.html",
+        "published_date": "Fri, 23 Jan 2026 14:44:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085738"
+      },
+      "5d356b8bfa53e7125cc71637b61652ec353987046fd16e02d02312565134b803": {
+        "title": "How U.S. and Chinese CIOs See Their Role in Responsible AI and Cross-border Business?",
+        "link": "https://www.tmtpost.com/7852753.html",
+        "published_date": "Fri, 23 Jan 2026 14:43:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085740"
+      },
+      "d50c6bf4aaea1c29303a503bf89c9a4cf884e4bd4f68465a10b6e4fd0d125572": {
+        "title": "平头哥拆分IPO：阿里AI战略的“最后拼图”浮出水面",
+        "link": "https://www.tmtpost.com/7852630.html",
+        "published_date": "Fri, 23 Jan 2026 14:26:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085741"
+      },
+      "3f0b96f849ee5ed1a377c4d7a1f9e7e440c0ee0360bfe9fd2d7c85851f4fc16d": {
+        "title": "数字资管新范式：Crypto Quant 全球加密量化大赛平台上线",
+        "link": "https://www.tmtpost.com/7853205.html",
+        "published_date": "Fri, 23 Jan 2026 14:20:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085743"
+      },
+      "b78c748bd598df5d80c05a76026f27af036754a2fc05366c92b51fe4f34720fa": {
+        "title": "AI手机的终局，“读屏”还是“对话”？",
+        "link": "https://www.tmtpost.com/7852879.html",
+        "published_date": "Fri, 23 Jan 2026 13:46:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085744"
+      },
+      "b34586fd943e4a8bcf0e3dfc44e0c15a862bf808dc58c000012561548d69f45e": {
+        "title": "射频芯片开启新的卡位赛",
+        "link": "https://www.tmtpost.com/7852278.html",
+        "published_date": "Fri, 23 Jan 2026 13:22:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085746"
+      },
+      "d991bc7a516eebb22cce6b2d7dd532f0f12be971a55f1735a3419946042e97d4": {
+        "title": "IDC：人形机器人在六大场景大规模商用，智元登顶五大场景",
+        "link": "https://www.infoq.cn/article/xJZepWGP6dmoQ8AJpNbF?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 15:09:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085747"
+      },
+      "9ffd86e95c25e9d37fb54b794f2fa303d4b628e8975e2661dc7751f7026ac4aa": {
+        "title": "AI 进化论丨第八期：新瓶旧酒还是涅槃重生？操作系统的 AI 进化终将走向何方？",
+        "link": "https://www.infoq.cn/video/0a2A4lh12FJJMYgS7jqx?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 14:42:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085749"
+      },
+      "14d5f187e1492653655bd5e91648fa468d8110a59ebb14f7277259d84d3549c5": {
+        "title": "欧洲数据主权倡议发布了一个信任框架",
+        "link": "https://www.infoq.cn/article/KdUzYQcqMUOSh4Xmx7AI?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085750"
+      },
+      "cb981072a68960808d3622d509bb825272a3aef56bda86df2c37d87f62f1f426": {
+        "title": "8B端侧写作智能体AgentCPM-Report开源，DeepResearch 终于本地化",
+        "link": "https://www.infoq.cn/article/m3AbwhgYsmXQua8Fu2XG?utm_source=rss&utm_medium=article",
+        "published_date": "Fri, 23 Jan 2026 14:01:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085752"
+      },
+      "4eb645596888d31ab25fa8a1a895e65209cd14952fb23719d3238e5e74f3ccfe": {
+        "title": "吃真实的食物：聊聊最新的美国膳食指南（2025-2030 年版）",
+        "link": "https://sspai.com/post/105475",
+        "published_date": "Fri, 23 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085754"
+      },
+      "16d8e67abc4e3c7cbca2171a07af32673d031e50dff751f3b7bf8ba99223040f": {
+        "title": "当衰老遇上机器人，晚年正在被重新定义",
+        "link": "http://www.huxiu.com/article/4828489.html?f=wangzhan",
+        "published_date": "Fri, 23 Jan 2026 14:30:00 GMT",
+        "first_seen": "2026-01-23T08:19:11.085755"
       }
     },
     "Finance": {
-      "754dd4373bd695e2dbca16e996876e05027ca232ad127ee7237b8456fe6d9998": {
-        "title": "Tech groups shift $120bn of AI data centre debt off balance sheets",
-        "link": "https://www.ft.com/content/0ae9d6cd-6b94-4e22-a559-f047734bef83",
-        "published_date": "Wed, 24 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-24T05:26:24.703034"
-      },
-      "0e4d3997be2417cb73c80f514d6dc43094d320a0b097c83632d712375fb62a17": {
-        "title": "One of the world’s hottest IPO markets shows signs of weakness",
-        "link": "https://www.ft.com/content/6152d448-1811-478c-9a0a-c2abcf13877f",
-        "published_date": "Wed, 24 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-24T05:26:24.703042"
-      },
-      "c06dd72c9669e9b9cdb1855be5c8db84455d8af3f79da035bc3df430a67ee314": {
-        "title": "Investors bet on smaller private equity funds to break deal drought",
-        "link": "https://www.ft.com/content/7a8ea1ea-1be4-4c2d-a6df-7525430243cb",
-        "published_date": "Wed, 24 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-24T05:26:24.703051"
-      },
-      "6ad6eaf809136488614fb3b2d840f29f59e0af1289392064471010b38b22ded4": {
-        "title": "Top Shell auditor leaves EY role as regulators probe independence breaches",
-        "link": "https://www.ft.com/content/5560ea0f-c827-46bd-8552-fae522925431",
-        "published_date": "Wed, 24 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-24T05:26:24.703053"
-      },
-      "a044f002325bcc0bda831fe0fe075b898618e632c52e0572e49a161c55b7af46": {
-        "title": "Rising prices and weight-loss drugs are changing the way we eat — and food companies are racing to keep up",
-        "link": "https://www.marketwatch.com/story/rising-prices-and-weight-loss-drugs-are-changing-the-way-we-eat-and-food-companies-are-racing-to-keep-up-16c9bfb1?mod=mw_rss_topstories",
-        "published_date": "Wed, 24 Dec 2025 01:32:00 GMT",
-        "first_seen": "2025-12-24T05:26:24.703055"
-      },
       "36b5214705592c84a15a49037e060c345808defc77af9c59f279fe26af7c7ddd": {
         "title": "Big US banks add $600bn in value as deregulation spurs gains",
         "link": "https://www.ft.com/content/0784b2a8-11fc-45d2-81c6-78325886e974",
@@ -12849,39 +12879,15 @@
         "link": "https://www.ft.com/content/b905cb50-3093-4273-b097-4cedc835fadd",
         "published_date": "Fri, 23 Jan 2026 01:31:00 GMT",
         "first_seen": "2026-01-23T05:21:21.843203"
+      },
+      "a6d4e88fd3f7e759625de22279e3aca32a1d4a2bf9470f012b664b85575c1b83": {
+        "title": "Donald Trump withdraws Mark Carney’s invitation to join ‘Board of Peace’",
+        "link": "https://www.ft.com/content/15d88de2-07e9-42c6-8001-afbc3a53b828",
+        "published_date": "Fri, 23 Jan 2026 07:15:00 GMT",
+        "first_seen": "2026-01-23T08:19:10.832279"
       }
     },
     "Ai": {
-      "51e4c8f85d37dcc7c51b5c94189e9c8158ff6760f09d7072c73642427f7ad0be": {
-        "title": "2025最大AI赢家的凡尔赛年度总结，哈萨比斯Jeff Dean联手执笔",
-        "link": "https://www.qbitai.com/2025/12/365688.html",
-        "published_date": "Wed, 24 Dec 2025 01:18:00 GMT",
-        "first_seen": "2025-12-24T05:26:35.116556"
-      },
-      "059e34338f2ed96aaab9762908600f21bfb196a521cbfe36e9509b44a0a92a99": {
-        "title": "拒绝「盲修」：JarvisEvo 如何让 Agent 像人类一样拥有「视觉反思」能力？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24",
-        "published_date": "Wed, 24 Dec 2025 11:58:00 GMT",
-        "first_seen": "2025-12-24T05:26:35.116563"
-      },
-      "9c1971f51b1fadac6850abf2728795c30b5e91534fd48887c272fd40955248c6": {
-        "title": "AI Coding新王登场！MiniMax M2.1拿下多语言编程SOTA",
-        "link": "https://www.qbitai.com/2025/12/365665.html",
-        "published_date": "Wed, 24 Dec 2025 01:24:00 GMT",
-        "first_seen": "2025-12-24T05:26:35.116565"
-      },
-      "8677b5f51378a3792aea6a76c8c64f7ffc9617953f0fed22f4669a80e809be3e": {
-        "title": "字节做了个 AI 手机，钉钉做了台 AI 主机",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-4",
-        "published_date": "Wed, 24 Dec 2025 12:13:00 GMT",
-        "first_seen": "2025-12-24T05:26:35.116567"
-      },
-      "da398650196cec76dd3d34d7a9209b60809709c1da504ac08b866bbe9b3128c8": {
-        "title": "从「会表演」到「更会演」：KlingAvatar2.0让数字人拥有生动灵魂",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-24-3",
-        "published_date": "Wed, 24 Dec 2025 12:08:00 GMT",
-        "first_seen": "2025-12-24T05:26:35.116568"
-      },
       "2b264b9ef210bdc297c3934f20d7ebb7d3229cefb6fe0e494d6bec1026ee23b9": {
         "title": "实测MiniMax M2.1之后，我们终于看懂了其招股书里的技术底气",
         "link": "https://www.jiqizhixin.com/articles/2025-12-24-7",
@@ -15491,13 +15497,37 @@
         "link": "https://www.qbitai.com/2026/01/371922.html",
         "published_date": "Fri, 23 Jan 2026 03:16:00 GMT",
         "first_seen": "2026-01-23T05:21:21.985084"
+      },
+      "390b29d38a5a2abcd2fcc0542b76de3e92e54d982cadf2ed13b797b4e11ba656": {
+        "title": "启动经费550万起！全球顶级AI人才看过来",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-7",
+        "published_date": "Fri, 23 Jan 2026 15:05:00 GMT",
+        "first_seen": "2026-01-23T08:19:10.961709"
+      },
+      "a68d5097bd3f0de1390341afb7f2d51e2596bcccbf6f3092620670e81c3a05c7": {
+        "title": "三星爆火递归模型TRM唯一作者被迫离职，内部不认可？",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-6",
+        "published_date": "Fri, 23 Jan 2026 14:58:00 GMT",
+        "first_seen": "2026-01-23T08:19:10.961717"
+      },
+      "3e49236be39d6ec84e700221f0f6fbc1a5ae083c19903a5cb45ba734a499335c": {
+        "title": "Nature子刊｜上智院、复旦、无限光年发布MAPLE框架，破解甲基化衰老与疾病风险预测的泛化难题",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-23-5",
+        "published_date": "Fri, 23 Jan 2026 14:04:00 GMT",
+        "first_seen": "2026-01-23T08:19:10.961720"
+      },
+      "7ee5e7c54cb145927f98d44375c25ffb70f179ff23aaf5da09a170ea7f9d7b16": {
+        "title": "腾讯重仓的AI芯片公司要上市了！燧原科技IPO获受理，拟募资60亿",
+        "link": "https://www.qbitai.com/2026/01/371924.html",
+        "published_date": "Fri, 23 Jan 2026 06:09:00 GMT",
+        "first_seen": "2026-01-23T08:19:10.961722"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-23T05:21:22.105935",
-    "Finance": "2026-01-23T05:21:21.843205",
-    "Ai": "2026-01-23T05:21:21.985086"
+    "Technology": "2026-01-23T08:19:11.085757",
+    "Finance": "2026-01-23T08:19:10.832289",
+    "Ai": "2026-01-23T08:19:10.961724"
   }
 }
