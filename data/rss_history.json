@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "fb8e95a9d409c903247684f494aed8aaa53c3b8d180bb569049d5cbd91947824": {
-        "title": "英特尔股价下跌，原因在于英伟达",
-        "link": "https://www.tmtpost.com/7820791.html",
-        "published_date": "Thu, 25 Dec 2025 12:36:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518486"
-      },
-      "4782e1ccaa40b65781940d8ea4f3a3e342276d510b4cbf5b8c6b82efb1d30651": {
-        "title": "对话蔡恒进：当AI有了自我意识，我们如何与之共处？",
-        "link": "https://www.tmtpost.com/7820525.html",
-        "published_date": "Thu, 25 Dec 2025 11:13:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518493"
-      },
-      "d47cb5aa0ec036f8cd16b581723c66e592cea2cfebdf63ab23a5c9b2177c18ed": {
-        "title": "在资本赛道狂飙，在漆黑路口熄火：Waymo的2025扩张悖论",
-        "link": "https://www.tmtpost.com/7820700.html",
-        "published_date": "Thu, 25 Dec 2025 11:32:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518495"
-      },
-      "4e7a37335078a6baf5e100bad9efbd32f1384623054d2f625dc239571dcabdbf": {
-        "title": "日薪300，我在后厂村“手搓”人形机器人",
-        "link": "https://www.tmtpost.com/7820717.html",
-        "published_date": "Thu, 25 Dec 2025 13:04:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518497"
-      },
-      "9f5f3aa4e3a0872f7852a2872cbc5470a4cf4b5db7d0ee10aa0d49b59bc839d3": {
-        "title": "长单潮带动4000亿大扩产，储能走在了光伏过剩的老路上",
-        "link": "https://www.tmtpost.com/7820441.html",
-        "published_date": "Thu, 25 Dec 2025 11:18:00 GMT",
-        "first_seen": "2025-12-25T05:26:24.518499"
-      },
       "41fa095c60e6ad6f9483cf31e81f83f1f8b1525538a361c56ca36cf94527fc30": {
         "title": "“2030年消灭所有C/C++”？微软紧急否认AI+Rust重写Windows 11，但“一人一月一百万行代码”已让技术圈炸锅",
         "link": "https://www.infoq.cn/article/Rquv5WQEYGfVepGP2wOo?utm_source=rss&utm_medium=article",
@@ -9175,21 +9145,15 @@
         "link": "http://www.huxiu.com/article/4829114.html?f=wangzhan",
         "published_date": "Sat, 24 Jan 2026 10:00:00 GMT",
         "first_seen": "2026-01-24T05:15:23.788607"
+      },
+      "b8fe0657d682ae412eafb83ed1e43a97e0e1f716ad10b7fe61b5353bff151478": {
+        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
+        "link": "https://sspai.com/post/105679",
+        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
+        "first_seen": "2026-01-24T08:16:24.311958"
       }
     },
     "Finance": {
-      "c41a663a2981256f72b9df2ad5c28a5fe0dc32c4b37f366ec138e58fca03432e": {
-        "title": "For investors, the real gift from Wall Street comes one day after Christmas",
-        "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
-        "published_date": "Thu, 25 Dec 2025 00:58:00 GMT",
-        "first_seen": "2025-12-25T05:25:53.867343"
-      },
-      "fd71f1ea852fac2b61b23b3285c2d38b08b6b2278207937995844e72a05b6818": {
-        "title": "Nvidia to poach top staff from AI chip start-up Groq in licensing deal",
-        "link": "https://www.ft.com/content/3584197e-a99a-4a06-9386-dc65cf603f45",
-        "published_date": "Wed, 24 Dec 2025 23:36:00 GMT",
-        "first_seen": "2025-12-25T05:25:53.867352"
-      },
       "1d57b73489ce90f8a3dd62269dce008eab3240abbf1a5d3a8edbe74f6411ed9f": {
         "title": "For investors, the real gift from Wall Street comes a day after Christmas",
         "link": "https://www.marketwatch.com/story/for-investors-the-real-gift-from-wall-street-comes-one-day-after-christmas-43da2299?mod=mw_rss_topstories",
@@ -13212,36 +13176,6 @@
       }
     },
     "Ai": {
-      "3ef0e88a23426358207cbcce5bd44ce2f5d387521ad69654a53c036972a2101c": {
-        "title": "TPU惹急黄仁勋，200亿美元拿下「TPU之父」核心团队、技术授权",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-5",
-        "published_date": "Thu, 25 Dec 2025 11:41:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337576"
-      },
-      "017fc8cb0c3afd318194aafd875f40beb4c199059579fcac4f3f6916f421252a": {
-        "title": "刷新NAVSIM SOTA，复旦引望提出Masked Diffusion端到端自动驾驶新框架",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-4",
-        "published_date": "Thu, 25 Dec 2025 11:37:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337583"
-      },
-      "fe3479fa2ec9a69b7348ef777599b2a0363ce8922b6b15057acb13adeb25a560": {
-        "title": "V-Thinker: 让模型像人一样「边画边想」",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25",
-        "published_date": "Thu, 25 Dec 2025 10:22:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337585"
-      },
-      "5943574d707cca83d297788835e196f853e35871c78332d5de2d9100556a0868": {
-        "title": "光帆科技全球首款具备视觉感知能力的主动式AI耳机正式发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-25-3",
-        "published_date": "Thu, 25 Dec 2025 10:34:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337587"
-      },
-      "899077cf3dad83822e38bb34bfc0260d5de17902b39b6f700ba61918ae0bc0ed": {
-        "title": "用编程大模型登顶开源第一后，智谱GLM团队被拷问了3小时",
-        "link": "https://www.qbitai.com/2025/12/365787.html",
-        "published_date": "Thu, 25 Dec 2025 02:33:00 GMT",
-        "first_seen": "2025-12-25T05:26:06.337589"
-      },
       "c81075e2171f7e15574f81ed06b01ddc432ab2c6f3462ff6b75227ac0e781a09": {
         "title": "模仿人类直觉的AI，化学本体驱动的反应路径搜索新范式，用知识结构替代暴力搜索",
         "link": "https://www.jiqizhixin.com/articles/2025-12-25-7",
@@ -15839,13 +15773,19 @@
         "link": "https://ai.hubtoday.app//2026-01/2026-01-24/",
         "published_date": "Sat, 24 Jan 2026 07:55:00 GMT",
         "first_seen": "2026-01-24T05:15:23.673425"
+      },
+      "2b4086df2f265744cf5226e754024b88c159a6a840867427d4d919c7d2a51fa5": {
+        "title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
+        "link": "https://www.qbitai.com/2026/01/372307.html",
+        "published_date": "Sat, 24 Jan 2026 05:18:00 GMT",
+        "first_seen": "2026-01-24T08:16:24.223549"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-24T05:15:23.788609",
+    "Technology": "2026-01-24T08:16:24.311966",
     "Finance": "2026-01-24T05:15:23.557899",
-    "Ai": "2026-01-24T05:15:23.673434"
+    "Ai": "2026-01-24T08:16:24.223574"
   }
 }
