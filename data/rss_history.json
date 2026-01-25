@@ -2,36 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b7fcf0cf022103f0891185f45fb3ca3650e72ec784bd5665f637dedc669dbc53": {
-        "title": "AI芯片新战场：从拼算力到拼能效，端侧浪潮下的众生相  | 产业深度",
-        "link": "https://www.tmtpost.com/7821596.html",
-        "published_date": "Fri, 26 Dec 2025 08:37:00 GMT",
-        "first_seen": "2025-12-26T05:25:02.938054"
-      },
-      "b6092685b8ec5c67a53ef4c048c622bb2079a159db207ed43aabb52465e0de8e": {
-        "title": "智谱大模型引爆论坛！团队分享GLM-4.7走红背后的一切",
-        "link": "https://www.infoq.cn/article/O6xNB5sJwZvNPHEtr87C?utm_source=rss&utm_medium=article",
-        "published_date": "Fri, 26 Dec 2025 10:18:00 GMT",
-        "first_seen": "2025-12-26T05:25:02.938061"
-      },
-      "e055f15809b9c96fc1eadf5dcae5057a0ee0a967726a7f82848dd49d3ec68a52": {
-        "title": "L3级自动驾驶，是可以跳过，还是无法绕过？",
-        "link": "http://www.huxiu.com/article/4820879.html?f=wangzhan",
-        "published_date": "Fri, 26 Dec 2025 10:09:00 GMT",
-        "first_seen": "2025-12-26T05:25:02.938063"
-      },
-      "c72a53e696a3436e221f29cdd7fa7cc30b47a28c160e1d6cffc7e3bda3ac2424": {
-        "title": "【钛晨报】《银行保险机构资产管理产品信息披露管理办法》发布，明年9月1日起施行；广州首个游戏电竞产业专项扶持政策发布；三星电子拟最早2027年推出搭载自研GPU的应用处理器",
-        "link": "https://www.tmtpost.com/7821517.html",
-        "published_date": "Fri, 26 Dec 2025 07:20:00 GMT",
-        "first_seen": "2025-12-26T05:25:02.938065"
-      },
-      "9b21103a3dc3215d3f02a43e4c61b9c05def7fc8472fbb5d7e6ab861c7814469": {
-        "title": "Chinese Robotics Startup Xynova Raises Over US$13 Million in Angel Round for High-DOF Dexterous Hands",
-        "link": "https://www.tmtpost.com/7822011.html",
-        "published_date": "Fri, 26 Dec 2025 12:54:00 GMT",
-        "first_seen": "2025-12-26T05:25:02.938067"
-      },
       "651ab3b2555be5395762fabfce806c698a0be3b62dfccf6048a5b26cc7a30393": {
         "title": "OpenAI 与 Anthropic 向新成立的 Agentic AI 基金会捐赠 AGENTS.md 及模型上下文协议",
         "link": "https://www.infoq.cn/article/c1NGjJaTvBlZsikGkkvy?utm_source=rss&utm_medium=article",
@@ -9235,39 +9205,15 @@
         "link": "https://www.tmtpost.com/7854526.html",
         "published_date": "Sat, 24 Jan 2026 23:24:00 GMT",
         "first_seen": "2026-01-25T05:22:50.588606"
+      },
+      "f6ea7b1415d77ea208ec72a998540789887d101d436085aadcf9f65f52c7b52f": {
+        "title": "从 triple j 到「字母汤」：澳洲音乐电台指北",
+        "link": "https://sspai.com/post/105482",
+        "published_date": "Sun, 25 Jan 2026 14:17:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.365754"
       }
     },
     "Finance": {
-      "f86ab9868e488d0776b79f9a178c45b88b154ccfa29a8e2bd220496077de948b": {
-        "title": "AI boom adds $500bn to net worth of US tech billionaires in 2025",
-        "link": "https://www.ft.com/content/9dcd770a-1ca7-4533-980c-08c5704c9670",
-        "published_date": "Fri, 26 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-26T05:24:31.892619"
-      },
-      "2a11d7a66a57ba5b6cac280c72a716f52a933f70228cd98b354bc6420d26a246": {
-        "title": "China isn’t just dumping cheap goods anymore — it’s sending caviar",
-        "link": "https://www.ft.com/content/461009e1-ec74-47ab-ae6b-72a32474df31",
-        "published_date": "Fri, 26 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-26T05:24:31.892637"
-      },
-      "4a23e248a13683a70983fd0b1a1bd9e319b0a1f9be3722948f2129c49b562dff": {
-        "title": "Solar power surplus in Spain triggers ‘discount season’ for plants",
-        "link": "https://www.ft.com/content/5b0572e3-51f1-4d00-a7c5-b99737e1184f",
-        "published_date": "Fri, 26 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-26T05:24:31.892640"
-      },
-      "90df98eb3318ca1c0a02f0ba351e97d59ac0d26129b74d11d4a24a5b698500b1": {
-        "title": "The FTSE 100’s worst and best performers in 2025",
-        "link": "https://www.ft.com/content/22053b83-a584-42f6-a3fc-1bf5d53c9b90",
-        "published_date": "Fri, 26 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-26T05:24:31.892643"
-      },
-      "cebb83a3d1e47ab860060e35251c2bc3a98ff5d6977e22955c7d15dd46612c35": {
-        "title": "UK aid sector braces spending cuts in 2026",
-        "link": "https://www.ft.com/content/f388c2cf-d081-4e48-8ec5-7facc4faad4f",
-        "published_date": "Fri, 26 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-26T05:24:31.892646"
-      },
       "b9056def338777acf106b3e2ebabe88c7236bc18d3d6b3054772a5fc13a430e1": {
         "title": "Global dealmaking hits $4.5tn in second-best year on record",
         "link": "https://www.ft.com/content/46b87305-4bd7-4e64-81f9-ad6b9a9bc429",
@@ -13305,39 +13251,39 @@
         "link": "https://www.ft.com/content/a065b8e9-c246-4d2f-bc47-425ba2a7e871",
         "published_date": "Sat, 24 Jan 2026 13:50:00 GMT",
         "first_seen": "2026-01-24T23:12:41.395573"
+      },
+      "6f5cf03cad26816b877c3acfee447947d310f94acbb076b5db68b55178c8855c": {
+        "title": "‘I need protein shakes’: Couples disagree about panic-buying for nationwide snowstorm",
+        "link": "https://www.marketwatch.com/story/i-need-protein-shakes-couples-disagree-about-panic-buying-for-nationwide-snowstorm-f9a503bb?mod=mw_rss_topstories",
+        "published_date": "Sun, 25 Jan 2026 07:30:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.161573"
+      },
+      "f5aefdff70858f5b94fc924a82ae1ba0ddb4b531f9deb054cef7f51bce31d267": {
+        "title": "Middle powers may miss the global order more than they think",
+        "link": "https://www.ft.com/content/647d375b-26f6-4bf3-ac68-175558ba6ab0",
+        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.161582"
+      },
+      "7150a6c18b5902c9c45482ff4c4ce37f2a98c770e1bffe6e0502ca0975bd1279": {
+        "title": "No laughing matter as Lebanon goes after its comedians",
+        "link": "https://www.ft.com/content/f8dd74d4-c532-4adb-b148-27b2a63e8840",
+        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.161585"
+      },
+      "b16c316e462d5dd55d1f10758646cd24012c185bc6526962a033ebf31100a113": {
+        "title": "Link MPs’ pay to GDP, says UK business secretary",
+        "link": "https://www.ft.com/content/e401f72e-0888-4664-a321-d9214503655f",
+        "published_date": "Sun, 25 Jan 2026 05:00:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.161586"
+      },
+      "ffcdc7e2c014461a675188a99a39307ca81a2f5338d33ac49b803fbb42d068fa": {
+        "title": "US to invest $1.6bn into rare earths group in bid to shore up key minerals",
+        "link": "https://www.ft.com/content/0a337dc3-5a12-4c82-87b5-f2340378006c",
+        "published_date": "Sat, 24 Jan 2026 23:29:00 GMT",
+        "first_seen": "2026-01-25T08:17:10.161588"
       }
     },
     "Ai": {
-      "ad533c43b5faa7b0c554e7209e8e316f954d60d211704af7ea0352816bca07b1": {
-        "title": "Agent「记吃不记打」？华为诺亚&港中文发布SCOPE：Prompt自我进化，让HLE成功率翻倍",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-5",
-        "published_date": "Fri, 26 Dec 2025 13:23:00 GMT",
-        "first_seen": "2025-12-26T05:24:40.190121"
-      },
-      "d931e6a60f00ef5a85702182a36e326f92c65430dd3726fa8bc045a553a8cc71": {
-        "title": "全异构、全异步的RLinf v0.2尝鲜版发布，支持真机强化学习，像使用GPU一样使用你的机器人！",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-2",
-        "published_date": "Fri, 26 Dec 2025 11:39:00 GMT",
-        "first_seen": "2025-12-26T05:24:40.190127"
-      },
-      "9fe5b3a64012030d2987cae287abbbc034bf6f3e81a7a009fd365a8ba68d1f1d": {
-        "title": "顶刊TPAMI｜多模态视频理解领域重磅数据更新：MeViSv2发布",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-4",
-        "published_date": "Fri, 26 Dec 2025 13:19:00 GMT",
-        "first_seen": "2025-12-26T05:24:40.190129"
-      },
-      "0f6adfbb37c85517fb9c3293dd6a649e80a9217aa0ca97006ec4f27a05bbbe19": {
-        "title": "离谱：256G内存比RTX5090还贵，你要为AI买单吗？",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26-3",
-        "published_date": "Fri, 26 Dec 2025 11:42:00 GMT",
-        "first_seen": "2025-12-26T05:24:40.190131"
-      },
-      "748feab60ca23ce3c754987727db269d44e7fa0864f16113971b9d7d32555b16": {
-        "title": "灵巧手企业曦诺未来Xynova完成超亿元天使轮融资",
-        "link": "https://www.jiqizhixin.com/articles/2025-12-26",
-        "published_date": "Fri, 26 Dec 2025 10:16:00 GMT",
-        "first_seen": "2025-12-26T05:24:40.190133"
-      },
       "a9dae326ae2da0e8a87299752bd3b977f6ca847cb86c6b1e3125e4a9d418973f": {
         "title": "VLM能否看清「分子世界」？人大联合清华、达摩院等机构发布首个微观空间智能基准MiSI-Bench",
         "link": "https://www.jiqizhixin.com/articles/2025-12-26-7",
@@ -15916,8 +15862,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-25T05:22:50.588609",
-    "Finance": "2026-01-24T23:12:41.395575",
+    "Technology": "2026-01-25T08:17:10.365761",
+    "Finance": "2026-01-25T08:17:10.161599",
     "Ai": "2026-01-25T05:22:50.467504"
   }
 }
