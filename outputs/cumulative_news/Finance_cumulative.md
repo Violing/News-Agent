@@ -1,7 +1,21 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-26 05:27
+**最后更新时间**: 2026-01-26 08:20
+
+---
+
+## 🆕 最新更新 (2026-01-26 08:20)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Sanctioned Iranian banker amassed €400mn European property empire](https://www.ft.com/content/c28d7274-6bba-49c7-bddb-4a4bb100ef97)
+**发布时间**: 2026-01-26 05:00
+
+#### [Hargreaves Lansdown cuts fees as competition escalates](https://www.ft.com/content/60ddd296-6be8-4222-b31e-5873ba4c322b)
+**发布时间**: 2026-01-26 05:00
+
+#### [Baillie Gifford’s Tim Campbell: ‘I’ve tried to be very human’](https://www.ft.com/content/9ef80d3a-3849-4d25-9fdf-cf8bb6d8a5d9)
+**发布时间**: 2026-01-26 05:00
 
 ---
 
