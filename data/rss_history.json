@@ -2,12 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "d34d2d814ed0c89b3aeb400ac5af129250046035ba275406e616e977d7fd76a6": {
-        "title": "推荐 8 个本周 yyds 的 GitHub 开源项目。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530027&idx=1&sn=51d12ff254c52af9c0d3a6c8e0d1b937",
-        "published_date": "Sun, 28 Dec 2025 15:29:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.777834"
-      },
       "17c31a4375eeef31dc1b693df787b922a1a188dd9e10a78d4530fc1aa2f50d08": {
         "title": "亚马逊云科技扩展 Well-Architected Framework，新增负责任 AI，并更新机器学习与生成式 AI 视角",
         "link": "https://www.infoq.cn/article/x2ZXdBaKmO2oR7wxO7XD?utm_source=rss&utm_medium=article",
@@ -9535,57 +9529,63 @@
         "link": "https://sspai.com/post/105792",
         "published_date": "Tue, 27 Jan 2026 08:19:00 GMT",
         "first_seen": "2026-01-27T05:20:50.863070"
+      },
+      "773048c802053091ea06b335b466299ed57990b23d0f2d791c5f4f5bda67a062": {
+        "title": "2025漫剧年度报告：年增长6万部漫剧，广东漫剧领先，游戏厂商转型漫剧？",
+        "link": "https://www.tmtpost.com/7855879.html",
+        "published_date": "Tue, 27 Jan 2026 16:16:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293408"
+      },
+      "1c35bbef1f20cb05a34707e87fc66c7deae57dbd0803d279e2fecf727af112dc": {
+        "title": "168亿，“铁娘子”刘静瑜落子欧洲，中创新航激战全球锂电格局",
+        "link": "https://www.tmtpost.com/7855796.html",
+        "published_date": "Tue, 27 Jan 2026 14:12:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293414"
+      },
+      "5db881c1136ee2b786d97bf99638923e24b7cadf14621f4dda996753bbf995e2": {
+        "title": "儿童手表市场“大变天”",
+        "link": "https://www.tmtpost.com/7857113.html",
+        "published_date": "Tue, 27 Jan 2026 14:11:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293416"
+      },
+      "27f471ade26f004d52b4b5976981c7d89bc265ae9365bbcf4d294fbab0e6912d": {
+        "title": "DeepSeek 突发 OCR 2，采用基于 Qwen 的新架构",
+        "link": "https://www.infoq.cn/article/84TIUU5VrXv1jBYeV9lO?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 15:14:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293418"
+      },
+      "12f79e7011685dd2aec57d16e273085b8d3ac4165cab7355e7d1c4d1ab6ee204": {
+        "title": "从 Vibe 到生产：Vibe Coding 的艺术、训练与陷阱",
+        "link": "https://www.infoq.cn/article/F6jd0giAQlBKmhVhVt7H?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 15:13:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293420"
+      },
+      "9731c6905e2a4674752541773ef78fd926884a843ebabc460fa15815273698ce": {
+        "title": "Docker通过Cagent提供AI代理确定性测试",
+        "link": "https://www.infoq.cn/article/2PElIY0xN9ICC5LXQPQS?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 15:10:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293421"
+      },
+      "556c932133ca95eecab632c1a7fa70737b771f5e303e0a7db4f7cf4a3fe9eac0": {
+        "title": "2025 火山引擎智能视频云实践精选集",
+        "link": "https://www.infoq.cn/minibook/2kQxCXUXOQ1eu4czPUNA?utm_source=rss&utm_medium=article",
+        "published_date": "Tue, 27 Jan 2026 14:01:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293422"
+      },
+      "cbb9e0bbb86e5ef517ffbf951040b243f1dc3db12d6ce1a8b3174037d5d4ece2": {
+        "title": "软件工程师的 AI Coding 进化论",
+        "link": "https://sspai.com/post/105584",
+        "published_date": "Tue, 27 Jan 2026 15:09:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293424"
+      },
+      "817df0c7736c55b2220828b5d11eeb33a329329c02dd8da5ea9fcf918108b1bf": {
+        "title": "GitHub 上狂揽 5 万 Star！26 年爆火的个人 AI 助手。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530939&idx=1&sn=bbef18aa1025aea5e937facceafb9878",
+        "published_date": "Tue, 27 Jan 2026 15:04:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.293425"
       }
     },
     "Finance": {
-      "84f1a106471ff58879a28d587fce24ce024edcfcb626acce1d5f884fff0d3ba2": {
-        "title": "Japanese births set to fall below lowest official forecasts in 2025",
-        "link": "https://www.ft.com/content/a8127924-2e46-47aa-8429-8813099a26c4",
-        "published_date": "Sun, 28 Dec 2025 05:53:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606839"
-      },
-      "5b37d4b2c38063fb57327db87ae9b1e8e329fafa4242526c51656898d35fc2b1": {
-        "title": "North Sea suffers worst year since 1970s as drillers freeze investment",
-        "link": "https://www.ft.com/content/abc3c550-c657-47ac-977c-64f818abf9f5",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606851"
-      },
-      "7604f2672946e215c58f411a2235e9d276f6f4557ae39f75f62f7d642444704c": {
-        "title": "Move over, Tokyo — the world has a new biggest city",
-        "link": "https://www.ft.com/content/4ee58650-3a91-4c0b-84d1-48c27e8639cc",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606853"
-      },
-      "71a7a91a9b44ab0c6e2c05c1cd9cc3c6ac91bfc25ee54d15b91a2e6d7a747249": {
-        "title": "Why your AI companion is not your friend",
-        "link": "https://www.ft.com/content/f3658db4-0bd5-4a0e-af9f-8f7a14f05603",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606855"
-      },
-      "1375927b1516bc1b700cc9b3a5a87be1960ebe4a865386c9905c5f60758b8e2c": {
-        "title": "‘Wellness’ culture is empty without service to others",
-        "link": "https://www.ft.com/content/2e430db3-a6e6-46a9-a390-bd3cb6ceb3b6",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606856"
-      },
-      "7095a69558f7244426cbd3e0394a7fe1f40cc1671f8f06453ef85956a4813d0d": {
-        "title": "Lloyds shuts invoice financing service as small businesses feel squeeze",
-        "link": "https://www.ft.com/content/d1460278-017d-477d-ba82-f81528ce359a",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606858"
-      },
-      "bb21ca5b0b3ae57e83ef1433a060d5e11cf0f3299386445462109920301192bd": {
-        "title": "Europe’s growth prospects depend on German spending spree, economists say",
-        "link": "https://www.ft.com/content/4db902c0-7586-4e24-b388-8c3c78858514",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606860"
-      },
-      "74ad4a51393522b644041c5562b635b68c29214faa276bb554fd51a5c412518a": {
-        "title": "Europe races to placate pharma as Trump turns up the pressure",
-        "link": "https://www.ft.com/content/2f3ebc7c-c47e-4d61-87b6-8a899c9fc737",
-        "published_date": "Sun, 28 Dec 2025 05:00:00 GMT",
-        "first_seen": "2025-12-28T08:17:51.606862"
-      },
       "3680405ba0275d36c8199e398ef37ce6d930d17880519b6f4dc657d1d7187a79": {
         "title": "AI start-ups amass record $150bn funding cushion as bubble fears mount",
         "link": "https://www.ft.com/content/7f989b72-0722-4b0a-9a50-876417abc06f",
@@ -13827,6 +13827,12 @@
         "link": "https://www.marketwatch.com/story/why-nike-is-cutting-hundreds-of-jobs-starting-at-its-warehouses-cb090255?mod=mw_rss_topstories",
         "published_date": "Mon, 26 Jan 2026 23:27:00 GMT",
         "first_seen": "2026-01-27T05:20:50.576774"
+      },
+      "d916487e6ff2d17bf70b3437c0282e2df4dc51d9cfaaa1b3029132bca4b49db2": {
+        "title": "UK caps ground rents paid to freeholders",
+        "link": "https://www.ft.com/content/81e95e72-b59e-44b4-9639-e33c407b1ad7",
+        "published_date": "Tue, 27 Jan 2026 07:21:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.019436"
       }
     },
     "Ai": {
@@ -16529,13 +16535,55 @@
         "link": "https://www.qbitai.com/2026/01/372848.html",
         "published_date": "Tue, 27 Jan 2026 02:27:00 GMT",
         "first_seen": "2026-01-27T05:20:50.757146"
+      },
+      "23176a874e7508c9453564ff909ccf980b7750113da68ceaa111dde1d0aff230": {
+        "title": "刚刚，DeepSeek又探索新架构了，开源OCR 2",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-8",
+        "published_date": "Tue, 27 Jan 2026 14:12:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204508"
+      },
+      "ab35d54754af4d3b3e6ed2fea54b3afc4ebf6219b86acd7299b62ef690bc4455": {
+        "title": "高效智能体的「幕后推手」是谁？一篇综述带你从记忆×工具学习×规划看透",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-7",
+        "published_date": "Tue, 27 Jan 2026 14:07:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204516"
+      },
+      "f28d39ea62c4175341f2214578b37c8b438f8312e62cf4cfa473d47e9b20ef19": {
+        "title": "即刻体验国内最强推理模型Qwen3-Max-Thinking，千问PC和网页端已接入",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-6",
+        "published_date": "Tue, 27 Jan 2026 13:34:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204518"
+      },
+      "4cefef01e2b0f534a4fab3db300d62d8211306f7535449f6c55f3241c09641a9": {
+        "title": "蚂蚁具身研究首次亮相！就解决了机器人「看」透明玻璃这些难题，还开源了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-5",
+        "published_date": "Tue, 27 Jan 2026 13:32:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204519"
+      },
+      "15380f21e739fbad4fdcd84efe9277930ad85e4798dad0f4aad104b4534f0b88": {
+        "title": "性能比肩Gemini 3 Pro！昨晚，阿里千问最强模型来了",
+        "link": "https://www.jiqizhixin.com/articles/2026-01-27-4",
+        "published_date": "Tue, 27 Jan 2026 13:23:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204521"
+      },
+      "6da8d48e850811fc91a5bbc38692903ae651e8add4bb3717167035c44c0c7440": {
+        "title": "机器人看不清，蚂蚁给治好了",
+        "link": "https://www.qbitai.com/2026/01/372970.html",
+        "published_date": "Tue, 27 Jan 2026 06:42:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204522"
+      },
+      "e1bcc4effa821712b96f855008de9e15246aeb974ed21c7a0c44ac586ea624d9": {
+        "title": "阿里健康AI产品氢离子新功能上线：动态证据定位 让医学结论可验、可信、可用",
+        "link": "https://www.qbitai.com/2026/01/373020.html",
+        "published_date": "Tue, 27 Jan 2026 06:13:00 GMT",
+        "first_seen": "2026-01-27T08:20:56.204524"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-01-27T05:20:50.863071",
-    "Finance": "2026-01-27T05:20:50.576777",
-    "Ai": "2026-01-27T05:20:50.757149"
+    "Technology": "2026-01-27T08:20:56.293426",
+    "Finance": "2026-01-27T08:20:56.019443",
+    "Ai": "2026-01-27T08:20:56.204525"
   }
 }
