@@ -1,7 +1,34 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-01-26 23:14
+**最后更新时间**: 2026-01-27 05:20
+
+---
+
+## 🆕 最新更新 (2026-01-27 05:20)
+### 📰 来源: [机器之心](https://www.jiqizhixin.com/rss)
+
+#### [跨境电商版Sora发布：全球首个AI原生电商视频Multi-Agent来了](https://www.jiqizhixin.com/articles/2026-01-27-3)
+**发布时间**: 2026-01-27 13:17
+
+#### [刚刚，微软全新一代自研AI芯片Maia 200问世](https://www.jiqizhixin.com/articles/2026-01-27-2)
+**发布时间**: 2026-01-27 13:07
+
+#### [大模型哪里出问题、怎么修，这篇可解释性综述一次讲清](https://www.jiqizhixin.com/articles/2026-01-27)
+**发布时间**: 2026-01-27 13:04
+
+### 📰 来源: [AI洞察日报 RSS Feed](https://justlovemaki.github.io/CloudFlare-AI-Insight-Daily/rss.xml)
+
+#### [2026-01-27日刊](https://ai.hubtoday.app//2026-01/2026-01-27/)
+**发布时间**: 2026-01-27 07:55
+
+### 📰 来源: [量子位](https://www.qbitai.com/feed)
+
+#### [3D版Nano Banana来了！AI修模成为现实，3D生成进入可编辑时代](https://www.qbitai.com/2026/01/372934.html)
+**发布时间**: 2026-01-27 04:21
+
+#### [11.77亿资本押注卡车新势力一哥，L2升维路线率先在商用车跑通！](https://www.qbitai.com/2026/01/372848.html)
+**发布时间**: 2026-01-27 02:27
 
 ---
 
