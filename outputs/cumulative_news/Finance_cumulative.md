@@ -1,7 +1,38 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-27 23:13
+**最后更新时间**: 2026-01-28 05:21
+
+---
+
+## 🆕 最新更新 (2026-01-28 05:21)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Texas Instruments forecasts something that hasn’t happened in 16 years, lifting its stock](https://www.marketwatch.com/story/texas-instruments-forecasts-something-that-hasnt-happened-in-16-years-lifting-its-stock-8d444f5d?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 04:18
+
+#### [Apple CEO Tim Cook says he’s ‘heartbroken’ after Minneapolis shootings, calls for de-escalation](https://www.marketwatch.com/story/apple-ceo-tim-cook-says-hes-heartbroken-after-minneapolis-shootings-calls-for-de-escalation-bf9595f2?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 03:43
+
+#### [Here’s how Microsoft can prove the doubters wrong this earnings season](https://www.marketwatch.com/story/heres-how-microsoft-can-prove-the-doubters-wrong-this-earnings-season-7e4a5a18?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 02:20
+
+#### [Everyone’s looking for political fireworks from Powell’s press conference. Here’s what to expect.](https://www.marketwatch.com/story/everyones-looking-for-political-fireworks-from-powells-press-conference-heres-what-to-expect-4c79bf55?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 02:14
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [How Trump was forced to back off his harshest immigration tactics](https://www.ft.com/content/c1385bd6-93c9-4da0-975a-d0020bec32a9)
+**发布时间**: 2026-01-28 00:52
+
+#### [UK’s deadline for paying IHT on pensions poses ‘huge problem’, peers warn](https://www.ft.com/content/05141300-4658-4305-af6c-6123571a4353)
+**发布时间**: 2026-01-28 00:01
+
+#### [Citi seeks to move harassment claim against top executive to arbitration](https://www.ft.com/content/4e1b334a-688d-436e-b72b-49ad072843cb)
+**发布时间**: 2026-01-27 21:33
+
+#### [Burnham’s Manchester and its rapid revival](https://www.ft.com/content/606d9768-2beb-4e91-9fd6-7bda2d32aaec)
+**发布时间**: 2026-01-27 12:54
 
 ---
 
