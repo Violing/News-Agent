@@ -1,7 +1,44 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-28 05:21
+**最后更新时间**: 2026-01-28 08:20
+
+---
+
+## 🆕 最新更新 (2026-01-28 08:20)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [‘I don’t own a house’: I’m 50 with $2 million and I’m scared about losing my job. Can I retire early?](https://www.marketwatch.com/story/i-dont-own-a-house-im-50-with-2-million-and-im-scared-about-losing-my-job-can-i-retire-early-bff8a8c3?mod=mw_rss_topstories)
+**发布时间**: 2026-01-28 07:15
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Starmer blasts ‘toxic’ politics of Reform UK’s by-election candidate](https://www.ft.com/content/db830ac8-5a04-4beb-b5bc-c1db584c45b6)
+**发布时间**: 2026-01-28 07:00
+
+#### [Investors bet on ‘hot’ US economy heading into midterm elections](https://www.ft.com/content/8cbb2664-7795-4286-a795-99181df151fc)
+**发布时间**: 2026-01-28 05:00
+
+#### [Tether scores $5bn windfall as gold price rockets](https://www.ft.com/content/329900cb-80e5-4b75-8937-34774430da51)
+**发布时间**: 2026-01-28 05:00
+
+#### [The rise of the ‘National Health State’](https://www.ft.com/content/cb763b6e-3c1f-4c9a-9fdb-5188fb102f68)
+**发布时间**: 2026-01-28 05:00
+
+#### [The reality of a world after rupture](https://www.ft.com/content/b784dc0f-abbb-4d02-b78d-89c69b8082be)
+**发布时间**: 2026-01-28 05:00
+
+#### [How private equity’s pioneer in tapping retail money lost its edge](https://www.ft.com/content/7b9e7575-f35b-4bd8-a901-f3af3525d753)
+**发布时间**: 2026-01-28 05:00
+
+#### [SpaceX weighs June IPO timed to planetary alignment and Musk’s birthday](https://www.ft.com/content/0ee356cb-5c77-4686-9392-260520369122)
+**发布时间**: 2026-01-28 05:00
+
+#### [Swiss franc surges to decade high as traders seek last ‘reliable’ haven](https://www.ft.com/content/4eb0c9cc-3d81-4860-b59a-7696305ce48f)
+**发布时间**: 2026-01-28 05:00
+
+#### [Google scuppers service comparing YouTube viewing with TV and streaming audiences](https://www.ft.com/content/9493ee78-e18b-41ae-8719-8d1380e1e63d)
+**发布时间**: 2026-01-28 05:00
 
 ---
 
