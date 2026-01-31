@@ -1,7 +1,23 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-01-31 05:33
+**最后更新时间**: 2026-01-31 08:18
+
+---
+
+## 🆕 最新更新 (2026-01-31 08:18)
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [堪称外挂的 Claude Code 配置神器，在 GitHub 上杀疯了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530978&idx=1&sn=4ffda450408750872a52ddaeb808a2ff)
+**发布时间**: 2026-01-31 15:05
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [极兔B面，换挡加速](https://www.tmtpost.com/7862596.html)
+**发布时间**: 2026-01-31 14:48
+
+#### [百度成立PSIG事业群组，副总裁王颖挂帅，向李彦宏汇报](https://www.tmtpost.com/7862645.html)
+**发布时间**: 2026-01-31 14:48
 
 ---
 
