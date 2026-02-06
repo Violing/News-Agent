@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-06 05:45
+**最后更新时间**: 2026-02-06 08:30
+
+---
+
+## 🆕 最新更新 (2026-02-06 08:30)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Stellantis to take €22bn charge as it scales back EV push](https://www.ft.com/content/0c812d51-6775-4edc-8803-522d7cb18198)
+**发布时间**: 2026-02-06 07:14
 
 ---
 
