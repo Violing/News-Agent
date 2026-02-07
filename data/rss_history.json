@@ -2,102 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "f67b72b6e9c8e0cf17ca8b339861e623262ee052c91c04e0f2640eb2930ebdb6": {
-        "title": "智谱IPO首日，唐杰发内部信：GLM-5将至，成立X-lab，做颠覆式创新",
-        "link": "https://www.tmtpost.com/7835366.html",
-        "published_date": "Thu, 08 Jan 2026 16:13:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643586"
-      },
-      "a9d118457b5e37da451628fb37c6b11afb4cabd8ac5830d6153913b0ef315f84": {
-        "title": "从合规到进化，我们到底该如何理解新国标？",
-        "link": "https://www.tmtpost.com/7835321.html",
-        "published_date": "Thu, 08 Jan 2026 14:55:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643594"
-      },
-      "2837a1c30673e704f59a74b57388fa1423253d15eb6a5fa37bbdaaee2bc34ad5": {
-        "title": "首个「AI六小虎」上市，海淀收获「全球大模型第一股」",
-        "link": "https://www.tmtpost.com/7835384.html",
-        "published_date": "Thu, 08 Jan 2026 14:51:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643597"
-      },
-      "b76ccfc448bfb8a13b9349d6257946bcdbb981b9faf9c17b575d08f98ed0d78e": {
-        "title": "Industrial AI Is the True Value Driver of the AI Revolution, Says Siemens Exec",
-        "link": "https://www.tmtpost.com/7835351.html",
-        "published_date": "Thu, 08 Jan 2026 13:59:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643599"
-      },
-      "c1d530f5ab8a92e158aecbaf822ba8f7a065091c625c9689ac14a7a797d9f601": {
-        "title": "开勒股份战略投资深蕾科技，深度布局半导体赛道｜融资动态",
-        "link": "https://www.tmtpost.com/7835316.html",
-        "published_date": "Thu, 08 Jan 2026 13:36:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643601"
-      },
-      "296a28e8cfa277050dc18579cf986f7af5a65fbd2ef06ed93761dc4f12f9e58e": {
-        "title": "First Solar股价因评级下调而下跌，投资者应降低预期",
-        "link": "https://www.tmtpost.com/7835315.html",
-        "published_date": "Thu, 08 Jan 2026 13:27:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643602"
-      },
-      "2450a5b44d42f0e68548a8bc24144fcf8f8e3619b0908d724f72885218bc45ac": {
-        "title": "当咖啡机器人席卷CES：一场商用具身智能的消费革命",
-        "link": "https://www.tmtpost.com/7834136.html",
-        "published_date": "Thu, 08 Jan 2026 13:09:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643603"
-      },
-      "0f4f3d79324d31f027d72ba452aa703e56f97b6cb2db0a29604adee891f0772c": {
-        "title": "苹果和戴尔面临内存价格飙升，股价能否应对这一威胁？",
-        "link": "https://www.tmtpost.com/7835286.html",
-        "published_date": "Thu, 08 Jan 2026 13:03:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643605"
-      },
-      "4e2e6a5262e13df6c102713d52ffe590237bf249f76844ef78d6f561ab2bca3d": {
-        "title": "康斯特雷莱申完成对卡尔派恩的收购，成为全球最大电力生产商",
-        "link": "https://www.tmtpost.com/7835284.html",
-        "published_date": "Thu, 08 Jan 2026 13:02:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643606"
-      },
-      "100b33ce023f73ef2fbc5ba0b675e581a85fc76b32a3db5d59e78abbe5a89224": {
-        "title": "跟风追逐闪迪和美光，可能让你的投资组合陷入风险",
-        "link": "https://www.tmtpost.com/7835281.html",
-        "published_date": "Thu, 08 Jan 2026 13:01:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643608"
-      },
-      "5dfe58de04823cae297ac9364e71d3d5b5753ffdafd04572768c43cf07c25879": {
-        "title": "反弹言之尚早，Academy Sports还有硬仗要打",
-        "link": "https://www.tmtpost.com/7835279.html",
-        "published_date": "Thu, 08 Jan 2026 13:01:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643609"
-      },
-      "c52926e8c0d09aef47b5cfd5c55e4e60ab826b727049e304df2fc391088e98f2": {
-        "title": "AST SpaceMobile股价下跌，因分析师警告存在50%的下行风险",
-        "link": "https://www.tmtpost.com/7835274.html",
-        "published_date": "Thu, 08 Jan 2026 13:00:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643611"
-      },
-      "f14e45bf3ab1682aecfe841378d60d7c07bb315a3647622c22898e4a349ffee1": {
-        "title": "Claude Code 的创始人揭秘工作流程：开5个智能体“玩编程游戏”，不看的程序员就落后了？",
-        "link": "https://www.infoq.cn/article/EApkAGSJSaiyJbi4JfSO?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:19:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643612"
-      },
-      "f38f1a513273c155103e1f987486e24d8070b12982f327f9c3506ea215e33682": {
-        "title": "Slack增强Chef基础设施，提升安全性并降低部署影响范围",
-        "link": "https://www.infoq.cn/article/9DINHIzbyiQYT4mj7vPA?utm_source=rss&utm_medium=article",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643614"
-      },
-      "2db507069176dddf6c0ee24da66fd5a053127de57aea9acb074d2b8b65aac345": {
-        "title": "GitHub 上 2300 点赞的搜索 Agent，有点惊艳啊。",
-        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247530418&idx=1&sn=d983720f54ccc4c953aef2f8397d172c",
-        "published_date": "Thu, 08 Jan 2026 15:05:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643615"
-      },
-      "d35b82180f5330430fd848f14e273e49f56275a2d69ef51967e3d47390e960b0": {
-        "title": "浏览器扩展合集：派友近期推荐的 7 款浏览器扩展",
-        "link": "https://sspai.com/post/105249",
-        "published_date": "Thu, 08 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.643617"
-      },
       "709224596c507be6f473e870088bb3baa2b0ac44d5d9400f99f37a890d6b4579": {
         "title": "智源发布2026十大 AI技术趋势：世界模型成AGI共识方向",
         "link": "https://www.infoq.cn/article/XzfoHiKPOLjjHlJXK8OV?utm_source=rss&utm_medium=article",
@@ -10195,15 +10099,63 @@
         "link": "https://www.infoq.cn/article/SaRHSmwKTghurtuafWHy?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 07 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-07T05:35:29.766251"
+      },
+      "5a199a87005f4b08f2c2244927ad56fbb7e6eb2fbbda1ee8672d998098a5d855": {
+        "title": "在国外抢下三个第一， 光储一体机火爆海外后，思格新能源在国内遇冷了吗？",
+        "link": "https://www.tmtpost.com/7870762.html",
+        "published_date": "Sat, 07 Feb 2026 16:06:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876892"
+      },
+      "de92d7484f0529c8611f1a7c802ae6de7493a5fea01ef1f5aae2b4ffc41bd31c": {
+        "title": "深扒Rentahuman，AI雇佣人类是假，币圈“割韭菜”才是真？",
+        "link": "https://www.tmtpost.com/7870599.html",
+        "published_date": "Sat, 07 Feb 2026 16:05:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876899"
+      },
+      "118da6ceae7edd7c0468eb0e22e5c7d218b2c974b0ae8b3c0bbd9aaee75de443": {
+        "title": "中国能建江苏电建一公司、宝钢工程等因安全违规被处罚，电力安全“救命钱”去哪了？",
+        "link": "https://www.tmtpost.com/7870759.html",
+        "published_date": "Sat, 07 Feb 2026 16:02:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876901"
+      },
+      "36b263ffeda0a621f39d6012e8439a7efb20aaf3afe83934df4f1b5113e65fe1": {
+        "title": "冰火两重天，国轩鹏辉盈利翻倍，永杉锂业深陷亏损，储能行业洗牌加速",
+        "link": "https://www.tmtpost.com/7870765.html",
+        "published_date": "Sat, 07 Feb 2026 15:58:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876903"
+      },
+      "eeec0efa189dacea11d34740b7f37ea6b1e86e449214e0f37b5847aa91d023e1": {
+        "title": "音乐圈的第一批AI受害者出现了",
+        "link": "https://www.tmtpost.com/7870010.html",
+        "published_date": "Sat, 07 Feb 2026 10:04:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876905"
+      },
+      "d53aa47604681ad692e59023d1c7c4494f7fe9d3463686d14cfb4867f5edcc74": {
+        "title": "AI点外卖就是个伪需求",
+        "link": "https://www.tmtpost.com/7870022.html",
+        "published_date": "Sat, 07 Feb 2026 09:16:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876906"
+      },
+      "6e1472706e4140d1c51c6bd4c98509867f7cee11a365ff25d2d72e08b89d490a": {
+        "title": "四川制造突围：“不沿边、不靠海”如何破局？",
+        "link": "https://www.tmtpost.com/7869833.html",
+        "published_date": "Sat, 07 Feb 2026 09:11:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876907"
+      },
+      "57ee5d990189cd1eb1040d57e645da604e996e8076a74497bbaea596c9af403e": {
+        "title": "GitHub 上狂揽 12 Star！把 Claude Code、Gemini CLI 等聚到了一起。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247531081&idx=1&sn=d8eea566ee6444926dba4d85665cc350",
+        "published_date": "Sat, 07 Feb 2026 15:08:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876909"
+      },
+      "be590abf66dbfeeed0be16772bb9fd359683d54648ab8078303b17126e849721": {
+        "title": "最顶以太坊杀手？拆解Solana崛起的底层逻辑",
+        "link": "http://www.huxiu.com/article/4833122.html?f=wangzhan",
+        "published_date": "Sat, 07 Feb 2026 15:00:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.876910"
       }
     },
     "Finance": {
-      "f665f6d8dfa73e39f1e1a1575bf4265c7e7febf42b696ab0ef137fb8bfcc4b23": {
-        "title": "Greenland’s future must be decided by island and Denmark, Starmer warns Trump",
-        "link": "https://www.ft.com/content/745aa7d9-31eb-4cbc-bfca-08acfd8d4440",
-        "published_date": "Thu, 08 Jan 2026 07:47:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.404853"
-      },
       "6e9a31174d748193ae6ae1e6b99853371c39cc59849d9e26a341bb0b6aac2b5f": {
         "title": "Iran suffers ‘internet blackout’ as it struggles to contain protests",
         "link": "https://www.ft.com/content/0e1762e0-8aa6-44b5-977c-0865ecdcbb7d",
@@ -14985,15 +14937,15 @@
         "link": "https://www.marketwatch.com/story/this-years-super-bowl-ads-tell-you-the-ai-bubble-is-about-to-burst-1357e5ae?mod=mw_rss_topstories",
         "published_date": "Fri, 06 Feb 2026 23:40:00 GMT",
         "first_seen": "2026-02-07T05:35:29.466943"
+      },
+      "45fb93df862a79c023ca757868447f284abec4866d399cf98e18d2a45f24d531": {
+        "title": "‘Hermès orange’ iPhone sparks Apple comeback in China",
+        "link": "https://www.ft.com/content/e2d78d04-7368-4b0c-abd5-591c03774c46",
+        "published_date": "Sat, 07 Feb 2026 07:00:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.620027"
       }
     },
     "Ai": {
-      "533fae7cb14def33a30ff28be722de83dc301aa892536a69acc1caae438150c1": {
-        "title": "黄仁勋CES回应全场！内存卡GPU脖子，游戏玩家可能只能用旧显卡了",
-        "link": "https://www.qbitai.com/2026/01/367397.html",
-        "published_date": "Thu, 08 Jan 2026 05:50:00 GMT",
-        "first_seen": "2026-01-08T08:19:02.527034"
-      },
       "873728bfc1651b627514fa42466372a68b8646a8a09b4e0124449315cb6e876f": {
         "title": "明天上市，MiniMax上市额度已经被抢疯了",
         "link": "https://www.jiqizhixin.com/articles/2026-01-08-9",
@@ -17957,13 +17909,31 @@
         "link": "https://www.qbitai.com/2026/02/377514.html",
         "published_date": "Fri, 06 Feb 2026 08:36:00 GMT",
         "first_seen": "2026-02-06T23:18:54.643379"
+      },
+      "a368da793df6871f00f02e6088053501b0a56d9a9ed4946b601c60cf1b866328": {
+        "title": "王慧文杀入OpenClaw赛道，再发英雄帖：「需要融资的欢迎联系我」",
+        "link": "https://www.qbitai.com/2026/02/377564.html",
+        "published_date": "Sat, 07 Feb 2026 07:35:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.781420"
+      },
+      "4d1e96372c18dd77250733cee2205725a6fbe100616a27f0341c168d78500328": {
+        "title": "Nature认定的论文综述神器来了",
+        "link": "https://www.qbitai.com/2026/02/377543.html",
+        "published_date": "Sat, 07 Feb 2026 05:12:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.781428"
+      },
+      "2a4543c6ef34d1fd59fa1e5b54c4dce06cac68248fd8e0127673c23b6f62804a": {
+        "title": "有的AI在算命，有的AI在救命",
+        "link": "https://www.qbitai.com/2026/02/377529.html",
+        "published_date": "Sat, 07 Feb 2026 05:06:00 GMT",
+        "first_seen": "2026-02-07T08:20:38.781430"
       }
     }
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-07T05:35:29.766253",
-    "Finance": "2026-02-07T05:35:29.466946",
-    "Ai": "2026-02-06T23:18:54.643381"
+    "Technology": "2026-02-07T08:20:38.876912",
+    "Finance": "2026-02-07T08:20:38.620035",
+    "Ai": "2026-02-07T08:20:38.781432"
   }
 }
