@@ -1,7 +1,24 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-02-21 05:35
+**最后更新时间**: 2026-02-21 08:46
+
+---
+
+## 🆕 最新更新 (2026-02-21 08:46)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Tehran on edge as residents fear US attack](https://www.ft.com/content/c8f309fd-ab19-48c6-953b-03b884bfd065)
+**发布时间**: 2026-02-21 08:37
+
+#### [Yacht boom propels $700mn-plus Stonepeak marina deal](https://www.ft.com/content/2a588350-a7f7-460f-900e-812a779d7cde)
+**发布时间**: 2026-02-21 05:00
+
+#### [Virgin Atlantic on track to poach ‘tens of thousands’ of BA frequent flyers](https://www.ft.com/content/6384ee81-fab6-4024-a9ec-a0d18303a48f)
+**发布时间**: 2026-02-21 05:00
+
+#### [Iran preparing proposal for US, says foreign minister](https://www.ft.com/content/14c01257-f4dd-4f5a-ae10-e7134462135d)
+**发布时间**: 2026-02-20 21:07
 
 ---
 
