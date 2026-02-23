@@ -2,12 +2,6 @@
   "published_articles": {
     "AI": {},
     "Technology": {
-      "b8fe0657d682ae412eafb83ed1e43a97e0e1f716ad10b7fe61b5353bff151478": {
-        "title": "地产人勇闯科技圈：在少数派造物的 180 天",
-        "link": "https://sspai.com/post/105679",
-        "published_date": "Sat, 24 Jan 2026 15:00:00 GMT",
-        "first_seen": "2026-01-24T08:16:24.311958"
-      },
       "c06753169156d4d24c845a123bfa462e58164aad01c30ae2eeaddb66267b456c": {
         "title": "变脸比翻书还快？前脚刚派人过去“军演”，后脚就把格陵兰卖了",
         "link": "http://www.huxiu.com/article/4828918.html?f=wangzhan",
@@ -8383,6 +8377,18 @@
         "link": "http://www.huxiu.com/article/4834710.html?f=wangzhan",
         "published_date": "Mon, 23 Feb 2026 08:00:00 GMT",
         "first_seen": "2026-02-23T05:59:54.493514"
+      },
+      "5419f1f0d121fa98ab596ded6521ac8e461aef6962aecb8878ec4377bd3a800a": {
+        "title": "DeepMind 运作模式曝光！暗示根本没输 OpenAI：员工20% 时间重启创新，保守巨头直接变 “实验狂”",
+        "link": "https://www.infoq.cn/article/IIY8A1V05cpP614yjFRD?utm_source=rss&utm_medium=article",
+        "published_date": "Mon, 23 Feb 2026 15:36:00 GMT",
+        "first_seen": "2026-02-23T08:37:46.562085"
+      },
+      "a462572de57160e3977e8a0c9d12bc93e5f999a413e80442bebe535f28c540ef": {
+        "title": "为什么别人用AI 是企业增长的印钞机，而你只当高级搜索用？",
+        "link": "https://www.tmtpost.com/7887138.html",
+        "published_date": "Mon, 23 Feb 2026 15:04:00 GMT",
+        "first_seen": "2026-02-23T08:37:46.562092"
       }
     },
     "Finance": {
@@ -13281,15 +13287,15 @@
         "link": "https://www.marketwatch.com/story/tariffs-costs-and-refunds-take-the-spotlight-as-home-depot-tjx-and-other-retailers-report-earnings-this-week-7f2a144a?mod=mw_rss_topstories",
         "published_date": "Mon, 23 Feb 2026 01:57:00 GMT",
         "first_seen": "2026-02-23T05:59:54.244271"
+      },
+      "78e058a223343ebfbd0ee3d3377f10c5e5fb4e6e0865cb77f2a4ed3257fe4de5": {
+        "title": "Gold jumps and dollar slides as global trade faces new Trump tariff threat",
+        "link": "https://www.ft.com/content/46199805-8572-4cc2-84c2-8db7f6621769",
+        "published_date": "Mon, 23 Feb 2026 08:07:00 GMT",
+        "first_seen": "2026-02-23T08:37:46.359083"
       }
     },
     "Ai": {
-      "2b4086df2f265744cf5226e754024b88c159a6a840867427d4d919c7d2a51fa5": {
-        "title": "微软发布医疗时序基座模型：4540亿数据预训练，解决不规则采样",
-        "link": "https://www.qbitai.com/2026/01/372307.html",
-        "published_date": "Sat, 24 Jan 2026 05:18:00 GMT",
-        "first_seen": "2026-01-24T08:16:24.223549"
-      },
       "b002f1db17782b801bb0ea2dccbbbe325124bccbe1d44f0ac0949e17600099cf": {
         "title": "估值35亿美元，LeCun创业公司官宣核心方向，掀起对Next-token范式的「叛变」",
         "link": "https://www.jiqizhixin.com/articles/2026-01-24-6",
@@ -16030,8 +16036,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-02-23T05:59:54.493516",
-    "Finance": "2026-02-23T05:59:54.244273",
+    "Technology": "2026-02-23T08:37:46.562094",
+    "Finance": "2026-02-23T08:37:46.359090",
     "Ai": "2026-02-23T05:59:54.401122"
   }
 }
