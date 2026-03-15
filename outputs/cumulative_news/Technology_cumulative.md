@@ -1,7 +1,28 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-15 06:01
+**最后更新时间**: 2026-03-15 08:26
+
+---
+
+## 🆕 最新更新 (2026-03-15 08:26)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [龙虾风暴下的国产大模型厂商：搭上火箭的Kimi与港股双雄的盛宴](https://www.tmtpost.com/7914749.html)
+**发布时间**: 2026-03-15 15:54
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 6 个开源的 GitHub 项目，刚刚崭露头角。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532219&idx=1&sn=c5da357d5743e3dde42725777e47975e)
+**发布时间**: 2026-03-15 15:05
+
+### 📰 来源: [虎嗅网（科技板块）](https://www.huxiu.com/rss/1.xml)
+
+#### [玛莎拉蒂母公司Stellantis接洽小米小鹏投资？能双赢吗](http://www.huxiu.com/article/4842120.html?f=wangzhan)
+**发布时间**: 2026-03-15 10:30
+
+#### [老破小正在回暖，还是被抛弃？](http://www.huxiu.com/article/4841654.html?f=wangzhan)
+**发布时间**: 2026-03-15 10:00
 
 ---
 
