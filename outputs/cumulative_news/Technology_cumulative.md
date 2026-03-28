@@ -1,7 +1,64 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-03-28 05:52
+**最后更新时间**: 2026-03-28 23:24
+
+---
+
+## 🆕 最新更新 (2026-03-28 23:24)
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [新品上新这么卷，AI真的能帮助天猫和品牌更懂消费者吗？](https://www.tmtpost.com/7932918.html)
+**发布时间**: 2026-03-28 20:40
+
+#### [哈萨比斯为何能率领谷歌DeepMind反超OpenAI？](https://www.tmtpost.com/7933116.html)
+**发布时间**: 2026-03-28 20:06
+
+#### [年亏234亿，王兴还能熬死对手吗](https://www.tmtpost.com/7933113.html)
+**发布时间**: 2026-03-28 20:06
+
+#### [谷歌的龙虾，名叫“史密斯特工”，《黑客帝国》真降临了？](https://www.tmtpost.com/7933173.html)
+**发布时间**: 2026-03-28 20:06
+
+#### [龙虾为啥越养越贵，越用越蠢？](https://www.tmtpost.com/7933044.html)
+**发布时间**: 2026-03-28 19:46
+
+#### [盈利背后：瑞浦兰钧砍掉的20亿“弯路”](https://www.tmtpost.com/7933078.html)
+**发布时间**: 2026-03-28 19:41
+
+#### [【数智周报】  林俊旸：“智能体式思考”将成为主流；2026中关村论坛现场签约34个重大投资项目；OpenClaw更新时发生升级事故；OpenAI将停止运营SORA视频平台应用程序；SK海力士计划年内在美国上市；](https://www.tmtpost.com/7933091.html)
+**发布时间**: 2026-03-28 16:49
+
+#### [Anthropic泄露背后：AI安全承诺的破产与重构](https://www.tmtpost.com/7933051.html)
+**发布时间**: 2026-03-28 16:21
+
+#### [小米财报背后：汽车刚越盈亏线，AI又成下一场豪赌](https://www.tmtpost.com/7932893.html)
+**发布时间**: 2026-03-28 14:32
+
+#### [Sora关停，Seedance怎么办？](https://www.tmtpost.com/7932819.html)
+**发布时间**: 2026-03-28 14:17
+
+#### [快手需要再次证明自己](https://www.tmtpost.com/7932687.html)
+**发布时间**: 2026-03-28 14:17
+
+#### [“养虾热”终于还是要退潮了](https://www.tmtpost.com/7932650.html)
+**发布时间**: 2026-03-28 14:16
+
+#### [当规模不再是护城河，中国车企还要拼什么？｜钛度车库](https://www.tmtpost.com/7933009.html)
+**发布时间**: 2026-03-28 14:04
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [这 4 个让 AI Agent 上网冲浪的开源神器，在 GitHub 上杀疯了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532505&idx=1&sn=d46d1565fb061ce152fefa35aa44ab65)
+**发布时间**: 2026-03-28 15:05
+
+#### [7 个最近 GitHub 上火火火的开源项目，推荐一哈。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532504&idx=1&sn=caf0776d5777153444ed66019db4ac12)
+**发布时间**: 2026-03-27 16:19
+
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [绿色 IT ：如何减轻 AI 对环境的影响](https://www.infoq.cn/article/T0iH5X6AzL5jSe12ktdk?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-03-28 15:00
 
 ---
 
