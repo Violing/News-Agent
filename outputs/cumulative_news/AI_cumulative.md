@@ -1,7 +1,15 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:19
-**最后更新时间**: 2026-04-03 08:42
+**最后更新时间**: 2026-04-03 23:30
+
+---
+
+## 🆕 最新更新 (2026-04-03 23:30)
+### 📰 来源: [Google Research Blog](https://research.google/blog/rss/)
+
+#### [Evaluating alignment of behavioral dispositions in LLMs](https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/)
+**发布时间**: 2026-04-03 08:00
 
 ---
 
