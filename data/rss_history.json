@@ -9913,6 +9913,36 @@
         "link": "https://www.infoq.cn/article/qPNs964YbMjfjR0r1vP6?utm_source=rss&utm_medium=article",
         "published_date": "Sat, 11 Apr 2026 08:00:00 GMT",
         "first_seen": "2026-04-11T05:56:12.876251"
+      },
+      "d3d499b6c5448c406f42577c940de5fe4b7fc17ff305b5f1bb1e6d2d9b6f8435": {
+        "title": "浅谈人工智能时代的用户体验：Agent Experience 导论",
+        "link": "https://sspai.com/post/107600",
+        "published_date": "Sat, 11 Apr 2026 15:18:00 GMT",
+        "first_seen": "2026-04-11T08:34:41.058983"
+      },
+      "3a110fde5e204457a18f17de42c7870dd0e9d93d7dc5fa0d777037d1a9c6bd64": {
+        "title": "Tailwind CSS 4.2 发布 Webpack 插件、新配色方案以及逻辑属性工具类",
+        "link": "https://www.infoq.cn/article/50T48b3TOSJZRAa4GGx9?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 15:00:00 GMT",
+        "first_seen": "2026-04-11T08:34:41.058993"
+      },
+      "2e9920ba0cfc6506394b15cd4d5b6fc99b20c4e697cb0f6c45b90f1f9b6bdce0": {
+        "title": "GitHub Actions 正式发布自定义 Runner 镜像",
+        "link": "https://www.infoq.cn/article/z7y47sADu9SrwgSgr3V1?utm_source=rss&utm_medium=article",
+        "published_date": "Sat, 11 Apr 2026 14:00:00 GMT",
+        "first_seen": "2026-04-11T08:34:41.058995"
+      },
+      "faf228dd66835241ff1bb0510813fda73d3102f8bc372108a411fb77b9e2779c": {
+        "title": "出去过的每个人都在讲，国外的钱也没有那么好挣",
+        "link": "https://www.tmtpost.com/7949674.html",
+        "published_date": "Sat, 11 Apr 2026 14:18:00 GMT",
+        "first_seen": "2026-04-11T08:34:41.058997"
+      },
+      "929b9e6fa217848f34a1e69f072bf778e74915eeece2d33545796022e3381bf9": {
+        "title": "北邮附近的饺子馆，在 GitHub 上开源了自己的 Skill。。。",
+        "link": "https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247532947&idx=1&sn=560a0e6e87eb581dc489b2644602902e",
+        "published_date": "Sat, 11 Apr 2026 11:54:00 GMT",
+        "first_seen": "2026-04-11T08:34:41.058999"
       }
     },
     "Finance": {
@@ -14931,6 +14961,18 @@
         "link": "https://www.marketwatch.com/story/i-am-at-a-crossroads-im-37-and-have-1-3-million-do-i-stop-working-to-spend-time-with-my-young-kids-fb2f1b20?mod=mw_rss_topstories",
         "published_date": "Sat, 11 Apr 2026 00:32:00 GMT",
         "first_seen": "2026-04-11T05:56:12.613133"
+      },
+      "ec9316680c60e0e883a6b348d026260e39b2fa24277f7db7df68d18b4e457805": {
+        "title": "Peace talks present big test on global stage for JD Vance",
+        "link": "https://www.ft.com/content/d5c00c1b-0807-4f94-b181-4f3a50937540",
+        "published_date": "Sat, 11 Apr 2026 08:14:00 GMT",
+        "first_seen": "2026-04-11T08:34:40.824712"
+      },
+      "bec360d8029e7e2e7839fc4d2128486e9a5b16b922a8db8b0ac90d4badbbef31": {
+        "title": "JD Vance arrives in Pakistan for ‘positive’ peace talks with Iran",
+        "link": "https://www.ft.com/content/5a14a4dd-0042-46bf-bbdf-bc0cc19635b1",
+        "published_date": "Sat, 11 Apr 2026 06:32:00 GMT",
+        "first_seen": "2026-04-11T08:34:40.824727"
       }
     },
     "Ai": {
@@ -16618,8 +16660,8 @@
   },
   "last_update": {
     "AI": "2025-11-28T05:21:58.233094",
-    "Technology": "2026-04-11T05:56:12.876252",
-    "Finance": "2026-04-11T05:56:12.613135",
+    "Technology": "2026-04-11T08:34:41.059001",
+    "Finance": "2026-04-11T08:34:40.824731",
     "Ai": "2026-04-11T05:56:12.769740"
   }
 }
