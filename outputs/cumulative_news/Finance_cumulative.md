@@ -1,7 +1,68 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 23:37
+**最后更新时间**: 2026-04-24 13:17
+
+---
+
+## 🆕 最新更新 (2026-04-24 13:17)
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [White House Correspondents’ Dinner weekend gets ‘Hollywoodified’ as companies from CNN to Grindr host events](https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 12:59
+
+#### [Gas prices matter for households. They still look too low for Trump to give in to Iran right now.](https://www.marketwatch.com/story/gas-prices-matter-for-households-but-heres-why-they-still-look-too-low-for-trump-to-give-in-to-iran-right-now-e1f3c777?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 12:51
+
+#### [There’s never been a semiconductor rally like this one — and that’s triggering a number of warnings](https://www.marketwatch.com/story/theres-never-been-a-semiconductor-rally-like-this-one-and-thats-triggering-a-number-of-warnings-bf622cfa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 12:17
+
+#### [Intel’s stock extends its spectacular run — and could see its best daily gain on record](https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 12:10
+
+#### [Here’s a smart way to beat the U.S. stock market — and 10 ETFs to get you there](https://www.marketwatch.com/story/heres-a-smart-way-to-beat-the-u-s-stock-market-and-10-etfs-to-get-you-there-3c33aef6?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 11:55
+
+#### [Deliveries of a $300,000 flying car may be coming later this year](https://www.marketwatch.com/story/deliveries-of-a-300-000-flying-car-may-be-coming-later-this-year-f4a1299c?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 11:23
+
+#### [I will inherit my parents’ $1.5 million estate. Do I fire the adviser who charges a 3% fee?](https://www.marketwatch.com/story/some-stocks-have-risen-but-others-have-flopped-i-will-soon-inherit-my-parents-1-5-million-estate-do-i-fire-the-adviser-who-charges-a-3-fee-6b5b2caa?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 11:00
+
+#### [‘AI genuinely freaks me out’: Do I leave my cushy $150,000 nonprofit job for a $215,000 position in data analytics?](https://www.marketwatch.com/story/ai-genuinely-freaks-me-out-do-i-leave-my-150-000-job-for-a-215-000-role-in-data-analytics-with-a-50-minute-commute-440b4c36?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 10:15
+
+#### [The ‘simple math’ reason oil prices need to rise a lot more, according to JPMorgan](https://www.marketwatch.com/story/the-simple-math-why-oil-prices-need-to-rise-a-lot-more-according-to-jpmorgan-bd041c17?mod=mw_rss_topstories)
+**发布时间**: 2026-04-24 09:57
+
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [Big Four’s shrinkage at the top presages weakness at the bottom line](https://www.ft.com/content/33857eed-4e7b-4786-8412-f30a7557c411)
+**发布时间**: 2026-04-24 12:06
+
+#### [Mandelson row is a cold shower for civil service relations](https://www.ft.com/content/6be55885-bc5f-4010-ad6e-73c89a154c1b)
+**发布时间**: 2026-04-24 12:00
+
+#### [Why do I have so much in UK equities?](https://www.ft.com/content/4d0d1363-ea1d-40d4-941c-93186b73989d)
+**发布时间**: 2026-04-24 11:58
+
+#### [Polish PM questions whether US is ‘loyal’ to Europe’s defence](https://www.ft.com/content/1a5a2502-a45a-40c1-af6f-b30ecc34bacb)
+**发布时间**: 2026-04-24 08:38
+
+#### [Donald Trump and the remaking of America’s media order](https://www.ft.com/content/ea10b519-a805-461e-8a8d-3ee1751939bc)
+**发布时间**: 2026-04-24 04:00
+
+#### [Morgan McSweeney held talks with Google DeepMind over AI project](https://www.ft.com/content/c3a31801-be53-4b73-9a62-d71ac81110c9)
+**发布时间**: 2026-04-24 04:00
+
+#### [KPMG and EY demote partners in end of job-for-life model](https://www.ft.com/content/7de5ef19-88c5-459f-bff7-d27d55d685c6)
+**发布时间**: 2026-04-24 04:00
+
+#### [Banks charged sharply different fees for access to Anthropic investment](https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61)
+**发布时间**: 2026-04-24 04:00
+
+#### [Iranian foreign minister to travel to Islamabad as hopes for talks rise](https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e)
+**发布时间**: 2026-04-24 01:15
 
 ---
 

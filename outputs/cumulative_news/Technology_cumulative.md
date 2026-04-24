@@ -1,7 +1,150 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-04-23 23:37
+**最后更新时间**: 2026-04-24 13:17
+
+---
+
+## 🆕 最新更新 (2026-04-24 13:17)
+### 📰 来源: [InfoQ 中文网](https://www.infoq.cn/feed)
+
+#### [复杂的项目管理怎么做到「AI 友好」？飞书项目用「开放」给出答案](https://www.infoq.cn/article/ub0bHyfIRpbO61I876k2?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 19:18
+
+#### [Snowflake Cortex Code 的规范驱动开发：将 SDLC 方法论引入 AI 辅助工作流 ｜ 技术实践](https://www.infoq.cn/article/o8dh3dRH6Kk8vzrzKdJd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:51
+
+#### [Copilot 不让注册了：从“随便用”到“全面限”，agent 把原有订价模型顶穿了](https://www.infoq.cn/article/U3BlkMiBlgWgLiKFth4N?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:46
+
+#### [当互联网用AI卷效率时，这家公司先问了一连串“能不能”](https://www.infoq.cn/article/RKJhuuOzLMaZmtmc4Uvf?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:39
+
+#### [Meta 开始记录员工每一次点击：AI 要接管工作，先监控会工作的人](https://www.infoq.cn/article/ur7bvh7ayrDBPY1rTVtP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 18:34
+
+#### [Meta“Token榜”逼疯打工人，一夜烧掉公司几万刀！AI时代Token焦虑越来越离谱](https://www.infoq.cn/article/GPGgiqtS9tCiHjNkUOOd?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:59
+
+#### [智源FlagOS完成DeepSeek-V4-Flash在八款芯片Day0适配，实现三重技术突破](https://www.infoq.cn/article/ua0m0lj6zOcEI6GGge72?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:29
+
+#### [DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权](https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:23
+
+#### [李志飞的“新实验”：当超级个体撞上真实组织](https://www.infoq.cn/article/qIe3dSXY72rzF85NJM4j?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:20
+
+#### [GPT-5.5 登顶时刻，Anthropic 亲口承认 Claude 变笨了！网友群嘲：太敷衍](https://www.infoq.cn/article/6iDjLwYiOXIVwjl4taOP?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 17:17
+
+#### [那些没空写的小需求，龙虾真能做吗？](https://www.infoq.cn/video/WUXOyysFxiXtKcwgiafQ?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 16:55
+
+#### [从 Pandas 到生产：使用任意 IDE 进行可扩展的 ML 数据管道与分布式处理 ｜ BUILD 2025](https://www.infoq.cn/video/U9jS6r7F3UzxlBOu1XTo?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 16:10
+
+#### [pnpm 11 候选版本发布，带来 ESM 分发、供应链默认设置以及新的存储格式](https://www.infoq.cn/article/38YKrVbYKTkbxQLrgx7A?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 14:00
+
+#### [银行业PDF表格提取方案重构：基于Java的分层方案](https://www.infoq.cn/article/cmwDExlWdDas8WjhIgPx?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 12:00
+
+#### [GPT-5.5 赢了 Opus 4.7 和 Mythos？奥特曼晒黄仁勋内部信：英伟达全员用上 Codex！](https://www.infoq.cn/article/IjNk79KKJgTDDvO5OMAY?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 11:07
+
+#### [Cloudflare 推出 Think：一款面向 AI 代理的持久化运行时](https://www.infoq.cn/article/l2DH5C3modDof2u5DXlE?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 11:00
+
+#### [1850亿美元天价支出、75%代码由AI生成！谷歌正式宣告：全面转向智能体工作流](https://www.infoq.cn/article/JqSF1ckIU0gIx4OOByUD?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:11
+
+#### [xAI落后太多，马斯克“开大”重金求购Cursor，100亿美金“分手费”都敢签！](https://www.infoq.cn/article/1kS9ZTikmEsCTJFMBpN9?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:08
+
+#### [Pulumi 新增对 Bun 运行时的全面支持](https://www.infoq.cn/article/rQSULhvrw9hks4xBHS5d?utm_source=rss&utm_medium=article)
+**发布时间**: 2026-04-24 10:00
+
+### 📰 来源: [钛媒体](https://www.tmtpost.com/rss)
+
+#### [美股燃气轮机龙头订单爆满，中国厂商有哪些机会](https://www.tmtpost.com/7966472.html)
+**发布时间**: 2026-04-24 19:07
+
+#### [华为异军突起，速腾份额减少，激光雷达迎来双寡头时代](https://www.tmtpost.com/7965877.html)
+**发布时间**: 2026-04-24 18:58
+
+#### [狂飙之后，赚钱为王](https://www.tmtpost.com/7966471.html)
+**发布时间**: 2026-04-24 18:58
+
+#### [大疆VS影石双向博弈：手持相机赛道激战，手机巨头搅局](https://www.tmtpost.com/7966370.html)
+**发布时间**: 2026-04-24 18:57
+
+#### [合康新能的“任重”与“道远”](https://www.tmtpost.com/7966293.html)
+**发布时间**: 2026-04-24 18:57
+
+#### [国外买不到、国内卖不动，“小电驴”凭什么拿到双重剧本？](https://www.tmtpost.com/7966255.html)
+**发布时间**: 2026-04-24 18:52
+
+#### [对话地平线苏箐：做产品的人，第二天一醒过来又开始焦虑了](https://www.tmtpost.com/7966317.html)
+**发布时间**: 2026-04-24 18:51
+
+#### [短剧圈“军备竞赛”：狂撒30亿，撒钱、抢人、建闭环](https://www.tmtpost.com/7966456.html)
+**发布时间**: 2026-04-24 18:51
+
+#### [洲明科技“四个第一”难掩盈利困局，去年增收不增利，一季度由盈转亏丨看财报](https://www.tmtpost.com/7966437.html)
+**发布时间**: 2026-04-24 18:48
+
+#### [lululemon任命耐克前高管担任CEO；NNormal全球首店在成都开业；茶颜悦色正式进驻深圳｜消研所周报](https://www.tmtpost.com/7966407.html)
+**发布时间**: 2026-04-24 18:36
+
+#### [科大讯飞联合清华系团队，如何做一家“AI+量子”公司](https://www.tmtpost.com/7966322.html)
+**发布时间**: 2026-04-24 17:55
+
+#### [突发！代季峰与陈天桥矛盾激化，离职MiroMind真相曝光｜钛媒体独家](https://www.tmtpost.com/7965984.html)
+**发布时间**: 2026-04-24 17:21
+
+#### [冲击“全球最大智驾方案供应商”头衔，赵明和千里都在赌](https://www.tmtpost.com/7965748.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [罕见领涨银行股，贵阳银行“触底”了？](https://www.tmtpost.com/7965032.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [IPO前夜，云鲸开始紧急「补课」](https://www.tmtpost.com/7965929.html)
+**发布时间**: 2026-04-24 17:19
+
+#### [割草机器人增长63.8%，行业增速拐点逼近下Yarbo能否突出重围？｜出海爆品先知](https://www.tmtpost.com/7966120.html)
+**发布时间**: 2026-04-24 17:10
+
+#### [具身智能数据战：群核建道场，百度铺管道，京东搭舞台](https://www.tmtpost.com/7966140.html)
+**发布时间**: 2026-04-24 17:08
+
+#### [DeepSeek告别“孤胆英雄”时代](https://www.tmtpost.com/7966122.html)
+**发布时间**: 2026-04-24 17:07
+
+#### [“手搓”应用全民化，大厂打响新一轮卡位战](https://www.tmtpost.com/7966095.html)
+**发布时间**: 2026-04-24 17:03
+
+### 📰 来源: [少数派科技资讯](https://sspai.com/feed)
+
+#### [本周看什么 | 最近值得一看的 11 部作品](https://sspai.com/post/109050)
+**发布时间**: 2026-04-24 18:17
+
+#### [换了新显示器怎么验？我做了一个开箱即用的全平台屏幕检测工具](https://sspai.com/post/108455)
+**发布时间**: 2026-04-24 15:06
+
+#### [手机和平板间的新品类：华为 Pura X Max 漫谈](https://sspai.com/post/109024)
+**发布时间**: 2026-04-24 09:54
+
+#### [派早报：OpenAI 发布 GPT-5.5 系列模型等](https://sspai.com/post/109032)
+**发布时间**: 2026-04-24 08:52
+
+### 📰 来源: [逛逛Github](https://wechat2rss.bestblogs.dev/feed/38be32e5376d852c13d3383e4d7a757fd9a55ff6.xml)
+
+#### [DeepSeek V4 来了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533230&idx=1&sn=1516924587a358ab92c829ba86c4f2ff)
+**发布时间**: 2026-04-24 11:42
+
+#### [给 10 万 Star 的 Hermes 装个记忆外挂，AI 终于能越用越聪明了。](https://mp.weixin.qq.com/s?__biz=MzUxNjg4NDEzNA==&mid=2247533154&idx=1&sn=9a2f93eb586ab3300a3b08a92d229197)
+**发布时间**: 2026-04-23 15:04
 
 ---
 
