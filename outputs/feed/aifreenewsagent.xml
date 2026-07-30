@@ -5,8 +5,8 @@
     <link>https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml</link>
     <description>Ai 分类的最新新闻汇总，由 Free News Agent 自动生成，Gemini AI 筛选优质内容。</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 29 Jul 2026 23:53:00 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Jul 2026 23:55:13 GMT</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 07:27:00 GMT</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 07:29:30 GMT</lastBuildDate>
     <generator>News Agent RSS Generator v2.0 (Optimized)</generator>
     <follow_challenge>
       <feedId>217166864192638976</feedId>
@@ -14,11 +14,27 @@
     </follow_challenge>
     <atom:link href="https://zskksz.asia/News-Agent/feed/aifreenewsagent.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径</title>
-      <link>https://www.qbitai.com/2026/07/462943.html</link>
-      <description>&lt;![CDATA[中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径]]&gt;</description>
-      <pubDate>Wed, 29 Jul 2026 11:25:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462943.html</guid>
+      <title>2026-07-30日刊</title>
+      <link>https://hex2077.dev/docs/2026-07/2026-07-30/</link>
+      <description>&lt;![CDATA[2026-07-30日刊]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 10:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://hex2077.dev/docs/2026-07/2026-07-30/</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>WorkBuddy重大升级，AI时代的Office来了</title>
+      <link>https://www.qbitai.com/2026/07/462979.html</link>
+      <description>&lt;![CDATA[WorkBuddy重大升级，AI时代的Office来了]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 05:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462979.html</guid>
+      <category>Ai</category>
+    </item>
+    <item>
+      <title>这这这…翁荔光速回OpenAI上班了</title>
+      <link>https://www.qbitai.com/2026/07/462947.html</link>
+      <description>&lt;![CDATA[这这这…翁荔光速回OpenAI上班了]]&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 00:31:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.qbitai.com/2026/07/462947.html</guid>
       <category>Ai</category>
     </item>
   </channel>
