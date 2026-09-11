@@ -1,7 +1,74 @@
 # 累积新闻汇总
 
 **首次创建时间**: 2025-07-06 04:20
-**最后更新时间**: 2026-09-10 09:18
+**最后更新时间**: 2026-09-11 09:22
+
+---
+
+## 🆕 最新更新 (2026-09-11 09:22)
+### 📰 来源: [Financial Times](https://www.ft.com/?format=rss)
+
+#### [US diesel hits record $6 a gallon on Iran supply shock](https://www.ft.com/content/ebfa69a3-323b-450d-8bfd-0b12e01d2a5b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 07:56
+
+#### [Bond markets stabilise after global sell-off](https://www.ft.com/content/2c9ce5b0-32ae-4460-aa89-9c80eb05ee41?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 07:05
+
+#### [Bessent’s intervention risks damaging BoJ’s credibility, bankers warn](https://www.ft.com/content/f7ca7904-b0d8-428b-9bf7-883740ba9922?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 05:51
+
+#### [Trump-Vance’s midterm pitch: vote Republican or live with the ‘lunatics’](https://www.ft.com/content/b1b44515-1825-4164-ac83-659a74c9f553?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 04:27
+
+#### [Scott Bessent fails to break ‘fever’ in US bond market](https://www.ft.com/content/dd4cc4a0-844e-486a-b99c-b379d457019b?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 04:00
+
+#### [9/11 and the America it left behind](https://www.ft.com/content/bbdad57e-bd57-4c75-98b8-12fca7cbd268?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 04:00
+
+#### [Europe’s difficult choices on AI](https://www.ft.com/content/f054f927-b512-452a-b494-ea53f5ac1079)
+**发布时间**: 2026-09-11 04:00
+
+#### [Why Warsh is starting to bite back](https://www.ft.com/content/98bfd632-8778-4c48-97a0-ef78b11299cc?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 04:00
+
+#### [Iran and Gulf states to meet in push for Hormuz deal](https://www.ft.com/content/df2d9bcc-59f9-4122-aa4d-2020bef77e0e?syn-25a6b1a6=1)
+**发布时间**: 2026-09-11 04:00
+
+#### [Anthropic says it stopped scientists potentially developing bioweapons with AI](https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d?syn-25a6b1a6=1)
+**发布时间**: 2026-09-10 22:27
+
+### 📰 来源: [MarketWatch - Markets](https://feeds.content.dowjones.io/public/rss/mw_topstories)
+
+#### [Traditional portfolio diversification isn’t cutting it anymore. Here’s where to pivot, says this $624 billion fund manager.](https://www.marketwatch.com/story/traditional-portfolio-diversification-isnt-cutting-it-anymore-heres-where-to-pivot-says-this-624-billion-fund-manager-0b552566?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 07:19
+
+#### [Oracle’s AI bet pays off as cloud momentum helps drive a rosier forecast](https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 00:19
+
+#### [Adobe’s latest earnings leave Wall Street wanting more](https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories)
+**发布时间**: 2026-09-11 00:17
+
+#### [All the ways record-high diesel and rising gas prices are about to make your life more expensive — from commuting to grocery shopping](https://www.marketwatch.com/story/all-the-ways-record-high-diesel-and-rising-gas-prices-are-about-to-make-your-life-more-expensive-from-commuting-to-grocery-shopping-2083fec3?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:54
+
+#### [Want Apple’s $1,999 foldable iPhone Duo? Here’s what T-Mobile, AT&T and Verizon are doing to lower the cost.](https://www.marketwatch.com/story/want-apples-1-999-foldable-iphone-duo-heres-what-t-mobile-at-t-and-verizon-are-doing-to-lower-the-cost-6b2d3065?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:25
+
+#### [SpaceX is inching closer to this lofty $100 billion milestone](https://www.marketwatch.com/story/spacex-is-inching-closer-to-this-lofty-100-billion-milestone-11536cfc?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:19
+
+#### [Here are the stocks to favor in the fourth quarter — and those you should avoid](https://www.marketwatch.com/story/here-are-the-stocks-to-favor-in-the-fourth-quarter-and-those-you-should-avoid-cf2dd10b?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 22:02
+
+#### [Apple is walking a ‘tightrope’ when it comes to the prices of its new iPhones](https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:40
+
+#### [The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.](https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:39
+
+#### [Why $500 checks won’t help Americans facing 15% increases in Obamacare premiums next year](https://www.marketwatch.com/story/why-500-checks-wont-help-americans-facing-15-increases-in-obamacare-premiums-next-year-b8801cc4?mod=mw_rss_topstories)
+**发布时间**: 2026-09-10 20:26
 
 ---
 
